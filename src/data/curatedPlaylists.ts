@@ -12,6 +12,26 @@ export interface CuratedPlaylist {
 
 export const curatedPlaylists: CuratedPlaylist[] = [
   {
+    id: 'curated_kharus_ganesh_chaturthi',
+    name: 'Kharu’s Ganesh Chaturthi',
+    hindiName: 'खारू गणेश चतुर्थी विशेष',
+    subtitle: 'Classic festive singing order with Bappa, Shankar, Devi & Vitthal',
+    description: 'Special Ganesh Chaturthi sequence in sacred order: starting with Sukhkarta Dukhharta, followed by Lavthavti Vikrala, Durge Durgat Bhari, Yuge Atthavis, Yei Ho Vitthale, Sant Dnyaneshwar Aarti, Om Jai Jagdish Hare, and concluding with Ghalin Lotangan.',
+    badge: 'Special Sangrah',
+    iconName: 'Flame',
+    gradient: 'from-[#ea580c] to-[#991b1b]',
+    aartiIds: [
+      'mr_sukhkarta',
+      'mr_lavthavti',
+      'mr_durge_durgat',
+      'mr_yuge_atthavis',
+      'mr_yei_ho_vitthale',
+      'mr_dnyaneshwar',
+      'hi_om_jai_jagdish_hare',
+      'mr_ghalin_lotangan'
+    ]
+  },
+  {
     id: 'curated_daily_morning',
     name: 'Daily Morning Puja',
     hindiName: 'नित्य प्रातः पूजा',

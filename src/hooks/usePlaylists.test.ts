@@ -53,4 +53,27 @@ describe('usePlaylists', () => {
     const stored = JSON.parse(localStorage.getItem('aarti-playlists')!);
     expect(stored[0].name).toBe('New Festive Name');
   });
+
+  it('should have Kharu’s Ganesh Chaturthi curated playlist in exact requested order', () => {
+    const { result } = renderHook(() => usePlaylists());
+    const kharuPlaylist = curatedPlaylists.find(p => p.name === 'Kharu’s Ganesh Chaturthi');
+    expect(kharuPlaylist).toBeDefined();
+    expect(kharuPlaylist!.aartiIds).toEqual([
+      'mr_sukhkarta',
+      'mr_lavthavti',
+      'mr_durge_durgat',
+      'mr_yuge_atthavis',
+      'mr_yei_ho_vitthale',
+      'mr_dnyaneshwar',
+      'hi_om_jai_jagdish_hare',
+      'mr_ghalin_lotangan'
+    ]);
+
+    act(() => {
+      result.current.addCuratedPlaylist(kharuPlaylist!);
+    });
+
+    expect(result.current.playlists[0].name).toBe('Kharu’s Ganesh Chaturthi');
+    expect(result.current.playlists[0].aartiIds).toHaveLength(8);
+  });
 });
