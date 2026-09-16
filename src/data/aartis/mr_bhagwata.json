@@ -1,0 +1,59 @@
+{
+  "id": "mr_bhagwata",
+  "slug": "shrimad-bhagwatachi-aarti",
+  "title": "भागवताची आरती",
+  "alternativeTitles": ["Jaydev Shrimadbhagwata", "Bhagwata Aarti"],
+  "language": "mr",
+  "deity": "Bhagwan",
+  "category": "Mantra",
+  "durationMinutes": 3,
+  "searchKeywords": ["bhagwat", "bhagwatachi", "shrimadbhagwata", "aarti"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जयदेव जयदेव श्रीमद्भागवता ।",
+        "श्रवणें मननें पठणें भक्ती ये हाता ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "वेदाचें हें सार पाहे रसभरित ।",
+        "दशलक्षण हें आहे लक्षीत ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "द्वादश स्कंधामध्ये हरीची लीळा ।",
+        "तिनशें परिसस अध्ये गाती गोपाळा ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "अठरा सहस्र श्लोक गाती ऐकती ।",
+        "ज्यासी हरीभक्ती त्यासी तत्प्राप्ती ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "गायत्रीचें मंत्ररूप हें पाहें ।",
+        "परीक्षिति-शुकसंवाद आहे ।। ४ ।।"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "भागवतरूपी देवा तूंचि अहेसी ।",
+        "करूं ही आरति एका-जनार्दनासी ।। ५ ।।"
+      ]
+    }
+  ]
+}

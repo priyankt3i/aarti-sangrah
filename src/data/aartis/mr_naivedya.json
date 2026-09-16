@@ -1,0 +1,34 @@
+{
+  "id": "mr_naivedya",
+  "slug": "naivedya-aarti",
+  "title": "नैवेद्य",
+  "alternativeTitles": ["Sada Sarvada Yoga Tuza"],
+  "language": "mr",
+  "deity": "All",
+  "category": "Mantra",
+  "durationMinutes": 1,
+  "searchKeywords": ["naivedya", "sada", "sarvada", "yoga", "tuza"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "सदा सर्वदा योग तुझा घडावा ।",
+        "तुझे कारणी देह माझा पडावा ।",
+        "उपेक्षू नको गुणवंता अनंता ।",
+        "रघूनायका मागणे हेचि आता ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "उपासनेला दृढ चालवावे ।",
+        "भूदेव संतासी सदा नमावे ।",
+        "सत्कर्म योगे वय घालवावे ।",
+        "सर्वामुखी मंगल बोलवावे ।। २ ।।"
+      ]
+    }
+  ]
+}

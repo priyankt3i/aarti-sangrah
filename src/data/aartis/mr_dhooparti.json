@@ -1,0 +1,37 @@
+{
+  "id": "mr_dhooparti",
+  "slug": "dhooparti",
+  "title": "धूपारती",
+  "alternativeTitles": ["Dhup Aarti"],
+  "language": "mr",
+  "deity": "All",
+  "category": "Mantra",
+  "durationMinutes": 2,
+  "searchKeywords": ["dhoop", "aarti", "dhuparti"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "धूपारती करू चला । माझ्या रामा । माझ्या रामा ।",
+        "धूप दीप नैवेद्य । करू चला माझ्या रामा ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "दशांग धूप सुवासिक । माझ्या रामा ।",
+        "प्रगटला सुगंध अधिक । माझ्या रामा ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "एका जनार्दनी । माझ्या रामा ।",
+        "आनंदे वोवाळूनी । माझ्या रामा ।।"
+      ]
+    }
+  ]
+}

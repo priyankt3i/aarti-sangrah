@@ -1,0 +1,32 @@
+{
+  "id": "mr_shanti_mantra",
+  "slug": "shanti-mantra",
+  "title": "शांती मंत्र",
+  "alternativeTitles": ["Om Sahana Vavatu"],
+  "language": "mr",
+  "deity": "All",
+  "category": "Mantra",
+  "durationMinutes": 1,
+  "searchKeywords": ["shanti", "mantra", "sahana", "vavatu", "om"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै ।",
+        "तेजस्वि नावधीतमस्तु मा विद्विषावहै ।",
+        "ॐ शान्तिः शान्तिः शान्तिः ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।",
+        "सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् ।",
+        "ॐ शान्तिः शान्तिः शान्तिः ॥"
+      ]
+    }
+  ]
+}

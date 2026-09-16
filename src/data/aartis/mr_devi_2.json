@@ -1,0 +1,42 @@
+{
+  "id": "mr_devi_2",
+  "slug": "shri-devi-aarti-2",
+  "title": "श्री देवी आरती २",
+  "alternativeTitles": ["Jay Devi Jay Devi Jay Mahishasuramardini"],
+  "language": "mr",
+  "deity": "Durga",
+  "category": "Devi",
+  "durationMinutes": 3,
+  "searchKeywords": ["devi", "durga", "mahishasuramardini", "navratri"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देवी जय देवी महिषासुरमर्दिनी ।",
+        "सुरवरईश्वरवरदे तारक भवानी ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "त्रिभुवनभुवनी पाहता तुजऐसी नाही ।",
+        "चारी श्रमले परंतु न बोलवे काही ।",
+        "साही विवाद करिता पडले प्रवाही ।",
+        "ते तू भक्तालागी पावसी लवलाही ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "प्रसन्न वदने प्रसन्न होसी निजदासा ।",
+        "क्लेशापासूनि सोडवी तोडी भवपाशा ।",
+        "अंबे तुजवाचून कोण पुरवील आशा ।",
+        "नरहरी तल्लीन झाला पदपंकजलेशा ।। २ ।।"
+      ]
+    }
+  ]
+}

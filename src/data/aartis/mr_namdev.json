@@ -1,0 +1,38 @@
+{
+  "id": "mr_namdev",
+  "slug": "shri-namdev-aarti",
+  "title": "श्री नामदेव आरती",
+  "alternativeTitles": ["Aarti Namdeva", "Namdev Aarti"],
+  "language": "mr",
+  "deity": "Namdev",
+  "category": "Saints",
+  "durationMinutes": 2,
+  "searchKeywords": ["namdev", "namdeva", "pandharpur", "saint", "varkari"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती नामदेवा । मुनिजनविश्रामा ।",
+        "सकळसंतसख्या । पंढरीनिवासा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "नामदेव कीर्तन करी । पुढें देव नाचे पांडुरंग ।",
+        "जनी म्हणे देवा । माझा नाम्या रंगला ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "निर्गुणाचे भेटी । आलो सगुणाचे संगे ।",
+        "तुकयाबंधु म्हणे । नाम्या तारिले जगीं ।। २ ।।"
+      ]
+    }
+  ]
+}

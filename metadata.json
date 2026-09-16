@@ -1,0 +1,6 @@
+{
+  "name": "Aarti Sangrah",
+  "description": "A beautiful app for discovering and singing Indian devotional Aartis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

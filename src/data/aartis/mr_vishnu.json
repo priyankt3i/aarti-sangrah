@@ -1,0 +1,46 @@
+{
+  "id": "mr_vishnu",
+  "slug": "shri-vishnuchi-aarti",
+  "title": "श्री विष्णूची आरती",
+  "alternativeTitles": ["Santasanakadik Bhakt", "Vishnu Aarti Marathi"],
+  "language": "mr",
+  "deity": "Vishnu",
+  "category": "Vishnu",
+  "durationMinutes": 3,
+  "searchKeywords": ["vishnu", "santasanakadik", "keshava", "narayan"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "नवल होताहे आरती देवाधिदेवा ।",
+        "स्वर्गीहुनी सुरवर पाहूं येती केशवा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "संतसनकादिक भक्त मिळाले अनेक ।",
+        "स्वानंदें गर्जती पाहूं आले कौतुक ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "नर नारी तटस्थ टक पडिलें नयना ।",
+        "ओवाळीतां श्रीमुख धणी न पुरे मना ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "एका जनार्दनीं मंगल आरत्या गाती ।",
+        "मंगल कौतुकें गाती ।",
+        "मिळाले वैष्णव जयजयकारें गर्जती ।। ३ ।।"
+      ]
+    }
+  ]
+}

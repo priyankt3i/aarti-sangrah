@@ -1,0 +1,49 @@
+{
+  "id": "hi_bhairav_ji",
+  "slug": "jai-bhairav-deva",
+  "title": "भैरव जी की आरती",
+  "alternativeTitles": ["Jai Bhairav Deva", "Bhairav Aarti Hindi"],
+  "language": "hi",
+  "deity": "Shiva",
+  "category": "Shiva",
+  "durationMinutes": 3,
+  "searchKeywords": ["bhairav", "bhairo", "deva", "batuk", "kalbhairav"],
+  "source": "Hindi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय भैरव देवा, प्रभु जय भैरव देवा ।",
+        "जय काली और गौरा, तुमको नित सेवत ॥",
+        "जय भैरव देवा ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सकल जगत के त्राता, काशी कोतवाला ।",
+        "त्रिशूल डमरू धारक, गल मुंडन माला ॥",
+        "जय भैरव देवा ॥ १ ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "बटुक भैरव रूपा, रूप अति विकराला ।",
+        "काक वाहन सोहे, श्वान अनुगामी ॥",
+        "जय भैरव देवा ॥ २ ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "जो नर करे आरती, संकट कट जावे ।",
+        "मनवांछित फल पाकर, सुख शांति पावे ॥",
+        "जय भैरव देवा ॥ ३ ॥"
+      ]
+    }
+  ]
+}

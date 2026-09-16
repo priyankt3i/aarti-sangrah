@@ -1,0 +1,52 @@
+{
+  "id": "mr_shanidev",
+  "slug": "shri-shanidev-aarti",
+  "title": "श्री शनिदेव आरती",
+  "alternativeTitles": ["Jay Jay Shri Shanideva", "Shanidev Aarti"],
+  "language": "mr",
+  "deity": "Shanidev",
+  "category": "Mantra",
+  "durationMinutes": 3,
+  "searchKeywords": ["shani", "shanidev", "shaniwar", "surya", "sadesati"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय जय श्रीशनिदेवा पद्मकर शिरीं ठेवा ।",
+        "आरती ओवाळितो करितो तव सेवा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सूर्यसुता शनिदेवा नीलांजनकांती ।",
+        "मंदगती धावसी भक्तांच्या भ्रांती ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "काकवाहन तुज प्रिय लोह प्रिय अती ।",
+        "तैलाभिषेक करितां संकटे हरती ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "साडेसातीचा फेरा सोडविसी देवा ।",
+        "चरणकमळीं ठेविली भक्तिभावे सेवा ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "दीनदयाळा शनी कृपा आम्हां करीं ।",
+        "भवभय नासोनि निजपदीं उद्धरीं ।। ४ ।।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hi_tulsi_mata",
+  "slug": "jai-jai-tulsi-mata",
+  "title": "जय जय तुलसी माता",
+  "alternativeTitles": ["Jai Jai Tulsi Mata", "Tulsi Aarti Hindi"],
+  "language": "hi",
+  "deity": "Tulsi",
+  "category": "Devi",
+  "durationMinutes": 3,
+  "searchKeywords": ["tulsi", "mata", "vrinda", "jai", "shaligram", "devi"],
+  "source": "Hindi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय जय तुलसी माता, मैया जय तुलसी माता ।",
+        "सब जग की सुखदात्री, सबकी वरमाता ॥",
+        "जय जय तुलसी माता ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सब योगों से ऊपर, सब रोगों से पर ।",
+        "रज से रज रज तरिये, शरण पड़े जो नर ॥",
+        "जय जय तुलसी माता ॥ १ ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "बटु पुत्री हे श्यामा, सुर मुनि वंद्या हो ।",
+        "विष्णुप्रिया जग जननी, अति पावन काया हो ॥",
+        "जय जय तुलसी माता ॥ २ ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "धूप दीप फल नैवेद्य, आरती जो गावे ।",
+        "अष्ट सिद्धि नवनिधि, सो सहजहि पावे ॥",
+        "जय जय तुलसी माता ॥ ३ ॥"
+      ]
+    }
+  ]
+}

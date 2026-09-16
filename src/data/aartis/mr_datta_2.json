@@ -1,0 +1,45 @@
+{
+  "id": "mr_datta_2",
+  "slug": "shri-datta-aarti-2",
+  "title": "श्री दत्त आरती २",
+  "alternativeTitles": ["Aarti Swami Datta", "Datta Aarti 2"],
+  "language": "mr",
+  "deity": "Dattatreya",
+  "category": "Dattatreya",
+  "durationMinutes": 3,
+  "searchKeywords": ["datta", "dattatreya", "gurudeva", "datta aarti 2", "aarti swami datta"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती स्वामीदत्ता । आरती स्वामीदत्ता ।",
+        "अघहरणा तू तारक भक्ता ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "अत्रीच्या कुळी जन्मसी । माय अनुसया मातेसी ।",
+        "अवतार घेऊनी कैसी । लीला दाविसी जगासी ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "दत्त दिगंबर रूप । पाहता हरेल पाप ।",
+        "त्रैमूर्ती अवतार । भक्तासी देई ताप ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "एका जनार्दनी । चरणी मस्तक ठेविले ।",
+        "तुझे रूप पाहुनी । मन माझे रमिले ।। ३ ।।"
+      ]
+    }
+  ]
+}

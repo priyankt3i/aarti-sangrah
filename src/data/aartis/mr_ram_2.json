@@ -1,0 +1,52 @@
+{
+  "id": "mr_ram_2",
+  "slug": "shri-ram-aarti-2",
+  "title": "श्री राम आरती २",
+  "alternativeTitles": ["Aarti Ramraya", "Ram Aarti 2"],
+  "language": "mr",
+  "deity": "Rama",
+  "category": "Rama",
+  "durationMinutes": 3,
+  "searchKeywords": ["ram", "rama", "ramchandra", "ramraya", "dashrath"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती रामराया । आरती रामराया ।",
+        "दशरथनंदना तव चरणी लागू पाया ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "कौसल्येचा बाळ । रूप साजिरा वेळ ।",
+        "लक्ष्मण भरत शत्रुघ्न । खेळती एका वेळ ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "विश्वामित्रासंगे । केले ताटिकावध ।",
+        "अहिल्या उद्धरिली । लागता पद ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "सीता स्वयंवरी । शिवधनुष्य मोडिले ।",
+        "जनकनंदिनीसी । लग्न ते लाविले ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "एका जनार्दनी । राम प्रभूची कीर्ती ।",
+        "वानिता न पुरे । शेष शिवाची स्तुती ।। ४ ।।"
+      ]
+    }
+  ]
+}

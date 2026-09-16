@@ -1,0 +1,38 @@
+{
+  "id": "mr_tukaram",
+  "slug": "aarti-tukarama",
+  "title": "श्री तुकारामांची आरती",
+  "alternativeTitles": ["Aarti Tukarama", "Tukaram Aarti"],
+  "language": "mr",
+  "deity": "Tukaram",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["tukaram", "tukarama", "dehuka", "saint", "varkari"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती तुकारामा । स्वामी सद्गुरुधामा ।।",
+        "सच्चिदानंद मूर्ती । पाय दाखवी आम्हां ।। धृ ।। "
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "राघवें सागरांत । पाषाण तारीले ।।",
+        "तैसे हे तुकोबाचे । अभंग उदकीं रक्षिले ।। १ ।। "
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "तुकितां तुलनेसी । ब्रह्म तुकासी आलें ।।",
+        "म्हणुनी रामेश्वरें । चरणीं मस्तक ठेविलें ।। २ ।। "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mr_vyankatesh",
+  "slug": "shri-vyankatesh-aarti",
+  "title": "श्री व्यंकटेश आरती",
+  "alternativeTitles": ["Sheshachal Avatar", "Vyankatesha Aarti"],
+  "language": "mr",
+  "deity": "Vishnu",
+  "category": "Vishnu",
+  "durationMinutes": 3,
+  "searchKeywords": ["vyankatesh", "venkateshwara", "balaji", "sheshachal", "vishnu"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय व्यंकटेशा ।",
+        "केवळ करुणासिंधू पुरवीसी आशा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "शेषाचल अवतार तारक तूं देवा ।",
+        "सुरवरमुनिवर भावें करिती जन सेवा ।।",
+        "कमळारमणा अससी अगणित गुण ठेवा ।",
+        "कमळाक्षा मज रक्षुनि सत्वर वर द्यावा ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "हें निजवैकुंठ म्हणुनि ध्यातों मी तूतें ।",
+        "दाखविसी गुण कैसे सकळिक लोकांतें ।।",
+        "देखुनि तुझें स्वरूप सुख अद्भुत होतें ।",
+        "ध्यातों तुजला श्रीपति दृढ मानस होतें ।। २ ।।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "mr_jyotiba",
+  "slug": "shri-jyotiba-aarti",
+  "title": "श्री जोतिबा आरती",
+  "alternativeTitles": ["Jay Dev Jyotirlinga", "Wadichya Jyotibachi Aarti"],
+  "language": "mr",
+  "deity": "Shiva",
+  "category": "Shiva",
+  "durationMinutes": 3,
+  "searchKeywords": ["jyotiba", "wadi", "ratnagiri", "kolhapur", "gulal", "jyotirlinga"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय ज्योतिर्लिंगा ।",
+        "वाडीच्या जोतिबा पावे मज सवंगा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "कोल्हापूर प्रांतीं वाडी रत्नागिरी ।",
+        "अवतार घेतलासी दख्खनच्या गिरीं ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "गुलाल खोबऱ्याची उधळण करिती ।",
+        "घोडा पाचुचा गळां रुळे मोत्यांची माला ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "भक्तां संकटीं धावूनी पावसी ।",
+        "किमया दाखविसी निज दासासी ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "विष्णूदास नामा जोतिबासी ध्याये ।",
+        "सदा सर्वदा वंदी तव पाये ।। ४ ।।"
+      ]
+    }
+  ]
+}

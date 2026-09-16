@@ -1,0 +1,45 @@
+{
+  "id": "mr_dnyaneshwar_2",
+  "slug": "shri-dnyaneshwar-aarti-2",
+  "title": "श्री ज्ञानेश्वर आरती २",
+  "alternativeTitles": ["Aarti Dnyanraja", "Dnyaneshwar Aarti 2"],
+  "language": "mr",
+  "deity": "Dnyaneshwar",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["dnyaneshwar", "dnyanraja", "aarti", "alandi", "mauli"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती ज्ञानराजा । महाकैवल्यतेजा ।",
+        "सेविती साधुसंत । मनु वेधला माझा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "लोपले ज्ञान जगीं । हित नेणती कोणी ।",
+        "अवतार पांडुरंग । नाम ठेविले ज्ञानी ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "कनकाचे ताट करीं । उभ्या गोपिका नारी ।",
+        "नारद तुंबरहो । साम गायन करी ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "प्रगट गुह्य बोले । विश्व ब्रह्मचि केलें ।",
+        "रामा जनार्दनी । पायीं मस्तक ठेविलें ।। ३ ।।"
+      ]
+    }
+  ]
+}

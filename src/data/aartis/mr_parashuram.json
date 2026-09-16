@@ -1,0 +1,38 @@
+{
+  "id": "mr_parashuram",
+  "slug": "shri-parashuram-aarti",
+  "title": "श्री परशुराम आरती",
+  "alternativeTitles": ["Jay Dev Parashurama", "Parashuram Aarti"],
+  "language": "mr",
+  "deity": "Vishnu",
+  "category": "Vishnu",
+  "durationMinutes": 3,
+  "searchKeywords": ["parashuram", "jamadagni", "konkan", "avatar", "vishnu"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय परशुरामा ।",
+        "जमदग्निसुता वीरा रेणुकासुत सुखधामा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सहस्रार्जुनाचा संहार । केला परशु हातीं ।",
+        "निक्षत्रीय केली पृथ्वी । ब्राह्मणां दान दिधली ख्याती ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "कोकण भूमी निर्मिली । बाण मारिला सिंधूवरी ।",
+        "चिरंजीव महामुनी । वंदितो महेन्द्रगिरी ।। २ ।।"
+      ]
+    }
+  ]
+}

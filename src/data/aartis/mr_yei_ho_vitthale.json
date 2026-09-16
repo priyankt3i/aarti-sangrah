@@ -1,0 +1,52 @@
+{
+  "id": "mr_yei_ho_vitthale",
+  "slug": "yei-ho-vitthale",
+  "title": "येई हो विठ्ठले",
+  "alternativeTitles": ["Yei Ho Vitthale", "Yei Ho Vitthale Majhe Mauli Ye"],
+  "language": "mr",
+  "deity": "Vitthal",
+  "category": "Vitthal",
+  "durationMinutes": 3,
+  "searchKeywords": ["yei", "ho", "vitthale", "majhe", "mauli", "pandharpur", "vithoba"],
+  "source": "User Provided",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T18:00:00Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "येई हो विठ्ठले माझे माउली ये",
+        "निढळावरी कर ठेवूनि वाट मी पाहे ॥ धृ ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "आलिया गेलिया हाती धाडी निरोप",
+        "पंढरपुरी आहे माझा मायबाप ॥ १ ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "पिवळा पितांबर कैसा गगनी झळकला",
+        "गरुडावरि बैसोनि माझा कैवारी आला ॥ २ ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "विठोबाचे राज्य आम्हा नित्य दीपवाळी",
+        "विष्णुदास नामा जीवे भावे ओवाळी ॥ ३ ॥"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "असो नसो भाव आम्हां तुझिया ठाया",
+        "कृपादृष्टी पाहे माझ्या पंढरीराया ॥ ४ ॥"
+      ]
+    }
+  ]
+}

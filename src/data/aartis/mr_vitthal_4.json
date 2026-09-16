@@ -1,0 +1,38 @@
+{
+  "id": "mr_vitthal_4",
+  "slug": "shri-vitthal-aarti-4",
+  "title": "श्री विठ्ठल आरती ४",
+  "alternativeTitles": ["Aarti Anantabhuja", "Vitthal Aarti 4"],
+  "language": "mr",
+  "deity": "Vitthal",
+  "category": "Vitthal",
+  "durationMinutes": 2,
+  "searchKeywords": ["vitthal", "pandurang", "anantabhuja", "aarti"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती अनंतभुजा । विठो पंढरीराजा ।।",
+        "न चलती उपचार । मनें सारिली पूजा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "परेस पार नाहीं । न पडे निगमा ठायीं ।।",
+        "भुलला भक्तिभावें । लाहो घेतला देहीं ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "अनिर्वाच्य शुद्ध बुद्ध । उभा राहिला नीट ।।",
+        "रामाजनार्दनीं । पायीं जोडिली वीट ।। २ ।।"
+      ]
+    }
+  ]
+}

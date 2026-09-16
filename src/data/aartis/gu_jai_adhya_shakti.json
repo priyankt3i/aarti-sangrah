@@ -1,0 +1,39 @@
+{
+  "id": "gu_jai_adhya_shakti",
+  "slug": "jai-adhya-shakti",
+  "title": "જય આદ્ય શક્તિ (Sample)",
+  "alternativeTitles": [
+    "Jai Adhya Shakti",
+    "Ambe Aarti"
+  ],
+  "language": "gu",
+  "deity": "Devi",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "ambe",
+    "mata",
+    "adhya",
+    "shakti",
+    "navratri"
+  ],
+  "reviewed": false,
+  "updatedAt": "2026-09-16T18:20:39.634Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "જય આદ્ય શક્તિ મા જય આદ્ય શક્તિ",
+        "અખંડ બ્રહ્માંડ દીપાવ્યા, પડવે પ્રગટ્યા મા",
+        "ઓમ જયો જયો માં જગદંબે"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "(This is a placeholder for the complete Gujarati Aarti.",
+        "Please verify and update with full lyrics.)"
+      ]
+    }
+  ]
+}

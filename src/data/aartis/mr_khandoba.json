@@ -1,0 +1,51 @@
+{
+  "id": "mr_khandoba",
+  "slug": "shri-khandobachi-aarti",
+  "title": "श्री खंडोबाची आरती",
+  "alternativeTitles": ["Jay Dev Jay Dev Jay Shiv Malhari", "Khandoba Aarti"],
+  "language": "mr",
+  "deity": "Khandoba",
+  "category": "Khandoba",
+  "durationMinutes": 3,
+  "searchKeywords": ["khandoba", "malhari", "panchanan", "jejuri", "shiv malhari"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय शिव मल्हारी ।",
+        "वारीं दुर्जन असुरां भवदुस्तर तारी ।। जय देव ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "पंचानन हयवाहन सुरभूषितनीळा ।",
+        "खंडामंडित दंडित दानव अवलीळा ।",
+        "मणिमल्लां मर्दुनियां जों धूसुर पिवळा ।",
+        "हिरे कंकण बासिंगे सुमनांच्या माळा ।। १ ।। "
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "सुरवर संवर वर दे मजलागी देवा ।",
+        "नाना नामे गाईन ही तुमची सेवा ।",
+        "अघटित गुण गावया वाटतसे हेवा ।",
+        "फणिवर शिणला किती नर पामर केवा ।। २ ।। "
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "रघुवीरस्मरणी शंकर हृदयीं निवाला ।",
+        "तो हा मल्लंतक अवतार झाला ।",
+        "यालागीं आवडे भाव वर्णिला ।",
+        "रामी रामदासा जिवलग भेडला ।। ३ ।। "
+      ]
+    }
+  ]
+}

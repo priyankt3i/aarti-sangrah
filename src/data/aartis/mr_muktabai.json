@@ -1,0 +1,38 @@
+{
+  "id": "mr_muktabai",
+  "slug": "sant-muktabai-aarti",
+  "title": "संत मुक्ताबाई आरती",
+  "alternativeTitles": ["Aarti Muktabai", "Muktai Aarti"],
+  "language": "mr",
+  "deity": "Muktabai",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["muktabai", "muktai", "saint", "edlabad", "tatiche abhang"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती मुक्ताबाई । ज्ञानियांची धाकुली ताई ।",
+        "ताटीचे अभंग गाऊनी । ज्ञानदेवा चेतविसी लवलाही ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "लहानपणी विरक्ती मोठी । ब्रह्मज्ञान वसे कंठी ।",
+        "गोरक्षनाथांची भेट । केली तापीतीराच्या तटी ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "मुक्ताबाई महायोगिनी । मुक्ताबाई माझी माउली ।",
+        "नामदेव चरणी लीन । कृपा तुझी मज लाभली ।। २ ।।"
+      ]
+    }
+  ]
+}

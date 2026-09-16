@@ -1,0 +1,45 @@
+{
+  "id": "mr_shejarati",
+  "slug": "shejarati-vitthal",
+  "title": "शेजारती",
+  "alternativeTitles": ["Aata Swami Sukhe Nidra Kara Gopala", "Shej Aarti"],
+  "language": "mr",
+  "deity": "Vitthal",
+  "category": "Vitthal",
+  "durationMinutes": 3,
+  "searchKeywords": ["shejarati", "shej", "aata swami", "nidra", "vitthal", "pandurang"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आतां स्वामी सुखें निद्रा करा गोपाळा ।",
+        "पुरविलें मनोरथ पुरविली कळकळा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "दिसभर श्रमलासी भक्तांच्या संगे ।",
+        "गोकुळीं गाई राखिल्या श्रीरंगे ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "चंदनाची शेज केलीसे मनोहर ।",
+        "पुष्पांच्या मखरांत निज रे सुंदर ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "राही रखुमाबाई चरणांशी सेवा ।",
+        "नामदेव ओवाळी विठ्ठल जीवा ।। ३ ।।"
+      ]
+    }
+  ]
+}

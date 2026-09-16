@@ -1,0 +1,45 @@
+{
+  "id": "mr_krishna_2",
+  "slug": "shri-krishna-aarti-2",
+  "title": "श्री कृष्णाची आरती २",
+  "alternativeTitles": ["Hari Chala Mandira", "Shri Krishna Aarti 2"],
+  "language": "mr",
+  "deity": "Krishna",
+  "category": "Krishna",
+  "durationMinutes": 2,
+  "searchKeywords": ["krishna", "hari", "mandira", "radhika", "gopika"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "हरि चला मंदिरा ऐशा म्हणती गोपिका म्हणती राधिका ।",
+        "भावें ओवाळिती यदुकुलतिलका ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "एकीकडे राई एकीकडे रखुमाई ।",
+        "भावे ओवाळिता हरिमी तूं होसी दो ठाई ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "अष्टाधिक सोळा सहस्र ज्याच्या सुंदरा ज्याच्या सुंदरा ।",
+        "जिणे जिणें प्रार्थिलें जासी तियेच्या घरा ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "एका जनार्दनी हरी तूं लाघवी होसी ।",
+        "इतक्याही भोगुनी ब्रह्मचारी म्हणवीसी ।। ३ ।।"
+      ]
+    }
+  ]
+}

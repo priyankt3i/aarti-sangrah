@@ -1,0 +1,23 @@
+{
+  "id": "mr_karpur_gauram",
+  "slug": "karpur-gauram",
+  "title": "कर्पूर आरती",
+  "alternativeTitles": ["Karpur Gauram Karunavtaram"],
+  "language": "mr",
+  "deity": "Shiva",
+  "category": "Mantra",
+  "durationMinutes": 1,
+  "searchKeywords": ["karpur", "gauram", "aarti", "shiva"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "कर्पूरगौरं करुणावतारं । संसारसारं भुजगेन्द्रहारम् ।",
+        "सदा वसन्तं हृदयारविन्दे । भवं भवानीसहितं नमामि ।।"
+      ]
+    }
+  ]
+}

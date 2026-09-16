@@ -1,0 +1,45 @@
+{
+  "id": "mr_krishna_4",
+  "slug": "shri-krishna-aarti-4",
+  "title": "श्री कृष्णाची आरती ४",
+  "alternativeTitles": ["Kakad Aarti Majhya", "Shri Krishna Aarti 4"],
+  "language": "mr",
+  "deity": "Krishna",
+  "category": "Krishna",
+  "durationMinutes": 2,
+  "searchKeywords": ["krishna", "kakad aarti", "sahasradipen", "deep", "kaisi"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "कांकड आरति माझ्या कृष्ण सभागिया ।",
+        "चराचर मोहरलें तुझी मूर्ती पहाया ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सहस्रदीपें दीप कैसी प्रकाशाळी प्रभा ।",
+        "उजळल्या दशदिशा गगना आलीसे शोभा ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "कोंदलेंसे तेज प्रभा झालीसे एक ।",
+        "नित्य नवा आनंद ओवाळितां श्रीमुख ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "आरति करितां तेज प्रकाशलें नयनीं ।",
+        "तेणें तेजें मीनला एका एकीं जनार्दनीं ।। ३ ।।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bn_lokkhi_mayer_panchali",
+  "slug": "lokkhi-panchali-sample",
+  "title": "লক্ষ্মী পাঁচালী (Sample)",
+  "alternativeTitles": [
+    "Lokkhi Panchali",
+    "Lakshmi Vandana"
+  ],
+  "language": "bn",
+  "deity": "Devi",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "lokkhi",
+    "lakshmi",
+    "panchali",
+    "devi"
+  ],
+  "reviewed": false,
+  "updatedAt": "2026-09-16T18:20:39.634Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "এসো মা লক্ষ্মী বসো ঘরে,",
+        "আমার এ ঘরে থাকো আলো করে।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "(This is a placeholder for the complete Bengali Aarti.",
+        "Please verify and update with full lyrics.)"
+      ]
+    }
+  ]
+}

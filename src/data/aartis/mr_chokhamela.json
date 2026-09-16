@@ -1,0 +1,38 @@
+{
+  "id": "mr_chokhamela",
+  "slug": "sant-chokhamela-aarti",
+  "title": "संत चोखामेळा आरती",
+  "alternativeTitles": ["Aarti Chokhyachi", "Chokhamela Aarti"],
+  "language": "mr",
+  "deity": "Chokhamela",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["chokhamela", "chokhoba", "pandharpur", "varkari", "saint"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती चोखोबाराया । भक्तशिरोमणी सदया ।",
+        "विठ्ठलचरणीं लीन झालासी । पंढरीच्या महाद्वारीं ठाया ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "देह जरी हीन कुळीं । भाव निर्मळ विठ्ठलीं ।",
+        "विठ्ठल धावे आवडीनें । चोख्याची हाक ऐकली ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "मंगळवेढ्या बांधता तट । अस्थींतूनि विठ्ठल नाद ।",
+        "नामदेवे ओळखिला । संत चोखोबा अगाध ।। २ ।।"
+      ]
+    }
+  ]
+}

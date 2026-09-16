@@ -1,0 +1,44 @@
+{
+  "id": "mr_manobodhachi",
+  "slug": "manobodhachi-aarti",
+  "title": "मनोबोधाची आरती",
+  "alternativeTitles": ["Vedanche Je Guhya", "Manobodhachi Aarti"],
+  "language": "mr",
+  "deity": "Mantra",
+  "category": "Mantra",
+  "durationMinutes": 2,
+  "searchKeywords": ["manobodh", "manobodhachi", "vedanche", "guhya", "shastrache"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "वेदांचें जें गुह्य शास्त्रांचें जें सार ।",
+        "प्राकृत शब्दांमाजी केला विस्तार ।",
+        "कर्म उपासना ज्ञान गंभीर ।",
+        "ज्याच्या मननमात्रें आत्मा गोचर ।। १ ।।"
+      ]
+    },
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय मनोबोधा ।",
+        "पंचप्राणें आरति तुज स्वात्मशुद्धा ।।",
+        "जय देव जय देव ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "दोन शतें पांच श्लोक हे जाण ।",
+        "श्रवणें अर्थें साधक पावति हे खूण ।।",
+        "परमार्थासी सुलभ मार्ग हा पूर्ण ।",
+        "यशवंत सद्गुरु दासाचा प्राण ।।",
+        "जय देव जय देव ।।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "mr_kakad_aarti",
+  "slug": "kakad-aarti-vitthal",
+  "title": "काकड आरती (विठ्ठल)",
+  "alternativeTitles": ["Utha Panduranga Aata", "Vitthal Kakad Aarti"],
+  "language": "mr",
+  "deity": "Vitthal",
+  "category": "Vitthal",
+  "durationMinutes": 3,
+  "searchKeywords": ["kakad", "aarti", "vitthal", "pandurang", "utha", "panduranga"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "उठा पांडुरंगा आतां दर्शन द्या सकळां ।",
+        "झाला अरुणोदय सरली निद्रेची वेळा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "संत साधू मुनी अवघे झालेती गोळा ।",
+        "सोडा शेजे सुख आतां बघूं द्या मुखकमळा ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "रंगमंडपी महाद्वारीं झालीसे दाटी ।",
+        "मन उतावीळ रूप पहावया दिठी ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "राही रखुमाबाई तुम्हां येऊ द्या दया ।",
+        "शेजे हालवुनि जागें करा देवराया ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "गरुड हनुमंत उभे पाहती वाट ।",
+        "स्वर्गीचे सुरवर घेउनी आलेती थाट ।। ४ ।।"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "झालें मुक्तद्वार लाभ झाला रोकडा ।",
+        "विष्णुदास नामा उभा घेऊनी काकडा ।। ५ ।।"
+      ]
+    }
+  ]
+}

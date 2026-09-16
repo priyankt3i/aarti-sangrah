@@ -1,0 +1,52 @@
+{
+  "id": "mr_shiv_2",
+  "slug": "shri-shiv-aarti-2",
+  "title": "श्री शिव आरती २",
+  "alternativeTitles": ["Aarti Shivraja", "Shiv Aarti 2"],
+  "language": "mr",
+  "deity": "Shiva",
+  "category": "Shiva",
+  "durationMinutes": 3,
+  "searchKeywords": ["shiv", "shiva", "shankar", "mahadev", "shivraja"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती शिवराजा । आरती शिवराजा ।",
+        "तुजविण कोण करील भक्तांच्या काजा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "कैलासीचा राणा । भस्मासुरा वर दिला ।",
+        "आपुल्या मस्तकावर । हात ठेऊनि भस्म झाला ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "त्रिपुर दहनासी । मेरू धनुष्य केले ।",
+        "वाण लावुनी एक । त्रैलोक्य रक्षिले ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "मार्कंडेयासाठी । यम दंडिला ।",
+        "भक्त रक्षणार्थ । प्रगटला ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "नामा म्हणे ऐसा । भोळा चक्रवर्ती ।",
+        "चरणी मस्तक ठेविले । देई शांती ।। ४ ।।"
+      ]
+    }
+  ]
+}

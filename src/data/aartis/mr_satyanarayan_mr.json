@@ -1,0 +1,59 @@
+{
+  "id": "mr_satyanarayan_mr",
+  "slug": "shri-satyanarayan-aarti-marathi",
+  "title": "श्री सत्यनारायण आरती",
+  "alternativeTitles": ["Jay Dev Jay Dev Shri Satyanarayana", "Satyanarayan Aarti Marathi"],
+  "language": "mr",
+  "deity": "Vishnu",
+  "category": "Vishnu",
+  "durationMinutes": 3,
+  "searchKeywords": ["satyanarayan", "pooja", "satyanarayana", "vishnu", "marathi"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव श्रीसत्यनारायणा ।",
+        "आरती ओवाळू पाहू सुंदर वदना ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "कलियुगीं हा अवतार । भक्तां संकटीं तारी ।",
+        "नानापरीचे भोग । अर्पू तुज भारी ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "ब्राह्मण रूप घेऊनी । दर्शन दिधले ।",
+        "साधू वाण्यासी । रक्षण केले ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "लीलावती माता । कलावती कन्या ।",
+        "भक्तीभावे करिती । व्रत ते तत्त्वता ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "प्रसाद घेऊनी । पतीलागी गेली ।",
+        "सत्यनारायणे । कृपा तये केली ।। ४ ।।"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "शतानंद विप्र । करितो आरती ।",
+        "सत्यनारायणाची । महिमा वर्णीती ।। ५ ।।"
+      ]
+    }
+  ]
+}

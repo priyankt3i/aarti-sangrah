@@ -1,0 +1,60 @@
+{
+  "id": "mr_gajanan_maharaj",
+  "slug": "shri-gajanan-maharaj-aarti",
+  "title": "श्री गजानन महाराज आरती",
+  "alternativeTitles": ["Jay Jay Satchitswarupa", "Gajanan Maharaj Aarti"],
+  "language": "mr",
+  "deity": "Gajanan Maharaj",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["gajanan", "maharaj", "shegaon", "jay jay satchitswarupa", "ganu"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय गजानना ।",
+        "सद्गुरु गजानना ।",
+        "आरती ओवाळू चरणकरकमला ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "जय जय सत्चित्स्वरूपा स्वामी गणराया ।",
+        "अवतरलासी भूवर जड-मूढ ताराया ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "निर्गुण ब्रह्म सनातन अव्यय अविनाशी ।",
+        "स्थिरचर व्यापून उरले जे या जगताशी ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "ते तूं तत्त्व खरोखर नि:संशय अससी ।",
+        "लीलामात्रें धरिलें मानव देहासी ।। ३ ।।"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "भक्तजनांस्तव माते तूं हे वसविलें ।",
+        "शेगांव-ग्राम अतीव पुण्यमय केलें ।। ४ ।।"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "दास गणू म्हणे स्वामी कृपा करीं आम्हां ।",
+        "सकळिक जनांसी रक्षीं पावुनियां प्रेमा ।। ५ ।।"
+      ]
+    }
+  ]
+}

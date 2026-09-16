@@ -1,0 +1,59 @@
+{
+  "id": "mr_krishna_madangopala",
+  "slug": "shri-krishna-aarti-1",
+  "title": "श्री कृष्णाची आरती (ओवाळूं आरती)",
+  "alternativeTitles": ["Owalu Aarti Madangopala", "Shri Krishna Aarti 1"],
+  "language": "mr",
+  "deity": "Krishna",
+  "category": "Krishna",
+  "durationMinutes": 3,
+  "searchKeywords": ["krishna", "madangopala", "owalu", "aarti", "vaijayantimala"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "ओवाळूं आरती मदनगोपाळा ।",
+        "श्यामसुंदर गळा वैजयंतीमाळा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "चरणकमल ज्याचे अति सुकुमार ।",
+        "ध्वजवज्रांकुश ब्रीदाते तोडर ।। १ ।। "
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "नाभिकमळीं ज्याचें ब्रह्माचें स्थान ।",
+        "हृदया पदक शोभे श्रीवत्सलांछन ।। २ ।। "
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "मुखकमल पाहातां सूर्याच्याकोटी ।",
+        "मोहियेलें मानस कोंदियली दृष्टी ।। ३ ।। "
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "जडितमुगुट ज्याच्या देदीप्यमान ।",
+        "तेणें तेजें कोंदलें अवघे त्रिभुवन ।। ४ ।। "
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "एका जनार्दनीं देखियले रूप ।",
+        "रूप पाहों जातां झालेंसें तद्रूप ।। ५ ।। "
+      ]
+    }
+  ]
+}

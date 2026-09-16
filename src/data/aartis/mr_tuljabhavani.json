@@ -1,0 +1,45 @@
+{
+  "id": "mr_tuljabhavani",
+  "slug": "shri-tuljabhavani-aarti",
+  "title": "श्री तुळजाभवानी आरती",
+  "alternativeTitles": ["Jay Devi Jay Tuljabhavani", "Tuljabhavani Aarti"],
+  "language": "mr",
+  "deity": "Durga",
+  "category": "Devi",
+  "durationMinutes": 3,
+  "searchKeywords": ["tuljabhavani", "bhavani", "tuljapur", "devi", "durga"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देवी जय देवी जय तुळजाभवानी ।",
+        "आरती ओवाळूं तुज भवानी ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "तुळजापुरीं वससी भक्तांच्या काजा ।",
+        "कौतुके ओवाळिती तुज ग सुरराजा ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "महिषासुरमर्दिनी दुर्गे दुर्घटतारिणी ।",
+        "दैत्यांसि संहारीं त्रिशूळ धारिणी ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "रामदास वंदितो चरणकमळासी ।",
+        "सदा सर्वदा रक्षीं आपुल्या दासांसी ।। ३ ।।"
+      ]
+    }
+  ]
+}

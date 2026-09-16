@@ -1,0 +1,42 @@
+{
+  "id": "mr_atmaramachi",
+  "slug": "shri-atmaramachi-aarti",
+  "title": "श्री आत्मारामाची आरती",
+  "alternativeTitles": ["Jay Dev Jay Dev Atmarama", "Atmaramachi Aarti"],
+  "language": "mr",
+  "deity": "Atmaram",
+  "category": "Mantra",
+  "durationMinutes": 2,
+  "searchKeywords": ["atmarama", "atmaramachi", "nana", "dehi", "dev"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "नानादेहीं देव एक विराजे ।",
+        "नाना नाटकलीला सुंदर रूप साजे ।",
+        "नाना तीर्थीं क्षेत्रीं अभिनव गति माजे ।",
+        "अगाध महिमा पिंड ब्रह्मांडीं गाजे ।। १ ।।"
+      ]
+    },
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय आत्मारामा ।",
+        "निगमागम शोधिता न कळे गुणसीमा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "बहुरूपी बहुगुणी बहुतां काळाचा ।",
+        "हरिहर ब्रह्मादिक देव सकळाचा ।",
+        "युगानुयुगीं आत्माराम आमुचा ।",
+        "दास म्हणे महिमा न बोलवे वाचा ।। जय ।। २ ।।"
+      ]
+    }
+  ]
+}

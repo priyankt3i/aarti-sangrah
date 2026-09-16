@@ -1,0 +1,37 @@
+{
+  "id": "mr_pradakshina",
+  "slug": "pradakshina-mantra",
+  "title": "प्रदक्षिणा",
+  "alternativeTitles": ["Yani Kani Cha Papani"],
+  "language": "mr",
+  "deity": "All",
+  "category": "Mantra",
+  "durationMinutes": 1,
+  "searchKeywords": ["pradakshina", "mantra", "yani kani", "papani"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "यानि कानि च पापानि जन्मान्तरकृतानि च ।",
+        "तानि तानि विनश्यन्ति प्रदक्षिणपदे पदे ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "पापोऽहं पापकर्माहं पापात्मा पापसंभवः ।",
+        "त्राहि मां कृपया देव शरणागतवत्सल ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "अन्यथा शरणं नास्ति त्वमेव शरणं मम ।",
+        "तस्मात्कारुण्यभावेन रक्ष माम् परमेश्वर ।।"
+      ]
+    }
+  ]
+}

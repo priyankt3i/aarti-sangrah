@@ -1,0 +1,38 @@
+{
+  "id": "mr_nivruttinath",
+  "slug": "shri-nivruttinath-aarti",
+  "title": "श्री निवृत्तिनाथ आरती",
+  "alternativeTitles": ["Aarti Nivruttinatha", "Nivruttinath Aarti"],
+  "language": "mr",
+  "deity": "Nivruttinath",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["nivruttinath", "tryambakeshwar", "saint", "varkari", "dnyaneshwar"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती निवृत्तिनाथा । ज्ञानगंगोत्रीच्या ताता ।",
+        "त्र्यंबकेश्वरवासी स्वामी । चरणी ठेविला माथा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "गहिनीनाथांचा अनुग्रह । लाधलासी तुज थोर ।",
+        "ज्ञानदेवा उपदेशिला । ब्रह्मविद्येचा विचार ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "चारही भावंडे धन्य । वारकरी संप्रदायीं ।",
+        "कल्याणाचे मूळ तूंचि । निवृत्तीराया पायीं ।। २ ।।"
+      ]
+    }
+  ]
+}

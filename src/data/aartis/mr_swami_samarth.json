@@ -1,0 +1,41 @@
+{
+  "id": "mr_swami_samarth",
+  "slug": "shri-swami-samarth-aarti",
+  "title": "श्री स्वामी समर्थ आरती",
+  "alternativeTitles": ["Jay Dev Shri Swami Samartha", "Swami Samarth Aarti"],
+  "language": "mr",
+  "deity": "Swami Samarth",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["swami", "samarth", "akkalkot", "jay dev shri swami samartha"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव श्रीस्वामीसमर्था ।",
+        "आरती ओवाळू चरणीं ठेऊनि माथा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "छेडियलीं पदपंकजें भवरोगवैद्या ।",
+        "दीनदयाळा नाथा अक्कलकोटस्था ।",
+        "तुझे दर्शन होतां जाती यमपंथा ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "अज्ञानतिमिरनाशक तूं रविकिरणा ।",
+        "अतर्क्य तव लीला न कळे या जनना ।",
+        "शरण आलों तुजलागीं श्रीगुरुराया ।",
+        "तव पदपंकज रक्षी दासा ह्या ठायां ।। २ ।।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mr_kalbhairav",
+  "slug": "shri-kalbhairav-aarti",
+  "title": "श्री काळभैरव आरती",
+  "alternativeTitles": ["Jay Dev Kalbhairava", "Bhairav Aarti"],
+  "language": "mr",
+  "deity": "Shiva",
+  "category": "Shiva",
+  "durationMinutes": 3,
+  "searchKeywords": ["kalbhairav", "bhairav", "kashi", "kotwal", "shiva"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय काळभैरवा ।",
+        "आरती ओवाळूं तुज आदिदेवा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "काशीचा कोतवाल त्रिशूळ डमरू हातीं ।",
+        "काळाचाही काळ भक्तां रक्षणार्थी ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "श्वानवाहन शोभे दिगंबर वेषा ।",
+        "भस्म अंगीं चर्चिलें नाशी दुर्वासा ।। २ ।।"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "शरण आलों तुजला देई अभयदान ।",
+        "भैरवाच्या चरणीं लीन भक्तांचे मन ।। ३ ।।"
+      ]
+    }
+  ]
+}

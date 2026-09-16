@@ -1,0 +1,38 @@
+{
+  "id": "mr_sopandev",
+  "slug": "sant-sopandev-aarti",
+  "title": "संत सोपानदेव आरती",
+  "alternativeTitles": ["Aarti Sopandeva", "Sopankaka Aarti"],
+  "language": "mr",
+  "deity": "Sopandev",
+  "category": "Saints",
+  "durationMinutes": 3,
+  "searchKeywords": ["sopandev", "sopankaka", "saswad", "saint", "varkari"],
+  "source": "Marathi Aarti Sangrah",
+  "reviewed": true,
+  "updatedAt": "2026-09-16T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "आरती सोपानदेवा । सासवडनिवासी जीवा ।",
+        "ज्ञानियांचा बंधू राजा । चरणीं भावें करितो सेवा ।। धृ ।।"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "सोपानकाका अवधूत । कऱ्हेच्या तीरावरती ।",
+        "समाधिस्थ योगिराज । भक्तां संकटीं तारीती ।। १ ।।"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "सोपानदेवांची आरती । जो कोणी गाईल चित्ती ।",
+        "त्यासी लाभे मोक्षपद । नामदेव वंदी नित्य भक्ती ।। २ ।।"
+      ]
+    }
+  ]
+}
