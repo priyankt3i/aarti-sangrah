@@ -62,7 +62,9 @@ export function usePreferences() {
     setPreferences(prev => {
       const updated = { ...prev, [key]: value };
       localStorage.setItem(PREF_KEY, JSON.stringify(updated));
-      window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: updated }));
+      setTimeout(() => {
+        window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: updated }));
+      }, 0);
       return updated;
     });
   }, []);
@@ -70,7 +72,9 @@ export function usePreferences() {
   const resetPreferences = useCallback(() => {
     setPreferences(defaultPreferences);
     localStorage.setItem(PREF_KEY, JSON.stringify(defaultPreferences));
-    window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: defaultPreferences }));
+    setTimeout(() => {
+      window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: defaultPreferences }));
+    }, 0);
   }, []);
 
   return { preferences, updatePreference, resetPreferences };
