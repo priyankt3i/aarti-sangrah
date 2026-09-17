@@ -28,6 +28,9 @@
       "isChorus": true,
       "lines": [
         "आरती दशावतारा । जय जय जगदुद्धारा ।। धृ ।।"
+      ],
+      "transliteratedLines": [
+        "Arati Dashavatara । Jaya Jaya Jagaduddhara ।। Dhru ।।"
       ]
     },
     {
@@ -35,6 +38,10 @@
       "lines": [
         "मत्स्यरूपीं तूं नारायण । शंखासुरा मारून ।",
         "वेद आणिले चोरून । सत्यव्रतासी तारून ।। १ ।।"
+      ],
+      "transliteratedLines": [
+        "Matsyarupin Tun Narayana । Shankhasura Maruna ।",
+        "Veda Anile Choruna । Satyavratasi Taruna ।। 1 ।।"
       ]
     },
     {
@@ -42,6 +49,10 @@
       "lines": [
         "कूर्मावतारीं तूं देवा । मंदार पर्वत वाहिला ।",
         "सुरासुरांअमृताचा । वांटा सुरवर दिधला ।। २ ।।"
+      ],
+      "transliteratedLines": [
+        "Kurmavatarin Tun Deva । Mandara Parvata Vahila ।",
+        "Surasuranamrutacha । Vanta Suravara Didhala ।। 2 ।।"
       ]
     },
     {
@@ -49,6 +60,10 @@
       "lines": [
         "वराहरूपीं नारायण । हिरण्याक्षा मारून ।",
         "पृथ्वी आणिली दाढेवर । भक्त प्रल्हाद तारून ।। ३ ।।"
+      ],
+      "transliteratedLines": [
+        "Varaharupin Narayana । Hiranyaksha Maruna ।",
+        "Pruthvi Anili Dadhevara । Bhakta Pralhada Taruna ।। 3 ।।"
       ]
     },
     {
@@ -56,6 +71,10 @@
       "lines": [
         "नरसिंह अवतार । खांबीं प्रगटला ।",
         "हिरण्यकशिपू मारून । प्रल्हाद रक्षिळा ।। ४ ।।"
+      ],
+      "transliteratedLines": [
+        "Narasinha Avatara । Khanbin Pragatala ।",
+        "Hiranyakashipu Maruna । Pralhada Rakshiḻa ।। 4 ।।"
       ]
     },
     {
@@ -63,6 +82,10 @@
       "lines": [
         "वामन अवतारीं देवा । बळीच्या द्वारा गेलासी ।",
         "त्रिपाद भूमी मागून । पाताळीं घातलासी ।। ५ ।।"
+      ],
+      "transliteratedLines": [
+        "Vamana Avatarin Deva । Baḻichya Dvara Gelasi ।",
+        "Tripada Bhumi Maguna । Pataḻin Ghatalasi ।। 5 ।।"
       ]
     },
     {
@@ -70,6 +93,10 @@
       "lines": [
         "परशुराम अवतारीं । निक्षत्री पृथ्वी केली ।",
         "सहस्रार्जुना मारून । रेणुका माउली रक्षिली ।। ६ ।।"
+      ],
+      "transliteratedLines": [
+        "Parashurama Avatarin । Nikshatri Pruthvi Keli ।",
+        "Sahasrarjuna Maruna । Renuka Mauli Rakshili ।। 6 ।।"
       ]
     },
     {
@@ -77,6 +104,10 @@
       "lines": [
         "राम अवतारी देवा । रावण मारिला ।",
         "सीता आणून । अयोध्येसी राज्य केला ।। ७ ।।"
+      ],
+      "transliteratedLines": [
+        "Rama Avatari Deva । Ravana Marila ।",
+        "Sita Anuna । Ayodhyesi Rajya Kela ।। 7 ।।"
       ]
     },
     {
@@ -84,6 +115,10 @@
       "lines": [
         "कृष्ण अवतारीं देवा । कंस मारिला ।",
         "कौरवांचा नाश करून । पांडवा रक्षिळा ।। ८ ।।"
+      ],
+      "transliteratedLines": [
+        "Krushna Avatarin Deva । Kansa Marila ।",
+        "Kauravancha Nasha Karuna । Pandava Rakshiḻa ।। 8 ।।"
       ]
     },
     {
@@ -91,6 +126,10 @@
       "lines": [
         "बौद्ध अवतारीं देवा । मौन धरियले ।",
         "अहिंसेचा उपदेश । लोकां दिधला ।। ९ ।।"
+      ],
+      "transliteratedLines": [
+        "Bauddha Avatarin Deva । Mauna Dhariyale ।",
+        "Ahinsecha Upadesha । Lokan Didhala ।। 9 ।।"
       ]
     },
     {
@@ -98,6 +137,10 @@
       "lines": [
         "कलंकी अवतारीं देवा । म्लेच्छ मारिले ।",
         "विष्णूदास नामा । स्वामी तुझे पदीं नम्र झाले ।। १० ।।"
+      ],
+      "transliteratedLines": [
+        "Kalanki Avatarin Deva । Mlechchha Marile ।",
+        "Vishnudasa Nama । Svami Tujhe Padin Namra Jhale ।। 10 ।।"
       ]
     }
   ],

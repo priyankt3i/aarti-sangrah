@@ -1,6 +1,6 @@
 import { useEffect, useState, useMemo } from 'react';
 import { useParams, useNavigate, useSearchParams, Link } from 'react-router-dom';
-import { ChevronLeft, Share2, Heart, Smartphone, ArrowRight, FileText } from 'lucide-react';
+import { ChevronLeft, Share2, Heart, Smartphone, ArrowRight, FileText, Languages } from 'lucide-react';
 import { aartis } from '../data/aartis';
 import { usePreferences } from '../hooks/usePreferences';
 import { useFavorites } from '../hooks/useFavorites';
@@ -108,6 +108,19 @@ export function AartiReader() {
             <ChevronLeft size={28} />
           </button>
           <div className="flex gap-1 items-center">
+            <button
+              onClick={() => updatePreference('showTransliteration', !preferences.showTransliteration)}
+              className={cn(
+                "p-2 rounded-full transition-colors flex items-center gap-2",
+                preferences.showTransliteration 
+                  ? "bg-[#781f19]/10 text-[#781f19] dark:bg-[#ffb067]/10 dark:text-[#ffb067]" 
+                  : "text-[#8a6b6b] dark:text-[#a09c9c] hover:bg-black/5 dark:hover:bg-white/5"
+              )}
+              aria-label="Toggle English Transliteration"
+              title="Toggle English Transliteration"
+            >
+              <Languages size={22} />
+            </button>
             <button 
               onClick={() => setWakeLockActiveLocal(!wakeLockActiveLocal)}
               className={cn(
@@ -144,8 +157,8 @@ export function AartiReader() {
       {/* Content */}
       <main className="max-w-2xl mx-auto px-4 mt-6">
         <div className="text-center mb-10">
-          <h1 className={cn("text-3xl sm:text-4xl font-semibold text-[#781f19] dark:text-[#ff8a65] mb-2", getFontFamily())}>
-            {aarti.title}
+          <h1 className={cn("text-3xl sm:text-4xl font-semibold text-[#781f19] dark:text-[#ff8a65] mb-2", !preferences.showTransliteration && getFontFamily())}>
+            {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
           </h1>
           <p className="text-[#8a6b6b] dark:text-[#a09c9c]">
             {aarti.deity} • ~{aarti.durationMinutes} mins
@@ -170,9 +183,9 @@ export function AartiReader() {
         </div>
 
         <div 
-          className={cn("space-y-8 pb-10 text-center leading-relaxed", getFontFamily())}
+          className={cn("space-y-8 pb-10 text-center leading-relaxed", !preferences.showTransliteration && getFontFamily())}
           style={{ fontSize: `${fontSize}px`, lineHeight: 1.8 }}
-          lang={aarti.language}
+          lang={preferences.showTransliteration ? 'en' : aarti.language}
         >
           {aarti.verses.map((verse, vIndex) => (
             <div 
@@ -182,7 +195,7 @@ export function AartiReader() {
                 verse.isChorus ? "text-[#c2410c] dark:text-[#ffb067] font-medium" : "text-[#4a1515] dark:text-[#f3e7d3]"
               )}
             >
-              {verse.lines.map((line, lIndex) => (
+              {(preferences.showTransliteration && verse.transliteratedLines ? verse.transliteratedLines : verse.lines).map((line, lIndex) => (
                 <p key={lIndex} className="min-h-[1.5em]">{line}</p>
               ))}
             </div>

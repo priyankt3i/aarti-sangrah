@@ -25,6 +25,9 @@
       "isChorus": true,
       "lines": [
         "आरती भुवनसुंदराची । इंदिरावर मुकुंदाची ।। धृ ।।"
+      ],
+      "transliteratedLines": [
+        "Arati Bhuvanasundarachi । Indiravara Mukundachi ।। Dhru ।।"
       ]
     },
     {
@@ -35,6 +38,13 @@
         "ऋचालप्र वर्तुळ गुल्फ भ्राजमाने । किंकिणीक्वणितरु",
         "नाद घणघणितरु बांकिवर झुणितरु नेपुरें झनन",
         "मंजिरीची । झनन ध्वनी मंजिरीची ।। १ ।।"
+      ],
+      "transliteratedLines": [
+        "Padmasama Padayugmaranga । Ovaḻani Hoti Bhrunga ।",
+        "Nakhamani Shravatahe Ganga । Je Kan Trividhatapabhanga ।।",
+        "Ruchalapra Vartuḻa Gulpha Bhrajamane । Kinkinikvanitaru",
+        "Nada Ghanaghanitaru Bankivara Jhunitaru Nepuren Jhanana",
+        "Manjirichi । Jhanana Dhvani Manjirichi ।। 1 ।।"
       ]
     },
     {
@@ -46,6 +56,14 @@
         "कुंकुगळां माळ विलम्बितरु झळाळ कौस्तुभरु",
         "सरळ बाहु श्रिवत्स तरल मणि मरळ कंकणाची ।",
         "प्रीति बहुरु जडित कंकणाची ।। २ ।।"
+      ],
+      "transliteratedLines": [
+        "Pitapata Hatakataptavarni । Kanchi Nitanbasusthanin ।",
+        "Nabhichi Agadha Ho Karani । Vishvajanakachi Je Janani ।।",
+        "Ruchalapra Trivalilalita Udarashobha ।",
+        "Kunkugaḻan Maḻa Vilambitaru Jhaḻaḻa Kaustubharu",
+        "Saraḻa Bahu Shrivatsa Tarala Mani Maraḻa Kankanachi ।",
+        "Priti Bahuru Jadita Kankanachi ।। 2 ।।"
       ]
     },
     {
@@ -57,6 +75,14 @@
         "कुटिल कुंतलीरु मधुरपत्रावली वेष्टिलीरु",
         "तिलक भालिंरु केशरी झळाळित कृष्णकस्तुरीची ।",
         "अक्षता काळी कस्तुरीची ।। ३ ।।"
+      ],
+      "transliteratedLines": [
+        "Indusama Asya Kundaradana । Adhararunankabinbavadana ।",
+        "Pahatan Bhranti Pade Madana । Sajalameghabdhi Daityadamana ।।",
+        "Ruchalapra Jhaḻakata Maharakundalabha ।",
+        "Kutila Kuntaliru Madhurapatravali Veshtiliru",
+        "Tilaka Bhalinru Keshari Jhaḻaḻita Krushnakasturichi ।",
+        "Akshata Kaḻi Kasturichi ।। 3 ।।"
       ]
     },
     {
@@ -67,6 +93,13 @@
         "ऋचालप्र मंजुळ मधुर मुरलिनदें ।",
         "चकित गंधर्वरु चकित अप्सरारु सुरागिरिवाररु",
         "धरा कर्पुरारतीनें प्रेमयुक्त सची ।"
+      ],
+      "transliteratedLines": [
+        "Kalpadrumataḻi Murti । Saudamini Kotidipti ।",
+        "Gopigopavalayabhavanti । Trivishtapa Pushpavrushti Kariti ।।",
+        "Ruchalapra Manjuḻa Madhura Muralinaden ।",
+        "Chakita Gandharvaru Chakita Apsararu Suragirivararu",
+        "Dhara Karpuraratinen Premayukta Sachi ।"
       ]
     }
   ],

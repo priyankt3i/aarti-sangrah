@@ -33,6 +33,12 @@
         "डोळ्यानी पाहीन रूप तुझे",
         "प्रेमे आलिंगीन, आनंदे पूजीन",
         "भावे ओवळींन म्हणे नामा"
+      ],
+      "transliteratedLines": [
+        "Ghalina Lotangana, Vandina Charana",
+        "Doḻyani Pahina Rupa Tujhe",
+        "Preme Alingina, Anande Pujina",
+        "Bhave Ovaḻinna Mhane Nama"
       ]
     },
     {
@@ -42,6 +48,12 @@
         "त्वमेव बंधुश्च, सखा त्वमेव",
         "त्वमेव विद्या, द्रविणम त्वमेव",
         "त्वमेव सर्वंमम देव-देव"
+      ],
+      "transliteratedLines": [
+        "Tvameva Matacha, Pita Tvameva",
+        "Tvameva Bandhushcha, Sakha Tvameva",
+        "Tvameva Vidya, Dravinama Tvameva",
+        "Tvameva Sarvanmama Deva-deva"
       ]
     },
     {
@@ -51,6 +63,12 @@
         "बुद्धयात्मनावा प्रकृती स्वभावा",
         "करोमियज्ञम सकलम परस्मे",
         "नारायणायति समर्पयामि"
+      ],
+      "transliteratedLines": [
+        "Kayenavacha Manasendriyerava",
+        "Buddhayatmanava Prakruti Svabhava",
+        "Karomiyajnyama Sakalama Parasme",
+        "Narayanayati Samarpayami"
       ]
     },
     {
@@ -60,6 +78,12 @@
         "कृष्णदामोदरम, वासुदेवम हरि",
         "श्रीधरम माधवंगोपिकावल्लभम",
         "जानकीनायकम रामचंद्रभजे"
+      ],
+      "transliteratedLines": [
+        "Achyutama, Keshavama, Ramanarayanama",
+        "Krushnadamodarama, Vasudevama Hari",
+        "Shridharama Madhavangopikavallabhama",
+        "Janakinayakama Ramachandrabhaje"
       ]
     },
     {
@@ -68,6 +92,10 @@
       "lines": [
         "हरे राम, हरे राम, राम-राम हरे-हरे",
         "हरे कृष्ण, हरे कृष्ण, कृष्ण-कृष्ण हरे-हरे"
+      ],
+      "transliteratedLines": [
+        "Hare Rama, Hare Rama, Rama-rama Hare-hare",
+        "Hare Krushna, Hare Krushna, Krushna-krushna Hare-hare"
       ]
     }
   ],

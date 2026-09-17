@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import type { MouseEvent } from 'react';
 import { Aarti } from '../types';
 import { cn } from '../lib/utils';
+import { usePreferences } from '../hooks/usePreferences';
 
 interface AartiCardProps {
   key?: string | number;
@@ -13,6 +14,7 @@ interface AartiCardProps {
 }
 
 export function AartiCard({ aarti, isFavorite, onToggleFavorite, onAddToPlaylist }: AartiCardProps) {
+  const { preferences } = usePreferences();
   const langLabel = {
     hi: 'हिंदी',
     mr: 'मराठी',
@@ -27,8 +29,8 @@ export function AartiCard({ aarti, isFavorite, onToggleFavorite, onAddToPlaylist
     >
       <div className="flex justify-between items-start mb-2">
         <div className="flex-1 pr-4">
-          <h3 className="text-xl font-medium text-[#781f19] dark:text-[#ff8a65] font-[Noto_Sans_Devanagari]">
-            {aarti.title}
+          <h3 className={cn("text-xl font-medium text-[#781f19] dark:text-[#ff8a65]", !preferences.showTransliteration && "font-[Noto_Sans_Devanagari]")}>
+            {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
           </h3>
           <p className="text-sm text-[#8a6b6b] dark:text-[#a09c9c] mt-1">
             {aarti.deity} • {langLabel}

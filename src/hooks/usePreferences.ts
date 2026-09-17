@@ -7,6 +7,7 @@ const defaultPreferences: Preferences = {
   autoScrollSpeed: 2,
   keepAwake: true,
   reducedMotion: false,
+  showTransliteration: false,
 };
 
 export function usePreferences() {

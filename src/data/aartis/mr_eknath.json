@@ -26,12 +26,18 @@
       "isChorus": true,
       "lines": [
         "त्रिभुवनीं तूंचि थोर । जगद्गुरु जगन्नाथा ।। धृ ।।"
+      ],
+      "transliteratedLines": [
+        "Tribhuvanin Tunchi Thora । Jagadguru Jagannatha ।। Dhru ।।"
       ]
     },
     {
       "id": "v1",
       "lines": [
         "आरती एकनाथा । महाराजा समर्था ।"
+      ],
+      "transliteratedLines": [
+        "Arati Ekanatha । Maharaja Samartha ।"
       ]
     },
     {
@@ -39,6 +45,10 @@
       "lines": [
         "एकनाथ नाम सार । वेदशास्त्रांचें गूज ।",
         "संसारदुःख नास । महामंत्राचें बीज ।। १ ।। "
+      ],
+      "transliteratedLines": [
+        "Ekanatha Nama Sara । Vedashastranchen Guja ।",
+        "Sansaraduhkha Nasa । Mahamantrachen Bija ।। 1 ।। "
       ]
     },
     {
@@ -46,6 +56,10 @@
       "lines": [
         "एकनाथ नाम घेतां । सुख वाटलें चित्ता ।",
         "अनंत गोपाळदासा । धणी न पुरे गातां ।। २ ।। "
+      ],
+      "transliteratedLines": [
+        "Ekanatha Nama Ghetan । Sukha Vatalen Chitta ।",
+        "Ananta Gopaḻadasa । Dhani Na Pure Gatan ।। 2 ।। "
       ]
     }
   ],

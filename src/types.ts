@@ -3,6 +3,7 @@ export type LanguageCode = "hi" | "mr" | "gu" | "bn";
 export type AartiVerse = {
   id: string;
   lines: string[];
+  transliteratedLines?: string[];
   isChorus?: boolean;
 };
 
@@ -29,6 +30,7 @@ export type Preferences = {
   autoScrollSpeed: number; // 1 to 3 (Slow, Medium, Fast)
   keepAwake: boolean;
   reducedMotion: boolean;
+  showTransliteration: boolean;
 };
 
 export type Playlist = {
