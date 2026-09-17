@@ -10,10 +10,13 @@ const defaultPreferences: Preferences = {
   showTransliteration: false,
 };
 
+const PREF_KEY = 'aarti_preferences';
+const PREF_EVENT = 'aarti_preferences_changed';
+
 export function usePreferences() {
   const [preferences, setPreferences] = useState<Preferences>(() => {
     try {
-      const stored = localStorage.getItem('aarti_preferences');
+      const stored = localStorage.getItem(PREF_KEY);
       if (stored) {
         const parsed = JSON.parse(stored);
         if (parsed.fontSize === 24) {
@@ -35,15 +38,39 @@ export function usePreferences() {
   });
 
   useEffect(() => {
-    localStorage.setItem('aarti_preferences', JSON.stringify(preferences));
-  }, [preferences]);
+    const handleStorageChange = (e: StorageEvent) => {
+      if (e.key === PREF_KEY && e.newValue) {
+        setPreferences(JSON.parse(e.newValue));
+      }
+    };
+    
+    const handleCustomEvent = (e: Event) => {
+      const customEvent = e as CustomEvent<Preferences>;
+      setPreferences(customEvent.detail);
+    };
+
+    window.addEventListener('storage', handleStorageChange);
+    window.addEventListener(PREF_EVENT, handleCustomEvent);
+    
+    return () => {
+      window.removeEventListener('storage', handleStorageChange);
+      window.removeEventListener(PREF_EVENT, handleCustomEvent);
+    };
+  }, []);
 
   const updatePreference = useCallback(<K extends keyof Preferences>(key: K, value: Preferences[K]) => {
-    setPreferences(prev => ({ ...prev, [key]: value }));
+    setPreferences(prev => {
+      const updated = { ...prev, [key]: value };
+      localStorage.setItem(PREF_KEY, JSON.stringify(updated));
+      window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: updated }));
+      return updated;
+    });
   }, []);
 
   const resetPreferences = useCallback(() => {
     setPreferences(defaultPreferences);
+    localStorage.setItem(PREF_KEY, JSON.stringify(defaultPreferences));
+    window.dispatchEvent(new CustomEvent(PREF_EVENT, { detail: defaultPreferences }));
   }, []);
 
   return { preferences, updatePreference, resetPreferences };
