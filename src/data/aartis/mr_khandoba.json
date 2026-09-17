@@ -2,12 +2,21 @@
   "id": "mr_khandoba",
   "slug": "shri-khandobachi-aarti",
   "title": "श्री खंडोबाची आरती",
-  "alternativeTitles": ["Jay Dev Jay Dev Jay Shiv Malhari", "Khandoba Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Jay Dev Jay Shiv Malhari",
+    "Khandoba Aarti"
+  ],
   "language": "mr",
   "deity": "Khandoba",
   "category": "Khandoba",
   "durationMinutes": 3,
-  "searchKeywords": ["khandoba", "malhari", "panchanan", "jejuri", "shiv malhari"],
+  "searchKeywords": [
+    "khandoba",
+    "malhari",
+    "panchanan",
+    "jejuri",
+    "shiv malhari"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +56,6 @@
         "रामी रामदासा जिवलग भेडला ।। ३ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Khandobachi Aarti (Jay Shiv Malhari / Jejuri Khandoba)"
 }

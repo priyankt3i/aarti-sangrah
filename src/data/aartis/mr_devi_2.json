@@ -2,12 +2,19 @@
   "id": "mr_devi_2",
   "slug": "shri-devi-aarti-2",
   "title": "श्री देवी आरती २",
-  "alternativeTitles": ["Jay Devi Jay Devi Jay Mahishasuramardini"],
+  "alternativeTitles": [
+    "Jay Devi Jay Devi Jay Mahishasuramardini"
+  ],
   "language": "mr",
   "deity": "Durga",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["devi", "durga", "mahishasuramardini", "navratri"],
+  "searchKeywords": [
+    "devi",
+    "durga",
+    "mahishasuramardini",
+    "navratri"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -38,5 +45,6 @@
         "नरहरी तल्लीन झाला पदपंकजलेशा ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Devi Aarti 2 (Jay Devi Mahishasuramardini)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_pasaydan",
   "slug": "pasaydan",
   "title": "पसायदान",
-  "alternativeTitles": ["Aata Vishwatmake Deve", "Pasaydaan"],
+  "alternativeTitles": [
+    "Aata Vishwatmake Deve",
+    "Pasaydaan"
+  ],
   "language": "mr",
   "deity": "Geeta",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["pasaydan", "pasaydaan", "aata", "vishwatmake", "dnyaneshwar"],
+  "searchKeywords": [
+    "pasaydan",
+    "pasaydaan",
+    "aata",
+    "vishwatmake",
+    "dnyaneshwar"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -75,5 +84,6 @@
         "येणें वरें ज्ञानदेवो । सुखिया जाला ।। ९ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Pasaydan (Aata Vishwatmake Deve / Sant Dnyaneshwar)"
 }

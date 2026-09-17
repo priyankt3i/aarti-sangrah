@@ -2,12 +2,23 @@
   "id": "mr_yei_ho_vitthale",
   "slug": "yei-ho-vitthale",
   "title": "येई हो विठ्ठले",
-  "alternativeTitles": ["Yei Ho Vitthale", "Yei Ho Vitthale Majhe Mauli Ye"],
+  "alternativeTitles": [
+    "Yei Ho Vitthale",
+    "Yei Ho Vitthale Majhe Mauli Ye"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 3,
-  "searchKeywords": ["yei", "ho", "vitthale", "majhe", "mauli", "pandharpur", "vithoba"],
+  "searchKeywords": [
+    "yei",
+    "ho",
+    "vitthale",
+    "majhe",
+    "mauli",
+    "pandharpur",
+    "vithoba"
+  ],
   "source": "User Provided",
   "reviewed": true,
   "updatedAt": "2026-09-16T18:00:00Z",
@@ -48,5 +59,6 @@
         "कृपादृष्टी पाहे माझ्या पंढरीराया ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Yei Ho Vitthale (Yeyi Ho Vithale Majhe Mauli)"
 }

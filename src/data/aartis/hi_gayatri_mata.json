@@ -2,12 +2,22 @@
   "id": "hi_gayatri_mata",
   "slug": "jayati-jai-gayatri-mata",
   "title": "जयति जय गायत्री माता",
-  "alternativeTitles": ["Jayati Jai Gayatri Mata", "Gayatri Aarti Hindi"],
+  "alternativeTitles": [
+    "Jayati Jai Gayatri Mata",
+    "Gayatri Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Gayatri",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["gayatri", "mata", "veda", "mata", "jayati", "jai"],
+  "searchKeywords": [
+    "gayatri",
+    "mata",
+    "veda",
+    "mata",
+    "jayati",
+    "jai"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -53,5 +63,6 @@
         "जयति जय गायत्री माता ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Gayatri Mata Ki Aarti (Jayati Jai Gayatri Mata)"
 }

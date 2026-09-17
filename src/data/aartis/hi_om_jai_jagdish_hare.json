@@ -2,12 +2,23 @@
   "id": "hi_om_jai_jagdish_hare",
   "slug": "om-jai-jagdish-hare",
   "title": "ॐ जय जगदीश हरे",
-  "alternativeTitles": ["Om Jai Jagdish Hare", "Om Jai Jagadish Hare"],
+  "alternativeTitles": [
+    "Om Jai Jagdish Hare",
+    "Om Jai Jagadish Hare"
+  ],
   "language": "hi",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 5,
-  "searchKeywords": ["om", "jai", "jagdish", "hare", "vishnu", "aarti", "hindi"],
+  "searchKeywords": [
+    "om",
+    "jai",
+    "jagdish",
+    "hare",
+    "vishnu",
+    "aarti",
+    "hindi"
+  ],
   "source": "User Provided",
   "reviewed": true,
   "updatedAt": "2026-09-16T18:03:00Z",
@@ -100,5 +111,6 @@
         "ॐ जय जगदीश हरे"
       ]
     }
-  ]
+  ],
+  "transliteration": "Om Jai Jagdish Hare (Vishnu Aarti / Jagadish)"
 }

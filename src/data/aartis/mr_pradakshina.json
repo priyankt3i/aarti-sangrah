@@ -2,12 +2,19 @@
   "id": "mr_pradakshina",
   "slug": "pradakshina-mantra",
   "title": "प्रदक्षिणा",
-  "alternativeTitles": ["Yani Kani Cha Papani"],
+  "alternativeTitles": [
+    "Yani Kani Cha Papani"
+  ],
   "language": "mr",
   "deity": "All",
   "category": "Mantra",
   "durationMinutes": 1,
-  "searchKeywords": ["pradakshina", "mantra", "yani kani", "papani"],
+  "searchKeywords": [
+    "pradakshina",
+    "mantra",
+    "yani kani",
+    "papani"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -33,5 +40,6 @@
         "तस्मात्कारुण्यभावेन रक्ष माम् परमेश्वर ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Pradakshina Mantra (Yani Kani Cha Papani)"
 }

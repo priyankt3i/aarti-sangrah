@@ -2,12 +2,20 @@
   "id": "mr_vitthal_4",
   "slug": "shri-vitthal-aarti-4",
   "title": "श्री विठ्ठल आरती ४",
-  "alternativeTitles": ["Aarti Anantabhuja", "Vitthal Aarti 4"],
+  "alternativeTitles": [
+    "Aarti Anantabhuja",
+    "Vitthal Aarti 4"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 2,
-  "searchKeywords": ["vitthal", "pandurang", "anantabhuja", "aarti"],
+  "searchKeywords": [
+    "vitthal",
+    "pandurang",
+    "anantabhuja",
+    "aarti"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +42,6 @@
         "रामाजनार्दनीं । पायीं जोडिली वीट ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Vitthal Aarti 4 (Aarti Anantabhuja)"
 }

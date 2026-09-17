@@ -2,12 +2,22 @@
   "id": "hi_raghuvar_ji",
   "slug": "aarti-kijai-shri-raghuvar-ji-ki",
   "title": "आरती कीजै श्री रघुवर जी की",
-  "alternativeTitles": ["Aarti Kijai Shri Raghuvar Ji Ki", "Ram Aarti Hindi"],
+  "alternativeTitles": [
+    "Aarti Kijai Shri Raghuvar Ji Ki",
+    "Ram Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Rama",
   "category": "Rama",
   "durationMinutes": 4,
-  "searchKeywords": ["raghuvar", "ram", "aarti", "kijai", "shri", "ramachandra"],
+  "searchKeywords": [
+    "raghuvar",
+    "ram",
+    "aarti",
+    "kijai",
+    "shri",
+    "ramachandra"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -52,5 +62,6 @@
         "आरती कीजै श्री रघुवर जी की ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Aarti Kijai Shri Raghuvar Ji Ki (Aarti Kijai Shri Raghuvar Ji Ki, Ram Aarti Hindi)"
 }

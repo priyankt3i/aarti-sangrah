@@ -2,12 +2,21 @@
   "id": "mr_krishna_madangopala",
   "slug": "shri-krishna-aarti-1",
   "title": "श्री कृष्णाची आरती (ओवाळूं आरती)",
-  "alternativeTitles": ["Owalu Aarti Madangopala", "Shri Krishna Aarti 1"],
+  "alternativeTitles": [
+    "Owalu Aarti Madangopala",
+    "Shri Krishna Aarti 1"
+  ],
   "language": "mr",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 3,
-  "searchKeywords": ["krishna", "madangopala", "owalu", "aarti", "vaijayantimala"],
+  "searchKeywords": [
+    "krishna",
+    "madangopala",
+    "owalu",
+    "aarti",
+    "vaijayantimala"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +64,6 @@
         "रूप पाहों जातां झालेंसें तद्रूप ।। ५ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Krishna Aarti 1 (Owalu Aarti Madangopala)"
 }

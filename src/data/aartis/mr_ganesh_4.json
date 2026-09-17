@@ -2,12 +2,21 @@
   "id": "mr_ganesh_4",
   "slug": "shri-ganesh-aarti-4",
   "title": "श्री गणेश आरती ४",
-  "alternativeTitles": ["Kapol Jharati", "Ganesh Aarti 4"],
+  "alternativeTitles": [
+    "Kapol Jharati",
+    "Ganesh Aarti 4"
+  ],
   "language": "mr",
   "deity": "Ganesha",
   "category": "Ganesha",
   "durationMinutes": 3,
-  "searchKeywords": ["ganesh", "ganapati", "kapol", "jharati", "shunda"],
+  "searchKeywords": [
+    "ganesh",
+    "ganapati",
+    "kapol",
+    "jharati",
+    "shunda"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +56,6 @@
         "गोसावीनंदन गातो कवितांशी ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Ganesh Aarti 4 (Kapol Jharati)"
 }

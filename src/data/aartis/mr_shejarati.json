@@ -2,12 +2,22 @@
   "id": "mr_shejarati",
   "slug": "shejarati-vitthal",
   "title": "शेजारती",
-  "alternativeTitles": ["Aata Swami Sukhe Nidra Kara Gopala", "Shej Aarti"],
+  "alternativeTitles": [
+    "Aata Swami Sukhe Nidra Kara Gopala",
+    "Shej Aarti"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 3,
-  "searchKeywords": ["shejarati", "shej", "aata swami", "nidra", "vitthal", "pandurang"],
+  "searchKeywords": [
+    "shejarati",
+    "shej",
+    "aata swami",
+    "nidra",
+    "vitthal",
+    "pandurang"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -41,5 +51,6 @@
         "नामदेव ओवाळी विठ्ठल जीवा ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shejarati Vitthal (Aata Swami Sukhe Nidra Kara)"
 }

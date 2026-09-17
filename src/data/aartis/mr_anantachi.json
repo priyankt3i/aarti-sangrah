@@ -2,12 +2,21 @@
   "id": "mr_anantachi",
   "slug": "shri-anantachi-aarti",
   "title": "श्री अनंताची आरती",
-  "alternativeTitles": ["Jay Shri Ananta Laxmikanta", "Anantachi Aarti"],
+  "alternativeTitles": [
+    "Jay Shri Ananta Laxmikanta",
+    "Anantachi Aarti"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 3,
-  "searchKeywords": ["ananta", "anantachi", "laxmikanta", "bhadrapad", "vishnu"],
+  "searchKeywords": [
+    "ananta",
+    "anantachi",
+    "laxmikanta",
+    "bhadrapad",
+    "vishnu"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +64,6 @@
         "संकटकाळी रक्षी अनंता आपुल्या दासासी ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Anantachi Aarti (Jay Shri Ananta Laxmikanta)"
 }

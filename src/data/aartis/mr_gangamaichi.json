@@ -2,12 +2,20 @@
   "id": "mr_gangamaichi",
   "slug": "gangamaichi-aarti",
   "title": "गंगामाईची आरती",
-  "alternativeTitles": ["Mate Darshanmatre", "Gangamaichi Aarti"],
+  "alternativeTitles": [
+    "Mate Darshanmatre",
+    "Gangamaichi Aarti"
+  ],
   "language": "mr",
   "deity": "Ganga",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["ganga", "gangamaichi", "mate", "darshanmatre"],
+  "searchKeywords": [
+    "ganga",
+    "gangamaichi",
+    "mate",
+    "darshanmatre"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -56,5 +64,6 @@
         "जीवे त्या विष्णूच्या परमात्मनि व्हावें ।। जय ।। ४ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Gangamaichi Aarti (Ganga Mai Aarti / Mate Darshanmatre)"
 }

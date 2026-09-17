@@ -2,12 +2,21 @@
   "id": "mr_yuge_atthavis",
   "slug": "yuge-atthavis-vitthal",
   "title": "श्री विठ्ठल आरती (युगे अठ्ठावीस)",
-  "alternativeTitles": ["Yuge Atthavis", "Vitthal Aarti 1"],
+  "alternativeTitles": [
+    "Yuge Atthavis",
+    "Vitthal Aarti 1"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 4,
-  "searchKeywords": ["vitthal", "pandurang", "vithoba", "yuge", "atthavis"],
+  "searchKeywords": [
+    "vitthal",
+    "pandurang",
+    "vithoba",
+    "yuge",
+    "atthavis"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -66,5 +75,6 @@
         "केशवासी नामदेव भावे ओवाळिती ।। ५ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Vitthal Aarti (Yuge Atthavis / Yuge Athavis / Vithoba)"
 }

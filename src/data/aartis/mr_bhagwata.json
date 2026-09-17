@@ -2,12 +2,20 @@
   "id": "mr_bhagwata",
   "slug": "shrimad-bhagwatachi-aarti",
   "title": "भागवताची आरती",
-  "alternativeTitles": ["Jaydev Shrimadbhagwata", "Bhagwata Aarti"],
+  "alternativeTitles": [
+    "Jaydev Shrimadbhagwata",
+    "Bhagwata Aarti"
+  ],
   "language": "mr",
   "deity": "Bhagwan",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["bhagwat", "bhagwatachi", "shrimadbhagwata", "aarti"],
+  "searchKeywords": [
+    "bhagwat",
+    "bhagwatachi",
+    "shrimadbhagwata",
+    "aarti"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +63,6 @@
         "करूं ही आरति एका-जनार्दनासी ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Bhagwatachi Aarti (Shrimad Bhagavata Aarti)"
 }

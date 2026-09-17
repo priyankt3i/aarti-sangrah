@@ -2,12 +2,23 @@
   "id": "hi_vaishno_devi",
   "slug": "jai-vaishnavi-mata",
   "title": "जय वैष्णवी माता",
-  "alternativeTitles": ["Jai Vaishnavi Mata", "Vaishno Devi Aarti"],
+  "alternativeTitles": [
+    "Jai Vaishnavi Mata",
+    "Vaishno Devi Aarti"
+  ],
   "language": "hi",
   "deity": "Durga",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["vaishno", "devi", "vaishnavi", "mata", "katra", "bhawan", "pindi"],
+  "searchKeywords": [
+    "vaishno",
+    "devi",
+    "vaishnavi",
+    "mata",
+    "katra",
+    "bhawan",
+    "pindi"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -61,5 +72,6 @@
         "जय वैष्णवी माता ॥ ५ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Maa Vaishno Devi Ki Aarti (Jai Vaishnavi Mata)"
 }

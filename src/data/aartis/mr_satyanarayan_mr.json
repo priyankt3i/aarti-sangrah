@@ -2,12 +2,21 @@
   "id": "mr_satyanarayan_mr",
   "slug": "shri-satyanarayan-aarti-marathi",
   "title": "श्री सत्यनारायण आरती",
-  "alternativeTitles": ["Jay Dev Jay Dev Shri Satyanarayana", "Satyanarayan Aarti Marathi"],
+  "alternativeTitles": [
+    "Jay Dev Jay Dev Shri Satyanarayana",
+    "Satyanarayan Aarti Marathi"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 3,
-  "searchKeywords": ["satyanarayan", "pooja", "satyanarayana", "vishnu", "marathi"],
+  "searchKeywords": [
+    "satyanarayan",
+    "pooja",
+    "satyanarayana",
+    "vishnu",
+    "marathi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +64,6 @@
         "सत्यनारायणाची । महिमा वर्णीती ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Satyanarayan Aarti Marathi (Jay Dev Jay Dev Satyanarayana)"
 }

@@ -2,12 +2,20 @@
   "id": "mr_tulshichi",
   "slug": "tulshichi-aarti",
   "title": "तुळशीची आरती",
-  "alternativeTitles": ["Jay Devi Jay Devi Jay Tulashi", "Tulsi Aarti"],
+  "alternativeTitles": [
+    "Jay Devi Jay Devi Jay Tulashi",
+    "Tulsi Aarti"
+  ],
   "language": "mr",
   "deity": "Tulsi",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["tulshi", "tulsi", "vrinda", "tulshichi"],
+  "searchKeywords": [
+    "tulshi",
+    "tulsi",
+    "vrinda",
+    "tulshichi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +55,6 @@
         "गोसावीसुत विनवी मजला तूं तारी ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Tulshichi Aarti (Tulsi Aarti / Jay Devi Jay Tulashi)"
 }

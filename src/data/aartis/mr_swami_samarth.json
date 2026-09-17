@@ -2,12 +2,20 @@
   "id": "mr_swami_samarth",
   "slug": "shri-swami-samarth-aarti",
   "title": "श्री स्वामी समर्थ आरती",
-  "alternativeTitles": ["Jay Dev Shri Swami Samartha", "Swami Samarth Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Shri Swami Samartha",
+    "Swami Samarth Aarti"
+  ],
   "language": "mr",
   "deity": "Swami Samarth",
   "category": "Saints",
   "durationMinutes": 3,
-  "searchKeywords": ["swami", "samarth", "akkalkot", "jay dev shri swami samartha"],
+  "searchKeywords": [
+    "swami",
+    "samarth",
+    "akkalkot",
+    "jay dev shri swami samartha"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -37,5 +45,6 @@
         "तव पदपंकज रक्षी दासा ह्या ठायां ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Swami Samarth Aarti (Akkalkot Swami Samartha)"
 }

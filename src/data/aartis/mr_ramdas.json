@@ -2,12 +2,20 @@
   "id": "mr_ramdas",
   "slug": "shri-ramdas-aarti",
   "title": "श्री रामदास आरती",
-  "alternativeTitles": ["Jay Dev Shri Ramdasa", "Ramdas Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Shri Ramdasa",
+    "Ramdas Aarti"
+  ],
   "language": "mr",
   "deity": "Ramdas",
   "category": "Saints",
   "durationMinutes": 3,
-  "searchKeywords": ["ramdas", "samarth", "sajjangad", "jay dev shri ramdasa"],
+  "searchKeywords": [
+    "ramdas",
+    "samarth",
+    "sajjangad",
+    "jay dev shri ramdasa"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +55,6 @@
         "रामदासांचे चरणीं मस्तक हे ठेविले ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Ramdas Aarti (Jay Dev Shri Ramdasa / Samarth Ramdas)"
 }

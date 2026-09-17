@@ -2,12 +2,21 @@
   "id": "mr_mahalaxmichi",
   "slug": "aarti-mahalaxmichi",
   "title": "आरती महालक्ष्मीची",
-  "alternativeTitles": ["Jay Devi Jay Devi Laxmimata", "Mahalaxmi Aarti"],
+  "alternativeTitles": [
+    "Jay Devi Jay Devi Laxmimata",
+    "Mahalaxmi Aarti"
+  ],
   "language": "mr",
   "deity": "Laxmi",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["mahalaxmichi", "laxmi", "mata", "vishnupriye", "devi"],
+  "searchKeywords": [
+    "mahalaxmichi",
+    "laxmi",
+    "mata",
+    "vishnupriye",
+    "devi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +64,6 @@
         "प्रेमे भक्तासवे लोटांगण घाली ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Aarti Mahalaxmichi (Mahalakshmi Aarti / Jay Devi Laxmimata)"
 }

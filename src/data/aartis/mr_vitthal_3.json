@@ -2,12 +2,21 @@
   "id": "mr_vitthal_3",
   "slug": "shri-vitthal-aarti-3",
   "title": "श्री विठ्ठल आरती ३",
-  "alternativeTitles": ["Owalu Ga Maye", "Vitthal Aarti 3"],
+  "alternativeTitles": [
+    "Owalu Ga Maye",
+    "Vitthal Aarti 3"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 3,
-  "searchKeywords": ["vitthal", "pandurang", "owalu", "ga", "maye"],
+  "searchKeywords": [
+    "vitthal",
+    "pandurang",
+    "owalu",
+    "ga",
+    "maye"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +64,6 @@
         "समाधिस्थसमान तुकया लागला पायी ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Vitthal Aarti 3 (Owalu Ga Maye)"
 }

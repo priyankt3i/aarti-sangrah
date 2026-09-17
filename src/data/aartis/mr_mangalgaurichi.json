@@ -2,12 +2,21 @@
   "id": "mr_mangalgaurichi",
   "slug": "shri-mangalagaurichi-aarti",
   "title": "श्री मंगळागौरीची आरती",
-  "alternativeTitles": ["Jay Devi Mangalagauri", "Mangala Gauri Aarti"],
+  "alternativeTitles": [
+    "Jay Devi Mangalagauri",
+    "Mangala Gauri Aarti"
+  ],
   "language": "mr",
   "deity": "Parvati",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["mangalagauri", "mangala", "gauri", "mangalgaurichi", "shravan"],
+  "searchKeywords": [
+    "mangalagauri",
+    "mangala",
+    "gauri",
+    "mangalgaurichi",
+    "shravan"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -71,5 +80,6 @@
         "देउळ सोनियाचे । खांब हिरेयांचे । कळस वरती मोतियांचा ।। ७ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Mangalagaurichi Aarti (Mangala Gauri Aarti)"
 }

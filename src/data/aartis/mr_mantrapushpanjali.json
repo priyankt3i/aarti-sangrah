@@ -2,12 +2,21 @@
   "id": "mr_mantrapushpanjali",
   "slug": "mantrapushpanjali",
   "title": "मंत्रपुष्पांजली",
-  "alternativeTitles": ["Om Yagyena Yagyama", "Mantra Pushpanjali"],
+  "alternativeTitles": [
+    "Om Yagyena Yagyama",
+    "Mantra Pushpanjali"
+  ],
   "language": "mr",
   "deity": "All",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["mantrapushpanjali", "mantra", "pushpanjali", "yagyena", "om"],
+  "searchKeywords": [
+    "mantrapushpanjali",
+    "mantra",
+    "pushpanjali",
+    "yagyena",
+    "om"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -49,5 +58,6 @@
         "एकदंताय विद्महे वक्रतुण्डाय धीमहि । तन्नो दन्ती प्रचोदयात् ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Mantra Pushpanjali (Om Yagyena Yagyama)"
 }

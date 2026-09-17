@@ -2,12 +2,26 @@
   "id": "mr_ghalin_lotangan",
   "slug": "ghalin-lotangan",
   "title": "घालीन लोटांगण",
-  "alternativeTitles": ["Ghalin Lotangan", "Tvameva Mata", "Mantra Pushpanjali"],
+  "alternativeTitles": [
+    "Ghalin Lotangan",
+    "Tvameva Mata",
+    "Mantra Pushpanjali"
+  ],
   "language": "mr",
   "deity": "Ganesh",
   "category": "Ganesh",
   "durationMinutes": 3,
-  "searchKeywords": ["ghalin", "lotangan", "tvameva", "mata", "hare", "ram", "krishna", "achutam", "keshavam"],
+  "searchKeywords": [
+    "ghalin",
+    "lotangan",
+    "tvameva",
+    "mata",
+    "hare",
+    "ram",
+    "krishna",
+    "achutam",
+    "keshavam"
+  ],
   "source": "User Provided",
   "reviewed": true,
   "updatedAt": "2026-09-16T18:00:00Z",
@@ -56,5 +70,6 @@
         "हरे कृष्ण, हरे कृष्ण, कृष्ण-कृष्ण हरे-हरे"
       ]
     }
-  ]
+  ],
+  "transliteration": "Ghalin Lotangan (Ghaleen Lotangan / Mantra Pushpanjali)"
 }

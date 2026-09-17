@@ -2,12 +2,21 @@
   "id": "mr_vyankatesh",
   "slug": "shri-vyankatesh-aarti",
   "title": "श्री व्यंकटेश आरती",
-  "alternativeTitles": ["Sheshachal Avatar", "Vyankatesha Aarti"],
+  "alternativeTitles": [
+    "Sheshachal Avatar",
+    "Vyankatesha Aarti"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 3,
-  "searchKeywords": ["vyankatesh", "venkateshwara", "balaji", "sheshachal", "vishnu"],
+  "searchKeywords": [
+    "vyankatesh",
+    "venkateshwara",
+    "balaji",
+    "sheshachal",
+    "vishnu"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -38,5 +47,6 @@
         "ध्यातों तुजला श्रीपति दृढ मानस होतें ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Vyankatesh Aarti (Sheshachal Avatar / Tirupati Balaji)"
 }

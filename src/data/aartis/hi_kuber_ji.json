@@ -2,12 +2,22 @@
   "id": "hi_kuber_ji",
   "slug": "om-jai-yaksha-kuber-hare",
   "title": "कुबेर जी की आरती",
-  "alternativeTitles": ["Om Jai Yaksha Kuber Hare", "Kuber Aarti Hindi"],
+  "alternativeTitles": [
+    "Om Jai Yaksha Kuber Hare",
+    "Kuber Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Kuber",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["kuber", "kubera", "dhan", "yaksha", "dhanteras", "diwali"],
+  "searchKeywords": [
+    "kuber",
+    "kubera",
+    "dhan",
+    "yaksha",
+    "dhanteras",
+    "diwali"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -53,5 +63,6 @@
         "ॐ जय यक्ष कुबेरा ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Kuber Ji Ki Aarti (Om Jai Yaksha Kuber Hare)"
 }

@@ -2,12 +2,20 @@
   "id": "mr_tukaram_2",
   "slug": "shri-tukaram-aarti-2",
   "title": "श्री तुकाराम आरती २",
-  "alternativeTitles": ["Aarti Tukarama", "Tukaram Aarti 2"],
+  "alternativeTitles": [
+    "Aarti Tukarama",
+    "Tukaram Aarti 2"
+  ],
   "language": "mr",
   "deity": "Tukaram",
   "category": "Saints",
   "durationMinutes": 2,
-  "searchKeywords": ["tukaram", "tukarama", "dehuchi", "aarti tukarama"],
+  "searchKeywords": [
+    "tukaram",
+    "tukarama",
+    "dehuchi",
+    "aarti tukarama"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +42,6 @@
         "म्हणोनि रामेश्वरे । चरणीं मस्तक ठेविले ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Tukaram Aarti 2 (Aarti Tukarama 2)"
 }

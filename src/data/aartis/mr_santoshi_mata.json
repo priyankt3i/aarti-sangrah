@@ -2,12 +2,21 @@
   "id": "mr_santoshi_mata",
   "slug": "shri-santoshimatechi-aarti",
   "title": "श्री संतोषीमातेची आरती",
-  "alternativeTitles": ["Jay Devi Santoshi Mate", "Santoshi Mata Aarti"],
+  "alternativeTitles": [
+    "Jay Devi Santoshi Mate",
+    "Santoshi Mata Aarti"
+  ],
   "language": "mr",
   "deity": "Santoshi Mata",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["santoshi", "mata", "devi", "shukravar", "vrat"],
+  "searchKeywords": [
+    "santoshi",
+    "mata",
+    "devi",
+    "shukravar",
+    "vrat"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -56,5 +65,6 @@
         "म्हणुनी मिलिंदमाधव आरती ओवाळी ।। ४ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shri Santoshimatechi Aarti (Jay Devi Santoshi Mate, Santoshi Mata Aarti)"
 }

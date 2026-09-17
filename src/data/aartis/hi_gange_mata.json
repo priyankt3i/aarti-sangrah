@@ -2,12 +2,23 @@
   "id": "hi_gange_mata",
   "slug": "om-jai-gange-mata",
   "title": "ॐ जय गंगे माता",
-  "alternativeTitles": ["Om Jai Gange Mata", "Ganga Aarti Hindi"],
+  "alternativeTitles": [
+    "Om Jai Gange Mata",
+    "Ganga Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Ganga",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["ganga", "gange", "mata", "haridwar", "varanasi", "om", "jai"],
+  "searchKeywords": [
+    "ganga",
+    "gange",
+    "mata",
+    "haridwar",
+    "varanasi",
+    "om",
+    "jai"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -53,5 +64,6 @@
         "ॐ जय गंगे माता ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Ganga Mata Ki Aarti (Om Jai Gange Mata)"
 }

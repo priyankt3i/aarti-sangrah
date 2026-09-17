@@ -2,12 +2,21 @@
   "id": "mr_parashuram",
   "slug": "shri-parashuram-aarti",
   "title": "श्री परशुराम आरती",
-  "alternativeTitles": ["Jay Dev Parashurama", "Parashuram Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Parashurama",
+    "Parashuram Aarti"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 3,
-  "searchKeywords": ["parashuram", "jamadagni", "konkan", "avatar", "vishnu"],
+  "searchKeywords": [
+    "parashuram",
+    "jamadagni",
+    "konkan",
+    "avatar",
+    "vishnu"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +43,6 @@
         "चिरंजीव महामुनी । वंदितो महेन्द्रगिरी ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Parashuram Aarti (Jay Dev Parashurama)"
 }

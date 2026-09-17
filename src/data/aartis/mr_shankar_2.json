@@ -2,12 +2,21 @@
   "id": "mr_shankar_2",
   "slug": "shri-shankar-aarti-2",
   "title": "श्री शंकर आरती २",
-  "alternativeTitles": ["Jay Dev Shri Mangesha", "Shankar Aarti 2"],
+  "alternativeTitles": [
+    "Jay Dev Shri Mangesha",
+    "Shankar Aarti 2"
+  ],
   "language": "mr",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 3,
-  "searchKeywords": ["shankar", "shiva", "mangesha", "mahadev", "pancharati"],
+  "searchKeywords": [
+    "shankar",
+    "shiva",
+    "mangesha",
+    "mahadev",
+    "pancharati"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +56,6 @@
         "अनंतसुत वांछितसे चरणांबुजलेशा ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Shankar Aarti 2 (Jay Dev Shri Mangesha)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_krishna_2",
   "slug": "shri-krishna-aarti-2",
   "title": "श्री कृष्णाची आरती २",
-  "alternativeTitles": ["Hari Chala Mandira", "Shri Krishna Aarti 2"],
+  "alternativeTitles": [
+    "Hari Chala Mandira",
+    "Shri Krishna Aarti 2"
+  ],
   "language": "mr",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 2,
-  "searchKeywords": ["krishna", "hari", "mandira", "radhika", "gopika"],
+  "searchKeywords": [
+    "krishna",
+    "hari",
+    "mandira",
+    "radhika",
+    "gopika"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -41,5 +50,6 @@
         "इतक्याही भोगुनी ब्रह्मचारी म्हणवीसी ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Krishna Aarti 2 (Hari Chala Mandira)"
 }

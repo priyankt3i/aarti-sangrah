@@ -2,12 +2,21 @@
   "id": "mr_nivruttinath",
   "slug": "shri-nivruttinath-aarti",
   "title": "श्री निवृत्तिनाथ आरती",
-  "alternativeTitles": ["Aarti Nivruttinatha", "Nivruttinath Aarti"],
+  "alternativeTitles": [
+    "Aarti Nivruttinatha",
+    "Nivruttinath Aarti"
+  ],
   "language": "mr",
   "deity": "Nivruttinath",
   "category": "Saints",
   "durationMinutes": 3,
-  "searchKeywords": ["nivruttinath", "tryambakeshwar", "saint", "varkari", "dnyaneshwar"],
+  "searchKeywords": [
+    "nivruttinath",
+    "tryambakeshwar",
+    "saint",
+    "varkari",
+    "dnyaneshwar"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +43,6 @@
         "कल्याणाचे मूळ तूंचि । निवृत्तीराया पायीं ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Nivruttinath Aarti (Aarti Nivruttinatha)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_hanuman",
   "slug": "shri-hanuman-aarti-marathi",
   "title": "श्री हनुमान आरती",
-  "alternativeTitles": ["Satrane Uddane", "Maruti Aarti"],
+  "alternativeTitles": [
+    "Satrane Uddane",
+    "Maruti Aarti"
+  ],
   "language": "mr",
   "deity": "Hanuman",
   "category": "Hanuman",
   "durationMinutes": 3,
-  "searchKeywords": ["hanuman", "maruti", "satrane", "uddane", "bajarangbali"],
+  "searchKeywords": [
+    "hanuman",
+    "maruti",
+    "satrane",
+    "uddane",
+    "bajarangbali"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -38,5 +47,6 @@
         "रामी रामदासा शक्तिका शोध ।। २ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Hanuman Aarti (Satrane Uddane / Maruti Aarti)"
 }

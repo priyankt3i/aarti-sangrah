@@ -2,12 +2,21 @@
   "id": "mr_atmaramachi",
   "slug": "shri-atmaramachi-aarti",
   "title": "श्री आत्मारामाची आरती",
-  "alternativeTitles": ["Jay Dev Jay Dev Atmarama", "Atmaramachi Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Jay Dev Atmarama",
+    "Atmaramachi Aarti"
+  ],
   "language": "mr",
   "deity": "Atmaram",
   "category": "Mantra",
   "durationMinutes": 2,
-  "searchKeywords": ["atmarama", "atmaramachi", "nana", "dehi", "dev"],
+  "searchKeywords": [
+    "atmarama",
+    "atmaramachi",
+    "nana",
+    "dehi",
+    "dev"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -38,5 +47,6 @@
         "दास म्हणे महिमा न बोलवे वाचा ।। जय ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Atmaramachi Aarti (Jay Dev Atmarama)"
 }

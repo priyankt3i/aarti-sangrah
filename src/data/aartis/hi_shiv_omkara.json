@@ -2,12 +2,23 @@
   "id": "hi_shiv_omkara",
   "slug": "om-jai-shiv-omkara",
   "title": "ॐ जय शिव ओंकारा",
-  "alternativeTitles": ["Om Jai Shiv Omkara", "Shiv Aarti Hindi"],
+  "alternativeTitles": [
+    "Om Jai Shiv Omkara",
+    "Shiv Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 4,
-  "searchKeywords": ["om", "jai", "shiv", "omkara", "bholenath", "mahadev", "shiva"],
+  "searchKeywords": [
+    "om",
+    "jai",
+    "shiv",
+    "omkara",
+    "bholenath",
+    "mahadev",
+    "shiva"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -77,5 +88,6 @@
         "ॐ जय शिव ओंकारा ॥ ७ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shiv Ji Ki Aarti (Om Jai Shiv Omkara)"
 }

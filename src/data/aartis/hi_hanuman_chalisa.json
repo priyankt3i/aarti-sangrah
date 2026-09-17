@@ -2,12 +2,23 @@
   "id": "hi_hanuman_chalisa",
   "slug": "shri-hanuman-chalisa",
   "title": "श्री हनुमान चालीसा",
-  "alternativeTitles": ["Hanuman Chalisa", "Shri Guru Charan Saroj Raj"],
+  "alternativeTitles": [
+    "Hanuman Chalisa",
+    "Shri Guru Charan Saroj Raj"
+  ],
   "language": "hi",
   "deity": "Hanuman",
   "category": "Hanuman",
   "durationMinutes": 10,
-  "searchKeywords": ["hanuman", "chalisa", "bajrangbali", "maruti", "pawan", "sut", "ram"],
+  "searchKeywords": [
+    "hanuman",
+    "chalisa",
+    "bajrangbali",
+    "maruti",
+    "pawan",
+    "sut",
+    "ram"
+  ],
   "source": "Tulsidas",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -128,5 +139,6 @@
         "श्री राम जय राम जय जय राम। श्री राम जय राम जय जय राम॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Hanuman Chalisa (Shri Guru Charan Saroj Raj)"
 }

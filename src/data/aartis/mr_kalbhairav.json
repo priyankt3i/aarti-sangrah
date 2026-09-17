@@ -2,12 +2,21 @@
   "id": "mr_kalbhairav",
   "slug": "shri-kalbhairav-aarti",
   "title": "श्री काळभैरव आरती",
-  "alternativeTitles": ["Jay Dev Kalbhairava", "Bhairav Aarti"],
+  "alternativeTitles": [
+    "Jay Dev Kalbhairava",
+    "Bhairav Aarti"
+  ],
   "language": "mr",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 3,
-  "searchKeywords": ["kalbhairav", "bhairav", "kashi", "kotwal", "shiva"],
+  "searchKeywords": [
+    "kalbhairav",
+    "bhairav",
+    "kashi",
+    "kotwal",
+    "shiva"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -41,5 +50,6 @@
         "भैरवाच्या चरणीं लीन भक्तांचे मन ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Kalbhairav Aarti (Jay Dev Kalbhairava)"
 }

@@ -2,12 +2,23 @@
   "id": "hi_saraswati_mata",
   "slug": "om-jai-saraswati-mata",
   "title": "ॐ जय सरस्वती माता",
-  "alternativeTitles": ["Om Jai Saraswati Mata", "Saraswati Aarti Hindi"],
+  "alternativeTitles": [
+    "Om Jai Saraswati Mata",
+    "Saraswati Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Saraswati",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["om", "jai", "saraswati", "mata", "vidya", "gyan", "veena"],
+  "searchKeywords": [
+    "om",
+    "jai",
+    "saraswati",
+    "mata",
+    "vidya",
+    "gyan",
+    "veena"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -69,5 +80,6 @@
         "जय सरस्वती माता ॥ ६ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Saraswati Mata Ki Aarti (Om Jai Saraswati Mata)"
 }

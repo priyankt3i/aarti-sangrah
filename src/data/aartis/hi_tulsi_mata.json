@@ -2,12 +2,22 @@
   "id": "hi_tulsi_mata",
   "slug": "jai-jai-tulsi-mata",
   "title": "जय जय तुलसी माता",
-  "alternativeTitles": ["Jai Jai Tulsi Mata", "Tulsi Aarti Hindi"],
+  "alternativeTitles": [
+    "Jai Jai Tulsi Mata",
+    "Tulsi Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Tulsi",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["tulsi", "mata", "vrinda", "jai", "shaligram", "devi"],
+  "searchKeywords": [
+    "tulsi",
+    "mata",
+    "vrinda",
+    "jai",
+    "shaligram",
+    "devi"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -45,5 +55,6 @@
         "जय जय तुलसी माता ॥ ३ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Tulsi Mata Ki Aarti (Jai Jai Tulsi Mata)"
 }

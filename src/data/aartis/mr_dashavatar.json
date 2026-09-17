@@ -2,12 +2,23 @@
   "id": "mr_dashavatar",
   "slug": "shri-dashavatar-aarti",
   "title": "श्री दशावतार आरती",
-  "alternativeTitles": ["Aarti Dashavatara", "Dashavatar Aarti"],
+  "alternativeTitles": [
+    "Aarti Dashavatara",
+    "Dashavatar Aarti"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 5,
-  "searchKeywords": ["dashavatar", "vishnu", "matsya", "kurma", "varaha", "narsimha", "kalki"],
+  "searchKeywords": [
+    "dashavatar",
+    "vishnu",
+    "matsya",
+    "kurma",
+    "varaha",
+    "narsimha",
+    "kalki"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -89,5 +100,6 @@
         "विष्णूदास नामा । स्वामी तुझे पदीं नम्र झाले ।। १० ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Dashavatar Aarti (Aarti Dashavatara)"
 }

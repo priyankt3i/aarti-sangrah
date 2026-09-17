@@ -5,6 +5,7 @@ import { usePlaylists } from '../hooks/usePlaylists';
 import { aartis } from '../data/aartis';
 import { cn } from '../lib/utils';
 import { Aarti } from '../types';
+import { matchesAartiQuery } from '../utils/search';
 
 export function PlaylistEditor() {
   const { id } = useParams<{ id: string }>();
@@ -47,15 +48,7 @@ export function PlaylistEditor() {
     
     if (categoryFilter !== 'all' && a.category !== categoryFilter) return false;
     
-    if (searchQuery) {
-      const q = searchQuery.toLowerCase();
-      return (
-        a.title.toLowerCase().includes(q) ||
-        a.alternativeTitles.some(t => t.toLowerCase().includes(q)) ||
-        a.searchKeywords.some(k => k.toLowerCase().includes(q))
-      );
-    }
-    return true;
+    return matchesAartiQuery(a, searchQuery);
   });
 
   const categories = useMemo(() => {

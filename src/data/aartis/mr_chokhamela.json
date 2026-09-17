@@ -2,12 +2,21 @@
   "id": "mr_chokhamela",
   "slug": "sant-chokhamela-aarti",
   "title": "संत चोखामेळा आरती",
-  "alternativeTitles": ["Aarti Chokhyachi", "Chokhamela Aarti"],
+  "alternativeTitles": [
+    "Aarti Chokhyachi",
+    "Chokhamela Aarti"
+  ],
   "language": "mr",
   "deity": "Chokhamela",
   "category": "Saints",
   "durationMinutes": 3,
-  "searchKeywords": ["chokhamela", "chokhoba", "pandharpur", "varkari", "saint"],
+  "searchKeywords": [
+    "chokhamela",
+    "chokhoba",
+    "pandharpur",
+    "varkari",
+    "saint"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +43,6 @@
         "नामदेवे ओळखिला । संत चोखोबा अगाध ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Sant Chokhamela Aarti (Aarti Chokhyachi)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_krishna_4",
   "slug": "shri-krishna-aarti-4",
   "title": "श्री कृष्णाची आरती ४",
-  "alternativeTitles": ["Kakad Aarti Majhya", "Shri Krishna Aarti 4"],
+  "alternativeTitles": [
+    "Kakad Aarti Majhya",
+    "Shri Krishna Aarti 4"
+  ],
   "language": "mr",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 2,
-  "searchKeywords": ["krishna", "kakad aarti", "sahasradipen", "deep", "kaisi"],
+  "searchKeywords": [
+    "krishna",
+    "kakad aarti",
+    "sahasradipen",
+    "deep",
+    "kaisi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -41,5 +50,6 @@
         "तेणें तेजें मीनला एका एकीं जनार्दनीं ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Krishna Aarti 4 (Kakad Aarti Majhya)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_namdev",
   "slug": "shri-namdev-aarti",
   "title": "श्री नामदेव आरती",
-  "alternativeTitles": ["Aarti Namdeva", "Namdev Aarti"],
+  "alternativeTitles": [
+    "Aarti Namdeva",
+    "Namdev Aarti"
+  ],
   "language": "mr",
   "deity": "Namdev",
   "category": "Saints",
   "durationMinutes": 2,
-  "searchKeywords": ["namdev", "namdeva", "pandharpur", "saint", "varkari"],
+  "searchKeywords": [
+    "namdev",
+    "namdeva",
+    "pandharpur",
+    "saint",
+    "varkari"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -34,5 +43,6 @@
         "तुकयाबंधु म्हणे । नाम्या तारिले जगीं ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Namdev Aarti (Aarti Namdeva / Sant Namdev)"
 }

@@ -2,12 +2,20 @@
   "id": "mr_naivedya",
   "slug": "naivedya-aarti",
   "title": "नैवेद्य",
-  "alternativeTitles": ["Sada Sarvada Yoga Tuza"],
+  "alternativeTitles": [
+    "Sada Sarvada Yoga Tuza"
+  ],
   "language": "mr",
   "deity": "All",
   "category": "Mantra",
   "durationMinutes": 1,
-  "searchKeywords": ["naivedya", "sada", "sarvada", "yoga", "tuza"],
+  "searchKeywords": [
+    "naivedya",
+    "sada",
+    "sarvada",
+    "yoga",
+    "tuza"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -30,5 +38,6 @@
         "सर्वामुखी मंगल बोलवावे ।। २ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Naivedya (Sada Sarvada Yoga Tuza)"
 }

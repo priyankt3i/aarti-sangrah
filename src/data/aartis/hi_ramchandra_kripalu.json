@@ -2,12 +2,23 @@
   "id": "hi_ramchandra_kripalu",
   "slug": "shri-ramachandra-kripalu",
   "title": "श्री रामचंद्र कृपालु भजु मन",
-  "alternativeTitles": ["Shri Ramachandra Kripalu Bhaju Man", "Ram Stuti"],
+  "alternativeTitles": [
+    "Shri Ramachandra Kripalu Bhaju Man",
+    "Ram Stuti"
+  ],
   "language": "hi",
   "deity": "Rama",
   "category": "Rama",
   "durationMinutes": 5,
-  "searchKeywords": ["ram", "ramchandra", "kripalu", "bhaju", "man", "tulsidas", "stuti"],
+  "searchKeywords": [
+    "ram",
+    "ramchandra",
+    "kripalu",
+    "bhaju",
+    "man",
+    "tulsidas",
+    "stuti"
+  ],
   "source": "Goswami Tulsidas",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -61,5 +72,6 @@
         "तुलसी भवानिहि पूजी पुनि पुनि मुदित मन मन्दिर चली ॥ ७ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shri Ramchandra Kripalu Bhaju Man (Ram Stuti)"
 }

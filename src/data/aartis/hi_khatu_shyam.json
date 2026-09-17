@@ -2,12 +2,22 @@
   "id": "hi_khatu_shyam",
   "slug": "om-jai-shri-shyam-hare",
   "title": "ॐ जय श्री श्याम हरे",
-  "alternativeTitles": ["Om Jai Shri Shyam Hare", "Khatu Shyam Aarti"],
+  "alternativeTitles": [
+    "Om Jai Shri Shyam Hare",
+    "Khatu Shyam Aarti"
+  ],
   "language": "hi",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 4,
-  "searchKeywords": ["khatu", "shyam", "hare", "barbarik", "sheesh", "dani"],
+  "searchKeywords": [
+    "khatu",
+    "shyam",
+    "hare",
+    "barbarik",
+    "sheesh",
+    "dani"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -61,5 +71,6 @@
         "ॐ जय श्री श्याम हरे ॥ ५ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Khatu Shyam Ji Ki Aarti (Om Jai Shri Shyam Hare)"
 }

@@ -2,12 +2,21 @@
   "id": "mr_ramchandra",
   "slug": "shri-ramchandra-aarti-1",
   "title": "श्री रामचंद्रांची आरती",
-  "alternativeTitles": ["Utkat Sadhuni", "Shri Ram Aarti 1"],
+  "alternativeTitles": [
+    "Utkat Sadhuni",
+    "Shri Ram Aarti 1"
+  ],
   "language": "mr",
   "deity": "Rama",
   "category": "Rama",
   "durationMinutes": 3,
-  "searchKeywords": ["ramchandra", "rama", "utkat", "sadhuni", "shriram"],
+  "searchKeywords": [
+    "ramchandra",
+    "rama",
+    "utkat",
+    "sadhuni",
+    "shriram"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -65,5 +74,6 @@
         "माधवदासा स्वामी आठव ना विसर ।। ५ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Ramchandranchi Aarti (Utkat Sadhuni / Shri Ram Aarti)"
 }

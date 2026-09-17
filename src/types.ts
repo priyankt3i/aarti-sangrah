@@ -10,6 +10,7 @@ export type Aarti = {
   id: string;
   slug: string;
   title: string;
+  transliteration?: string;
   alternativeTitles: string[];
   language: LanguageCode;
   deity: string;

@@ -2,12 +2,22 @@
   "id": "mr_maruti_stotra",
   "slug": "maruti-stotra",
   "title": "मारुती स्तोत्र",
-  "alternativeTitles": ["Bhimrupi Maharudra", "Hanuman Stotra Marathi"],
+  "alternativeTitles": [
+    "Bhimrupi Maharudra",
+    "Hanuman Stotra Marathi"
+  ],
   "language": "mr",
   "deity": "Hanuman",
   "category": "Mantra",
   "durationMinutes": 4,
-  "searchKeywords": ["maruti", "stotra", "bhimrupi", "maharudra", "hanuman", "ramdas"],
+  "searchKeywords": [
+    "maruti",
+    "stotra",
+    "bhimrupi",
+    "maharudra",
+    "hanuman",
+    "ramdas"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -117,5 +127,6 @@
         "रामरूपी अंतरात्मा दर्शने दोष नासती ।। १५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Maruti Stotra (Bhimrupi Maharudra / Hanuman Stotra)"
 }

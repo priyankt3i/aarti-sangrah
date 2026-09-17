@@ -2,12 +2,25 @@
   "id": "hi_jai_ganesh_deva",
   "slug": "jai-ganesh-deva",
   "title": "श्री गणेश जी की आरती",
-  "alternativeTitles": ["Jai Ganesh Deva", "Shree Ganesh Ji Ki Aarti"],
+  "alternativeTitles": [
+    "Jai Ganesh Deva",
+    "Shree Ganesh Ji Ki Aarti"
+  ],
   "language": "hi",
   "deity": "Ganesh",
   "category": "Ganesh",
   "durationMinutes": 4,
-  "searchKeywords": ["jai", "ganesh", "deva", "mata", "parvati", "mahadeva", "ek", "dant", "vandana"],
+  "searchKeywords": [
+    "jai",
+    "ganesh",
+    "deva",
+    "mata",
+    "parvati",
+    "mahadeva",
+    "ek",
+    "dant",
+    "vandana"
+  ],
   "source": "User Provided",
   "reviewed": true,
   "updatedAt": "2026-09-16T18:05:00Z",
@@ -119,5 +132,6 @@
         "नमामि विघ्नेश्वर पाद पंकजम् ।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Ganesh Ji Ki Aarti (Jai Ganesh Deva)"
 }

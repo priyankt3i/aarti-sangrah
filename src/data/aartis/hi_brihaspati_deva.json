@@ -2,12 +2,22 @@
   "id": "hi_brihaspati_deva",
   "slug": "om-jai-brihaspati-deva",
   "title": "ॐ जय बृहस्पति देवा",
-  "alternativeTitles": ["Om Jai Brihaspati Deva", "Brihaspati Aarti"],
+  "alternativeTitles": [
+    "Om Jai Brihaspati Deva",
+    "Brihaspati Aarti"
+  ],
   "language": "hi",
   "deity": "Brihaspati",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["brihaspati", "guruwar", "deva", "om", "jai", "guru"],
+  "searchKeywords": [
+    "brihaspati",
+    "guruwar",
+    "deva",
+    "om",
+    "jai",
+    "guru"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -61,5 +71,6 @@
         "ॐ जय बृहस्पति देवा ॥ ५ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Om Jai Brihaspati Deva (Om Jai Brihaspati Deva, Brihaspati Aarti)"
 }

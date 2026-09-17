@@ -2,12 +2,20 @@
   "id": "mr_krishna_5",
   "slug": "shri-krishna-aarti-5",
   "title": "श्री कृष्णाची आरती ५",
-  "alternativeTitles": ["Aikoni Krishnakirti", "Shri Krishna Aarti 5"],
+  "alternativeTitles": [
+    "Aikoni Krishnakirti",
+    "Shri Krishna Aarti 5"
+  ],
   "language": "mr",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 3,
-  "searchKeywords": ["krishna", "aikoni", "krishnakirti", "aarti ho krishna pahi"],
+  "searchKeywords": [
+    "krishna",
+    "aikoni",
+    "krishnakirti",
+    "aarti ho krishna pahi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +55,6 @@
         "तेणें घडेल दास्य रमावल्लभचें ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Krishna Aarti 5 (Aikoni Krishnakirti)"
 }

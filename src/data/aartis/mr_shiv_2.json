@@ -2,12 +2,21 @@
   "id": "mr_shiv_2",
   "slug": "shri-shiv-aarti-2",
   "title": "श्री शिव आरती २",
-  "alternativeTitles": ["Aarti Shivraja", "Shiv Aarti 2"],
+  "alternativeTitles": [
+    "Aarti Shivraja",
+    "Shiv Aarti 2"
+  ],
   "language": "mr",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 3,
-  "searchKeywords": ["shiv", "shiva", "shankar", "mahadev", "shivraja"],
+  "searchKeywords": [
+    "shiv",
+    "shiva",
+    "shankar",
+    "mahadev",
+    "shivraja"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -48,5 +57,6 @@
         "चरणी मस्तक ठेविले । देई शांती ।। ४ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Shiv Aarti 2 (Aarti Shivraja)"
 }

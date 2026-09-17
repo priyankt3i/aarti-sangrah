@@ -2,12 +2,19 @@
   "id": "mr_karpur_gauram",
   "slug": "karpur-gauram",
   "title": "कर्पूर आरती",
-  "alternativeTitles": ["Karpur Gauram Karunavtaram"],
+  "alternativeTitles": [
+    "Karpur Gauram Karunavtaram"
+  ],
   "language": "mr",
   "deity": "Shiva",
   "category": "Mantra",
   "durationMinutes": 1,
-  "searchKeywords": ["karpur", "gauram", "aarti", "shiva"],
+  "searchKeywords": [
+    "karpur",
+    "gauram",
+    "aarti",
+    "shiva"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -19,5 +26,6 @@
         "सदा वसन्तं हृदयारविन्दे । भवं भवानीसहितं नमामि ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Karpur Aarti (Karpur Gauram Karunavataram)"
 }

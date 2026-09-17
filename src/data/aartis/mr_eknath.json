@@ -2,12 +2,21 @@
   "id": "mr_eknath",
   "slug": "shri-eknath-aarti",
   "title": "श्री एकनाथांची आरती",
-  "alternativeTitles": ["Aarti Eknatha", "Eknath Aarti"],
+  "alternativeTitles": [
+    "Aarti Eknatha",
+    "Eknath Aarti"
+  ],
   "language": "mr",
   "deity": "Eknath",
   "category": "Saints",
   "durationMinutes": 2,
-  "searchKeywords": ["eknath", "eknatha", "saint", "varkari", "paithan"],
+  "searchKeywords": [
+    "eknath",
+    "eknatha",
+    "saint",
+    "varkari",
+    "paithan"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -39,5 +48,6 @@
         "अनंत गोपाळदासा । धणी न पुरे गातां ।। २ ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Eknathanchi Aarti (Aarti Eknatha / Sant Eknath)"
 }

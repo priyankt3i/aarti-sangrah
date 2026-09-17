@@ -2,12 +2,25 @@
   "id": "mr_navratra",
   "slug": "navratra-aarti-ashvin-shuddha",
   "title": "नवरात्र आरती",
-  "alternativeTitles": ["Ashvin Shuddha Pakshi", "Navratri Aarti", "Ambabai Aarti"],
+  "alternativeTitles": [
+    "Ashvin Shuddha Pakshi",
+    "Navratri Aarti",
+    "Ambabai Aarti"
+  ],
   "language": "mr",
   "deity": "Durga",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["navratri", "navratra", "ambabai", "ashvin", "shuddha", "pakshi", "udo", "tuljapur"],
+  "searchKeywords": [
+    "navratri",
+    "navratra",
+    "ambabai",
+    "ashvin",
+    "shuddha",
+    "pakshi",
+    "udo",
+    "tuljapur"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -110,5 +123,6 @@
         "विप्रा रामदासा आश्रय दिधला तो चरणी हो ।। १० ।। "
       ]
     }
-  ]
+  ],
+  "transliteration": "Navratra Aarti (Ashvin Shuddha Pakshi / Ambabai Aarti)"
 }

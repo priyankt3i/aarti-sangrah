@@ -2,12 +2,21 @@
   "id": "mr_ganapati_stotra",
   "slug": "sankat-nashan-ganesh-stotra",
   "title": "संकटनाशन गणेश स्तोत्र",
-  "alternativeTitles": ["Pranamya Shirasa Devam", "Ganapati Stotra"],
+  "alternativeTitles": [
+    "Pranamya Shirasa Devam",
+    "Ganapati Stotra"
+  ],
   "language": "mr",
   "deity": "Ganesha",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["ganapati", "stotra", "sankat", "nashan", "pranamya"],
+  "searchKeywords": [
+    "ganapati",
+    "stotra",
+    "sankat",
+    "nashan",
+    "pranamya"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +56,6 @@
         "न च विघ्नभयं तस्य सर्वसिद्धिकरं परम् ॥ ५ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Sankat Nashan Ganesh Stotram (Pranamya Shirasa Devam)"
 }

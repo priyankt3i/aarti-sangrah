@@ -2,12 +2,20 @@
   "id": "mr_geetechi",
   "slug": "shri-geetechi-aarti",
   "title": "श्री गीतेची आरती",
-  "alternativeTitles": ["Jay Devi Jay Devi Jay Bhagvadgeete"],
+  "alternativeTitles": [
+    "Jay Devi Jay Devi Jay Bhagvadgeete"
+  ],
   "language": "mr",
   "deity": "Geeta",
   "category": "Mantra",
   "durationMinutes": 3,
-  "searchKeywords": ["geeta", "geetechi", "bhagvadgeete", "vedmate", "vyasokti"],
+  "searchKeywords": [
+    "geeta",
+    "geetechi",
+    "bhagvadgeete",
+    "vedmate",
+    "vyasokti"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -47,5 +55,6 @@
         "बापरखुमादेवीवरदासमान ।। जय ।। ३ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Geetechi Aarti (Bhagavad Gita Aarti / Jay Devi Bhagvadgeete)"
 }

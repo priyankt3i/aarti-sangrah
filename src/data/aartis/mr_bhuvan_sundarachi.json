@@ -2,12 +2,20 @@
   "id": "mr_bhuvan_sundarachi",
   "slug": "aarti-bhuvansundarachi",
   "title": "आरती भुवनसुंदराची",
-  "alternativeTitles": ["Aarti Bhuvansundarachi", "Indiravara Mukundachi"],
+  "alternativeTitles": [
+    "Aarti Bhuvansundarachi",
+    "Indiravara Mukundachi"
+  ],
   "language": "mr",
   "deity": "Vishnu",
   "category": "Vishnu",
   "durationMinutes": 4,
-  "searchKeywords": ["bhuvansundarachi", "indiravara", "mukundachi", "vishnu"],
+  "searchKeywords": [
+    "bhuvansundarachi",
+    "indiravara",
+    "mukundachi",
+    "vishnu"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -61,5 +69,6 @@
         "धरा कर्पुरारतीनें प्रेमयुक्त सची ।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Aarti Bhuvansundarachi (Indiravara Mukundachi)"
 }

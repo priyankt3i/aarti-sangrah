@@ -2,12 +2,21 @@
   "id": "hi_bhairav_ji",
   "slug": "jai-bhairav-deva",
   "title": "भैरव जी की आरती",
-  "alternativeTitles": ["Jai Bhairav Deva", "Bhairav Aarti Hindi"],
+  "alternativeTitles": [
+    "Jai Bhairav Deva",
+    "Bhairav Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 3,
-  "searchKeywords": ["bhairav", "bhairo", "deva", "batuk", "kalbhairav"],
+  "searchKeywords": [
+    "bhairav",
+    "bhairo",
+    "deva",
+    "batuk",
+    "kalbhairav"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -45,5 +54,6 @@
         "जय भैरव देवा ॥ ३ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Bhairav Ji Ki Aarti (Jai Bhairav Deva)"
 }

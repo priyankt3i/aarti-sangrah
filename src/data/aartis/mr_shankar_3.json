@@ -2,12 +2,21 @@
   "id": "mr_shankar_3",
   "slug": "shri-shankar-aarti-3",
   "title": "श्री शंकर आरती ३",
-  "alternativeTitles": ["Jay Jay Tryambakaraj", "Shankar Aarti 3"],
+  "alternativeTitles": [
+    "Jay Jay Tryambakaraj",
+    "Shankar Aarti 3"
+  ],
   "language": "mr",
   "deity": "Shiva",
   "category": "Shiva",
   "durationMinutes": 4,
-  "searchKeywords": ["shankar", "shiva", "tryambakaraj", "girijanatha", "mahadev"],
+  "searchKeywords": [
+    "shankar",
+    "shiva",
+    "tryambakaraj",
+    "girijanatha",
+    "mahadev"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -58,5 +67,6 @@
         "गोसावीनंदन विसरे संसारयातना हो ।। ४ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Shankar Aarti 3 (Jay Jay Tryambakaraj)"
 }

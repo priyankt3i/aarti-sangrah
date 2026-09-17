@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import { aartis } from '../data/aartis';
 import { Aarti, LanguageCode } from '../types';
+import { matchesAartiQuery } from '../utils/search';
 
 export function useAartiSearch(currentLanguage: LanguageCode | 'all') {
   const [searchQuery, setSearchQuery] = useState('');
@@ -19,19 +20,7 @@ export function useAartiSearch(currentLanguage: LanguageCode | 'all') {
       }
       
       // Search query
-      if (searchQuery.trim() !== '') {
-        const query = searchQuery.toLowerCase().trim();
-        const matchesTitle = aarti.title.toLowerCase().includes(query);
-        const matchesAltTitle = aarti.alternativeTitles.some(alt => alt.toLowerCase().includes(query));
-        const matchesKeywords = aarti.searchKeywords.some(kw => kw.toLowerCase().includes(query));
-        const matchesDeity = aarti.deity.toLowerCase().includes(query);
-        
-        if (!matchesTitle && !matchesAltTitle && !matchesKeywords && !matchesDeity) {
-          return false;
-        }
-      }
-      
-      return true;
+      return matchesAartiQuery(aarti, searchQuery);
     });
   }, [searchQuery, currentLanguage, selectedCategory]);
 

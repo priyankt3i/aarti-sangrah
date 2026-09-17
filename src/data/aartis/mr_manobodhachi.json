@@ -2,12 +2,21 @@
   "id": "mr_manobodhachi",
   "slug": "manobodhachi-aarti",
   "title": "मनोबोधाची आरती",
-  "alternativeTitles": ["Vedanche Je Guhya", "Manobodhachi Aarti"],
+  "alternativeTitles": [
+    "Vedanche Je Guhya",
+    "Manobodhachi Aarti"
+  ],
   "language": "mr",
   "deity": "Mantra",
   "category": "Mantra",
   "durationMinutes": 2,
-  "searchKeywords": ["manobodh", "manobodhachi", "vedanche", "guhya", "shastrache"],
+  "searchKeywords": [
+    "manobodh",
+    "manobodhachi",
+    "vedanche",
+    "guhya",
+    "shastrache"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -40,5 +49,6 @@
         "जय देव जय देव ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Manobodhachi Aarti (Vedanche Je Guhya / Samarth Ramdas)"
 }

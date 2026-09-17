@@ -2,12 +2,21 @@
   "id": "hi_sheetla_mata",
   "slug": "jai-sheetla-mata",
   "title": "शीतला माता की आरती",
-  "alternativeTitles": ["Jai Sheetla Mata", "Sheetla Mata Aarti"],
+  "alternativeTitles": [
+    "Jai Sheetla Mata",
+    "Sheetla Mata Aarti"
+  ],
   "language": "hi",
   "deity": "Sheetla Mata",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["sheetla", "mata", "jai", "sheetala", "ashtami"],
+  "searchKeywords": [
+    "sheetla",
+    "mata",
+    "jai",
+    "sheetala",
+    "ashtami"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -53,5 +62,6 @@
         "जय शीतला माता ॥ ४ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Sheetla Mata Ki Aarti (Jai Sheetla Mata)"
 }

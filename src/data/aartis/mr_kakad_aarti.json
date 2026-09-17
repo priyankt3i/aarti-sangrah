@@ -2,12 +2,22 @@
   "id": "mr_kakad_aarti",
   "slug": "kakad-aarti-vitthal",
   "title": "काकड आरती (विठ्ठल)",
-  "alternativeTitles": ["Utha Panduranga Aata", "Vitthal Kakad Aarti"],
+  "alternativeTitles": [
+    "Utha Panduranga Aata",
+    "Vitthal Kakad Aarti"
+  ],
   "language": "mr",
   "deity": "Vitthal",
   "category": "Vitthal",
   "durationMinutes": 3,
-  "searchKeywords": ["kakad", "aarti", "vitthal", "pandurang", "utha", "panduranga"],
+  "searchKeywords": [
+    "kakad",
+    "aarti",
+    "vitthal",
+    "pandurang",
+    "utha",
+    "panduranga"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -55,5 +65,6 @@
         "विष्णुदास नामा उभा घेऊनी काकडा ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Kakad Aarti Vitthal (Utha Panduranga Aata)"
 }

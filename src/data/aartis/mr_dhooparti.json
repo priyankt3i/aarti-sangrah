@@ -2,12 +2,18 @@
   "id": "mr_dhooparti",
   "slug": "dhooparti",
   "title": "धूपारती",
-  "alternativeTitles": ["Dhup Aarti"],
+  "alternativeTitles": [
+    "Dhup Aarti"
+  ],
   "language": "mr",
   "deity": "All",
   "category": "Mantra",
   "durationMinutes": 2,
-  "searchKeywords": ["dhoop", "aarti", "dhuparti"],
+  "searchKeywords": [
+    "dhoop",
+    "aarti",
+    "dhuparti"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -33,5 +39,6 @@
         "आनंदे वोवाळूनी । माझ्या रामा ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Dhoop Aarti (Dhup Aarti)"
 }

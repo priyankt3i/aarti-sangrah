@@ -2,12 +2,21 @@
   "id": "mr_amba",
   "slug": "amba-aarti",
   "title": "अंबा आरती",
-  "alternativeTitles": ["Sukhsadane Shashivadane", "Jay Devi Jay Devi Vo Jay Ambe"],
+  "alternativeTitles": [
+    "Sukhsadane Shashivadane",
+    "Jay Devi Jay Devi Vo Jay Ambe"
+  ],
   "language": "mr",
   "deity": "Durga",
   "category": "Devi",
   "durationMinutes": 3,
-  "searchKeywords": ["amba", "ambe", "kolhapur", "durga", "devi"],
+  "searchKeywords": [
+    "amba",
+    "ambe",
+    "kolhapur",
+    "durga",
+    "devi"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -65,5 +74,6 @@
         "त्र्यंबक मधुकर होऊनि वर्णितसे अंबा ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Amba Aarti (Sukhsadane Shashivadane / Kolhapur Ambabai)"
 }

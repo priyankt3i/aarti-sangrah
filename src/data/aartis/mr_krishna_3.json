@@ -2,12 +2,20 @@
   "id": "mr_krishna_3",
   "slug": "shri-krishna-aarti-3",
   "title": "श्री कृष्णाची आरती ३",
-  "alternativeTitles": ["Avtar Gokuli Ho", "Shri Krishna Aarti 3"],
+  "alternativeTitles": [
+    "Avtar Gokuli Ho",
+    "Shri Krishna Aarti 3"
+  ],
   "language": "mr",
   "deity": "Krishna",
   "category": "Krishna",
   "durationMinutes": 4,
-  "searchKeywords": ["krishna", "avtar", "gokuli", "jay deva krishnanatha"],
+  "searchKeywords": [
+    "krishna",
+    "avtar",
+    "gokuli",
+    "jay deva krishnanatha"
+  ],
   "source": "Marathi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -65,5 +73,6 @@
         "विनवितो दास तुका । ठाव मागे चरणी ।। ५ ।।"
       ]
     }
-  ]
+  ],
+  "transliteration": "Shree Krishna Aarti 3 (Avtar Gokuli Ho)"
 }

@@ -2,12 +2,22 @@
   "id": "hi_santoshi_mata",
   "slug": "jai-santoshi-mata",
   "title": "जय संतोषी माता",
-  "alternativeTitles": ["Jai Santoshi Mata", "Santoshi Mata Aarti Hindi"],
+  "alternativeTitles": [
+    "Jai Santoshi Mata",
+    "Santoshi Mata Aarti Hindi"
+  ],
   "language": "hi",
   "deity": "Santoshi Mata",
   "category": "Devi",
   "durationMinutes": 4,
-  "searchKeywords": ["santoshi", "mata", "jai", "shukrawar", "devi", "vrat"],
+  "searchKeywords": [
+    "santoshi",
+    "mata",
+    "jai",
+    "shukrawar",
+    "devi",
+    "vrat"
+  ],
   "source": "Hindi Aarti Sangrah",
   "reviewed": true,
   "updatedAt": "2026-09-16T12:00:00.000Z",
@@ -69,5 +79,6 @@
         "जय सन्तोषी माता ॥ ६ ॥"
       ]
     }
-  ]
+  ],
+  "transliteration": "Santoshi Mata Ki Aarti (Jai Santoshi Mata)"
 }
