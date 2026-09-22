@@ -2,6 +2,7 @@ import { useState, useMemo, type FormEvent } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ChevronLeft, Plus, Trash2, ArrowUp, ArrowDown, GripVertical, Pencil, Check, X } from 'lucide-react';
 import { usePlaylists } from '../hooks/usePlaylists';
+import { usePreferences } from '../hooks/usePreferences';
 import { aartis } from '../data/aartis';
 import { cn } from '../lib/utils';
 import { Aarti } from '../types';
@@ -11,6 +12,7 @@ export function PlaylistEditor() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const { getPlaylist, updatePlaylist } = usePlaylists();
+  const { preferences } = usePreferences();
   
   const playlist = id ? getPlaylist(id) : null;
   
@@ -195,7 +197,9 @@ export function PlaylistEditor() {
                 </div>
                 
                 <div className="flex-1 min-w-0">
-                  <h3 className="font-medium text-[#4a1515] dark:text-[#f3e7d3] truncate">{aarti.title}</h3>
+                  <h3 className="font-medium text-[#4a1515] dark:text-[#f3e7d3] truncate">
+                    {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
+                  </h3>
                   <p className="text-sm text-[#8a6b6b] dark:text-[#a09c9c]">{aarti.deity}</p>
                 </div>
                 
@@ -261,7 +265,9 @@ export function PlaylistEditor() {
                     className="flex justify-between items-center p-3 bg-white dark:bg-[#2a2d3d] rounded-xl border border-[#e2d5c3] dark:border-transparent"
                   >
                     <div>
-                      <h4 className="font-medium text-[#4a1515] dark:text-[#f3e7d3]">{aarti.title}</h4>
+                      <h4 className="font-medium text-[#4a1515] dark:text-[#f3e7d3]">
+                        {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
+                      </h4>
                       <p className="text-sm text-[#8a6b6b] dark:text-[#a09c9c]">{aarti.deity}</p>
                     </div>
                     <button

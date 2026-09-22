@@ -66,7 +66,9 @@ describe('usePlaylists', () => {
       'mr_yei_ho_vitthale',
       'mr_dnyaneshwar',
       'hi_om_jai_jagdish_hare',
-      'mr_ghalin_lotangan'
+      'mr_ghalin_lotangan',
+      'mr_morya_morya',
+      'mr_naivedya'
     ]);
 
     act(() => {
@@ -74,6 +76,6 @@ describe('usePlaylists', () => {
     });
 
     expect(result.current.playlists[0].name).toBe('Kharu’s Ganesh Chaturthi');
-    expect(result.current.playlists[0].aartiIds).toHaveLength(8);
+    expect(result.current.playlists[0].aartiIds).toHaveLength(10);
   });
 });

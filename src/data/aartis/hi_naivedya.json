@@ -1,18 +1,18 @@
 {
-  "id": "mr_naivedya",
-  "slug": "naivedya-aarti",
+  "id": "hi_naivedya",
+  "slug": "naivedya-prarthana-sada-sarvada",
   "title": "नैवेद्य (सदा सर्वदा योग तुझा घडावा)",
   "alternativeTitles": [
     "Sada Sarvada Yoga Tuza Ghadava",
-    "Naivedya Shloka",
+    "Naivedya Shloka Hindi",
     "Kailas Rana Shiv Chandramauli",
     "Morya Morya Mi Bal Tanhe",
     "Jya Jya Thikani Mana Jaya Majhe",
     "Alankapuri Punya Bhumi Pavitra",
     "सदा सर्वदा योग तुझा घडावा",
-    "नैवेद्य श्लोक"
+    "नैवेद्य प्रार्थना"
   ],
-  "language": "mr",
+  "language": "hi",
   "deity": "All",
   "category": "Mantra",
   "durationMinutes": 3,
@@ -35,6 +35,7 @@
     "dnyaneshwar",
     "ramdas",
     "shloka",
+    "prarthana",
     "kharu"
   ],
   "source": "Marathi Aarti Sangrah",

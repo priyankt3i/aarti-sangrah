@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { CuratedPlaylist } from '../data/curatedPlaylists';
 import { aartis } from '../data/aartis';
 import { usePlaylists } from '../hooks/usePlaylists';
+import { usePreferences } from '../hooks/usePreferences';
 
 interface CuratedPlaylistPreviewModalProps {
   playlist: CuratedPlaylist | null;
@@ -13,6 +14,7 @@ interface CuratedPlaylistPreviewModalProps {
 
 export function CuratedPlaylistPreviewModal({ playlist, isOpen, onClose }: CuratedPlaylistPreviewModalProps) {
   const { addCuratedPlaylist, isCuratedPlaylistAdded } = usePlaylists();
+  const { preferences } = usePreferences();
   const [justAdded, setJustAdded] = useState(false);
 
   if (!isOpen || !playlist) return null;
@@ -115,7 +117,7 @@ export function CuratedPlaylistPreviewModal({ playlist, isOpen, onClose }: Curat
                 </span>
                 <div>
                   <h4 className="font-semibold text-sm text-[#4a1515] group-hover:text-[#c2410c] transition-colors">
-                    {aarti.title}
+                    {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
                   </h4>
                   <p className="text-xs text-[#8a6b6b]">
                     {aarti.deity ? aarti.deity : aarti.category} • {aarti.language.toUpperCase()}

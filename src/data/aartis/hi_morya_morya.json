@@ -1,0 +1,101 @@
+{
+  "id": "hi_morya_morya",
+  "slug": "morya-morya-sumukh-morya",
+  "title": "मोरया मोरया (गणेश द्वादश नाम)",
+  "alternativeTitles": [
+    "Morya Morya",
+    "Ganesh Dwadash Naam",
+    "Morya Morya Sumukhaya Morya Hindi",
+    "Morya Morya Sumukh Morya",
+    "मोरया मोरया सुमुखाय मोरया",
+    "मोरया मोरया सुमुख मोरया"
+  ],
+  "language": "hi",
+  "deity": "Ganesh",
+  "category": "Ganesh",
+  "durationMinutes": 2,
+  "searchKeywords": [
+    "morya",
+    "moraya",
+    "sumukh",
+    "sumukhaya",
+    "ekdant",
+    "ekadant",
+    "ekadantaya",
+    "kapil",
+    "kapilaya",
+    "gajakarnak",
+    "gajakarnakaya",
+    "lambodar",
+    "lambodaraya",
+    "vikat",
+    "vikataya",
+    "vighnanash",
+    "vighnanashaya",
+    "vinayak",
+    "vinayakaya",
+    "dhumraketu",
+    "dhumraketave",
+    "ganadhyaksh",
+    "ganadhyakshaya",
+    "bhalchandra",
+    "bhalachandraya",
+    "gajanan",
+    "gajananaya",
+    "dwadash",
+    "ganesh",
+    "stuti",
+    "kharu"
+  ],
+  "source": "Ganesh Dwadash Nama Stuti",
+  "reviewed": true,
+  "updatedAt": "2026-09-22T01:05:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "मोरया मोरया सुमुखाय मोरया",
+        "मोरया मोरया एकदन्ताय मोरया",
+        "मोरया मोरया कपिलाय मोरया",
+        "मोरया मोरया गजकर्णकाय मोरया"
+      ],
+      "transliteratedLines": [
+        "Morya Morya Sumukhaya Morya",
+        "Morya Morya Ekadantaya Morya",
+        "Morya Morya Kapilaya Morya",
+        "Morya Morya Gajakarnakaya Morya"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "मोरया मोरया लम्बोदराय मोरया",
+        "मोरया मोरया विकटाय मोरया",
+        "मोरया मोरया विघ्ननाशाय मोरया",
+        "मोरया मोरया विनायकाय मोरया"
+      ],
+      "transliteratedLines": [
+        "Morya Morya Lambodaraya Morya",
+        "Morya Morya Vikataya Morya",
+        "Morya Morya Vighnanashaya Morya",
+        "Morya Morya Vinayakaya Morya"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "मोरया मोरया धूम्रकेतवे मोरया",
+        "मोरया मोरया गणाध्यक्षाय मोरया",
+        "मोरया मोरया भालचन्द्राय मोरया",
+        "मोरया मोरया गजाननाय मोरया"
+      ],
+      "transliteratedLines": [
+        "Morya Morya Dhumraketave Morya",
+        "Morya Morya Ganadhyakshaya Morya",
+        "Morya Morya Bhalachandraya Morya",
+        "Morya Morya Gajananaya Morya"
+      ]
+    }
+  ],
+  "transliteration": "Morya Morya (Ganesh Dwadash Naam / Sumukhaya Morya)"
+}

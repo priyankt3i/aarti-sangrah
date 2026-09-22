@@ -3,10 +3,12 @@
 Aarti Sangrah is a beautiful, offline-capable Progressive Web App for discovering and singing Indian devotional Aartis. It is designed to be mobile-first, distraction-free, and culturally resonant.
 
 ## Features
-- **Multi-language Support:** Currently supports Hindi, Marathi, Gujarati, and Bengali.
+- **Multi-language Support:** Supports Hindi, Marathi, Gujarati, and Bengali sacred hymns.
+- **English Transliteration Toggle:** Instant global switch (A/अ) to read Devanagari lyrics and titles in readable English script across all screens, playlists, and reader modes.
+- **Curated Devotional Sequences:** Handcrafted singing orders including *Kharu’s Ganesh Chaturthi* concluding with the auspicious 12-name *Morya Morya* stuti and the complete 6-verse *Naivedya & Prarthana* (Sada Sarvada Yoga Tuza).
 - **Autoscroll:** Sing along without having to scroll manually, with adjustable speeds.
 - **Keep Awake:** Prevents the device screen from turning off while reading (uses the Screen Wake Lock API).
-- **Favorites:** Save your most-read Aartis for quick access.
+- **Playlists & Favorites:** Create custom playlists, import curated sangrahs, and favorite revered hymns.
 - **Offline Capable:** Built as a PWA, meaning you can install it on your device and use it without internet connectivity.
 - **Customizable Experience:** Adjust font sizes, toggle dark mode, and manage reduced motion.
 

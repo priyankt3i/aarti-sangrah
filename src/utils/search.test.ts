@@ -41,6 +41,36 @@ describe('search utility and transliteration matching', () => {
     expect(matchesAartiQuery(jagdish, 'vishnu aarti')).toBe(true);
 
     expect(matchesAartiQuery(ghalin, 'ghalin lotangan')).toBe(true);
+
+    const moryaMarathi = aartis.find(a => a.id === 'mr_morya_morya')!;
+    const moryaHindi = aartis.find(a => a.id === 'hi_morya_morya')!;
+    expect(moryaMarathi).toBeDefined();
+    expect(moryaHindi).toBeDefined();
+
+    expect(matchesAartiQuery(moryaMarathi, 'morya')).toBe(true);
+    expect(matchesAartiQuery(moryaMarathi, 'sumukh')).toBe(true);
+    expect(matchesAartiQuery(moryaMarathi, 'sumukhaya')).toBe(true);
+    expect(matchesAartiQuery(moryaMarathi, 'मोरया')).toBe(true);
+    expect(matchesAartiQuery(moryaMarathi, 'सुमुखाय')).toBe(true);
+
+    expect(matchesAartiQuery(moryaHindi, 'morya')).toBe(true);
+    expect(matchesAartiQuery(moryaHindi, 'sumukh')).toBe(true);
+    expect(matchesAartiQuery(moryaHindi, 'sumukhaya')).toBe(true);
+    expect(matchesAartiQuery(moryaHindi, 'मोरया')).toBe(true);
+    expect(matchesAartiQuery(moryaHindi, 'सुमुखाय')).toBe(true);
+
+    const naivedyaMarathi = aartis.find(a => a.id === 'mr_naivedya')!;
+    const naivedyaHindi = aartis.find(a => a.id === 'hi_naivedya')!;
+    expect(naivedyaMarathi).toBeDefined();
+    expect(naivedyaHindi).toBeDefined();
+
+    expect(matchesAartiQuery(naivedyaMarathi, 'sada sarvada')).toBe(true);
+    expect(matchesAartiQuery(naivedyaMarathi, 'सदा सर्वदा')).toBe(true);
+    expect(matchesAartiQuery(naivedyaMarathi, 'kailas rana')).toBe(true);
+
+    expect(matchesAartiQuery(naivedyaHindi, 'sada sarvada')).toBe(true);
+    expect(matchesAartiQuery(naivedyaHindi, 'सदा सर्वदा')).toBe(true);
+    expect(matchesAartiQuery(naivedyaHindi, 'kailas rana')).toBe(true);
   });
 
   it('continues matching original Indic script queries', () => {

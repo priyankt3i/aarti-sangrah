@@ -6,7 +6,19 @@ export function usePlaylists() {
   const [playlists, setPlaylists] = useState<Playlist[]>(() => {
     try {
       const saved = localStorage.getItem('aarti-playlists');
-      return saved ? JSON.parse(saved) : [];
+      if (saved) {
+        const parsed: Playlist[] = JSON.parse(saved);
+        return parsed.map(pl => {
+          if (pl.name === 'Kharu’s Ganesh Chaturthi') {
+            let updatedIds = [...pl.aartiIds];
+            if (!updatedIds.includes('mr_morya_morya')) updatedIds.push('mr_morya_morya');
+            if (!updatedIds.includes('mr_naivedya')) updatedIds.push('mr_naivedya');
+            return { ...pl, aartiIds: updatedIds };
+          }
+          return pl;
+        });
+      }
+      return [];
     } catch (e) {
       console.error('Failed to parse playlists from localStorage', e);
       return [];
