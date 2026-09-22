@@ -18,4 +18,5 @@
 - [x] Addition of "Morya Morya" 12-name stuti in Hindi (`hi_morya_morya`) and Marathi (`mr_morya_morya`) in the singing style (Sumukhaya, Ekadantaya, etc.).
 - [x] Expansion of "Naivedya (Sada Sarvada Yoga Tuza)" to all 6 traditional verses with full transliteration in Marathi and Hindi.
 - [x] Append "Naivedya" to Kharu’s Ganesh Chaturthi playlist at the conclusion.
+- [x] Addition of Verse 8 ("Tan Man Dhan Sab Tera") and concluding chorus to "Om Jai Jagdish Hare" (`hi_om_jai_jagdish_hare`).
 - [x] Verification with Vitest automated test suite and TypeScript compiler.

@@ -70,8 +70,11 @@ export function matchesAartiQuery(aarti: Aarti, rawQuery: string): boolean {
     return true;
   }
 
-  // Search corpus including transliterated title, alternatives, keywords, deity, slug, and verse lyrics
-  const verseLines = (aarti.verses || []).flatMap(v => v.lines || []);
+  // Search corpus including transliterated title, alternatives, keywords, deity, slug, and verse lyrics (both original and transliterated)
+  const verseLines = (aarti.verses || []).flatMap(v => [
+    ...(v.lines || []),
+    ...(v.transliteratedLines || [])
+  ]);
   const corpusParts = [
     aarti.transliteration || '',
     aarti.title,

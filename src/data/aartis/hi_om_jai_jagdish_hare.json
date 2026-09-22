@@ -17,7 +17,14 @@
     "hare",
     "vishnu",
     "aarti",
-    "hindi"
+    "hindi",
+    "tan",
+    "man",
+    "dhan",
+    "tan man dhan",
+    "तन मन धन",
+    "tera",
+    "arpan"
   ],
   "source": "User Provided",
   "reviewed": true,
@@ -172,6 +179,45 @@
         "Shraddha Bhakti Badha़ao",
         "Santana Ki Seva",
         "On Jaya Jagadisha Hare"
+      ]
+    },
+    {
+      "id": "v8",
+      "lines": [
+        "तन मन धन सब तेरा",
+        "सब कुछ है तेरा",
+        "स्वामी सब कुछ है तेरा",
+        "तेरा तुझको अर्पण",
+        "तेरा तुझको अर्पण",
+        "क्या लागे मेरा",
+        "ॐ जय जगदीश हरे"
+      ],
+      "transliteratedLines": [
+        "Tan Man Dhan Sab Tera",
+        "Sab Kuchh Hai Tera",
+        "Swami Sab Kuchh Hai Tera",
+        "Tera Tujhko Arpan",
+        "Tera Tujhko Arpan",
+        "Kya Laage Mera",
+        "Om Jai Jagdish Hare"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "ॐ जय जगदीश हरे",
+        "स्वामी जय दीनानाथ हरे",
+        "भक्त जनों के संकट, दास जनों के संकट",
+        "क्षण में दूर करे",
+        "ॐ जय जगदीश हरे"
+      ],
+      "transliteratedLines": [
+        "Om Jaya Jagadisha Hare",
+        "Svami Jaya Dinanatha Hare",
+        "Bhakta Janon Ke Sankata, Dasa Janon Ke Sankata",
+        "Kshana Men Dura Kare",
+        "Om Jaya Jagadisha Hare"
       ]
     }
   ],

@@ -39,6 +39,8 @@ describe('search utility and transliteration matching', () => {
 
     expect(matchesAartiQuery(jagdish, 'om jai jagdish')).toBe(true);
     expect(matchesAartiQuery(jagdish, 'vishnu aarti')).toBe(true);
+    expect(matchesAartiQuery(jagdish, 'tan man dhan')).toBe(true);
+    expect(matchesAartiQuery(jagdish, 'तन मन धन')).toBe(true);
 
     expect(matchesAartiQuery(ghalin, 'ghalin lotangan')).toBe(true);
 

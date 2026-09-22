@@ -5,6 +5,9 @@ All notable changes to the Aarti Sangrah devotional app will be documented in th
 ## [Unreleased] - 2026-09-22
 
 ### Added
+- **Om Jai Jagdish Hare Verse 8 & Chorus**:
+  - Added the classic 8th verse (*तन मन धन सब तेरा / Tan Man Dhan Sab Tera*) and final concluding chorus to `hi_om_jai_jagdish_hare.json`.
+  - Added full English transliteration and updated search keywords.
 - **Morya Morya (Ganesh Dwadash Naam) Stuti**:
   - Added in Marathi (`mr_morya_morya`) and Hindi (`hi_morya_morya`) in the beloved singing style using dative salutations: *सुमुखाय (Sumukhaya)*, *एकदन्ताय (Ekadantaya)*, *कपिलाय (Kapilaya)*, *गजकर्णकाय (Gajakarnakaya)*, *लम्बोदराय (Lambodaraya)*, *विकटाय (Vikataya)*, *विघ्ननाशाय (Vighnanashaya)*, *विनायकाय (Vinayakaya)*, *धूम्रकेतवे (Dhumraketave)*, *गणाध्यक्षाय (Ganadhyakshaya)*, *भालचन्द्राय (Bhalachandraya)*, and *गजाननाय (Gajananaya)*.
   - Included full English transliteration (`transliteratedLines` and `transliteration` metadata).
