@@ -22,20 +22,6 @@
   "updatedAt": "2026-09-16T12:00:00.000Z",
   "verses": [
     {
-      "id": "c1",
-      "isChorus": true,
-      "lines": [
-        "जय देव जय देव जय पांडुरंगा ।",
-        "रखुमाई वल्लभा राईच्या वल्लभा ।",
-        "पावे जिवलगा ।। जय देव ।।"
-      ],
-      "transliteratedLines": [
-        "Jaya Deva Jaya Deva Jaya Panduranga ।",
-        "Rakhumai Vallabha Raichya Vallabha ।",
-        "Pave Jivalaga ।। Jaya Deva ।।"
-      ]
-    },
-    {
       "id": "v1",
       "lines": [
         "युगे अठ्ठावीस विटेवरी ऊभा ।",
@@ -48,6 +34,20 @@
         "Vamangi Rakhumai Dise Divya Shobha ।",
         "Pundalikache Bheti Parabrahma Ale Ga ।",
         "Charani Vahe Bhima Uddhari Jaga ।। 1 ।। "
+      ]
+    },
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय पांडुरंगा ।",
+        "रखुमाई वल्लभा राईच्या वल्लभा ।",
+        "पावे जिवलगा ।। जय देव ।।"
+      ],
+      "transliteratedLines": [
+        "Jaya Deva Jaya Deva Jaya Panduranga ।",
+        "Rakhumai Vallabha Raichya Vallabha ।",
+        "Pave Jivalaga ।। Jaya Deva ।।"
       ]
     },
     {
@@ -66,6 +66,20 @@
       ]
     },
     {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय पांडुरंगा ।",
+        "रखुमाई वल्लभा राईच्या वल्लभा ।",
+        "पावे जिवलगा ।। जय देव ।।"
+      ],
+      "transliteratedLines": [
+        "Jaya Deva Jaya Deva Jaya Panduranga ।",
+        "Rakhumai Vallabha Raichya Vallabha ।",
+        "Pave Jivalaga ।। Jaya Deva ।।"
+      ]
+    },
+    {
       "id": "v3",
       "lines": [
         "धन्य वेणुनाद अनुक्षेत्रपाळा ।",
@@ -78,6 +92,20 @@
         "Suvarnachi Kamaḻe Vanamaḻa Gaḻa ।",
         "Rai Rakhumabai Raniya Sakaḻa ।",
         "Ovaḻu Aratya Vithoba Savaḻa ।। 3 ।। "
+      ]
+    },
+    {
+      "id": "c3",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय पांडुरंगा ।",
+        "रखुमाई वल्लभा राईच्या वल्लभा ।",
+        "पावे जिवलगा ।। जय देव ।।"
+      ],
+      "transliteratedLines": [
+        "Jaya Deva Jaya Deva Jaya Panduranga ।",
+        "Rakhumai Vallabha Raichya Vallabha ।",
+        "Pave Jivalaga ।। Jaya Deva ।।"
       ]
     },
     {
@@ -96,6 +124,20 @@
       ]
     },
     {
+      "id": "c4",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय पांडुरंगा ।",
+        "रखुमाई वल्लभा राईच्या वल्लभा ।",
+        "पावे जिवलगा ।। जय देव ।।"
+      ],
+      "transliteratedLines": [
+        "Jaya Deva Jaya Deva Jaya Panduranga ।",
+        "Rakhumai Vallabha Raichya Vallabha ।",
+        "Pave Jivalaga ।। Jaya Deva ।।"
+      ]
+    },
+    {
       "id": "v5",
       "lines": [
         "आषाढी कार्तिकी भक्तजन येती ।",
@@ -108,6 +150,20 @@
         "Chandrabhagemadhye Snana Je Karati ।",
         "Darshana Heḻamatre Taya Hoya Mukti ।",
         "Keshavasi Namadeva Bhave Ovaḻiti ।। 5 ।। "
+      ]
+    },
+        {
+      "id": "c5",
+      "isChorus": true,
+      "lines": [
+        "जय देव जय देव जय पांडुरंगा ।",
+        "रखुमाई वल्लभा राईच्या वल्लभा ।",
+        "पावे जिवलगा ।। जय देव ।।"
+      ],
+      "transliteratedLines": [
+        "Jaya Deva Jaya Deva Jaya Panduranga ।",
+        "Rakhumai Vallabha Raichya Vallabha ।",
+        "Pave Jivalaga ।। Jaya Deva ।।"
       ]
     }
   ],
