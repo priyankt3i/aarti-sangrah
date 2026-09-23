@@ -1,5 +1,8 @@
 import { jsPDF } from 'jspdf';
 import html2canvas from 'html2canvas';
+import { Capacitor } from '@capacitor/core';
+import { Filesystem, Directory } from '@capacitor/filesystem';
+import { Share } from '@capacitor/share';
 import { Aarti } from '../types';
 
 /**
@@ -137,30 +140,54 @@ export async function generateAartiPdf(
       heightLeft -= pageHeight;
     }
 
-    const pdfBlob = pdf.output('blob');
     let sharedSuccessfully = false;
 
-    // If user requested share and Web Share API supports file sharing:
-    if (action === 'share' && navigator.canShare) {
+    if (Capacitor.isNativePlatform()) {
       try {
-        const file = new File([pdfBlob], filename, { type: 'application/pdf' });
-        if (navigator.canShare({ files: [file] })) {
-          await navigator.share({
-            files: [file],
-            title: `${aarti.title} - Aarti Sangrah`,
-            text: `Here is the sacred lyrics of ${aarti.title} formatted in PDF with Aarti Sangrah branding.`,
-          });
-          sharedSuccessfully = true;
-        }
-      } catch (shareErr) {
-        // User cancelled share or share failed; fallback to download
-        console.info('Share cancelled or not supported for files, triggering download', shareErr);
+        const base64Data = pdf.output('datauristring').split(',')[1];
+        const savedFile = await Filesystem.writeFile({
+          path: filename,
+          data: base64Data,
+          directory: Directory.Cache,
+        });
+
+        await Share.share({
+          title: `${aarti.title} - Aarti Sangrah`,
+          text: `Here is the sacred lyrics of ${aarti.title} formatted in PDF with Aarti Sangrah branding.`,
+          url: savedFile.uri,
+          dialogTitle: action === 'share' ? `Share ${aarti.title} PDF` : `Save / Share ${aarti.title} PDF`,
+        });
+        sharedSuccessfully = true;
+      } catch (nativeShareErr) {
+        console.warn('Native share/save failed, falling back to web download', nativeShareErr);
       }
     }
 
-    // If not shared through native file dialog (or action was 'download'), trigger download
     if (!sharedSuccessfully) {
-      pdf.save(filename);
+      const pdfBlob = pdf.output('blob');
+
+      // If user requested share and Web Share API supports file sharing:
+      if (action === 'share' && typeof navigator !== 'undefined' && navigator.canShare) {
+        try {
+          const file = new File([pdfBlob], filename, { type: 'application/pdf' });
+          if (navigator.canShare({ files: [file] })) {
+            await navigator.share({
+              files: [file],
+              title: `${aarti.title} - Aarti Sangrah`,
+              text: `Here is the sacred lyrics of ${aarti.title} formatted in PDF with Aarti Sangrah branding.`,
+            });
+            sharedSuccessfully = true;
+          }
+        } catch (shareErr) {
+          // User cancelled share or share failed; fallback to download
+          console.info('Share cancelled or not supported for files, triggering download', shareErr);
+        }
+      }
+
+      // If not shared through native file dialog (or action was 'download'), trigger download
+      if (!sharedSuccessfully) {
+        pdf.save(filename);
+      }
     }
 
     return {

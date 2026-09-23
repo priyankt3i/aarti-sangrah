@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import { X, FileText, Share2, Copy, Check, Loader2, Sparkles } from 'lucide-react';
+import { Capacitor } from '@capacitor/core';
+import { Share } from '@capacitor/share';
 import { Aarti } from '../types';
 import { generateAartiPdf } from '../utils/pdfExport';
 
@@ -39,9 +41,13 @@ export function ShareAartiModal({ isOpen, onClose, aarti }: ShareAartiModalProps
     }
   };
 
+  const shareUrl = typeof window !== 'undefined' && (window.location.origin.includes('localhost') || Capacitor.isNativePlatform())
+    ? `https://aarti.yantralab.com/aarti/${aarti.language}/${aarti.slug}`
+    : window.location.href;
+
   const handleCopyLink = async () => {
     try {
-      await navigator.clipboard.writeText(window.location.href);
+      await navigator.clipboard.writeText(shareUrl);
       setCopiedLink(true);
       setTimeout(() => setCopiedLink(false), 2000);
     } catch {
@@ -52,7 +58,7 @@ export function ShareAartiModal({ isOpen, onClose, aarti }: ShareAartiModalProps
   const handleCopyLyrics = async () => {
     try {
       const fullLyrics = aarti.verses.map(v => v.lines.join('\n')).join('\n\n');
-      const textToCopy = `${aarti.title}\n${aarti.deity ? `देवता: ${aarti.deity}\n` : ''}\n${fullLyrics}\n\n— Shared from Aarti Sangrah (आरती संग्रह)`;
+      const textToCopy = `${aarti.title}\n${aarti.deity ? `देवता: ${aarti.deity}\n` : ''}\n${fullLyrics}\n\n— Shared from Aarti Sangrah (आरती संग्रह)\n${shareUrl}`;
       await navigator.clipboard.writeText(textToCopy);
       setCopiedText(true);
       setTimeout(() => setCopiedText(false), 2000);
@@ -62,12 +68,27 @@ export function ShareAartiModal({ isOpen, onClose, aarti }: ShareAartiModalProps
   };
 
   const handleNativeShare = async () => {
+    if (Capacitor.isNativePlatform()) {
+      try {
+        await Share.share({
+          title: aarti.title,
+          text: `Read and sing ${aarti.title} on Aarti Sangrah`,
+          url: shareUrl,
+          dialogTitle: `Share ${aarti.title}`,
+        });
+        onClose();
+      } catch (err) {
+        console.warn('Native share dismissed', err);
+      }
+      return;
+    }
+
     if (navigator.share) {
       try {
         await navigator.share({
           title: aarti.title,
           text: `Read and sing ${aarti.title} on Aarti Sangrah`,
-          url: window.location.href,
+          url: shareUrl,
         });
         onClose();
       } catch (err) {

@@ -1,9 +1,50 @@
+# Dependencies
 node_modules/
-build/
+
+# Production Builds
 dist/
+build/
+
+# Testing & Logs
 coverage/
-.DS_Store
 *.log
+
+# Environment variables
 .env*
 !.env.example
+
+# Lockfiles (as configured)
 package-lock.json
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.cxx/
+android/captures/
+android/.navigation/
+
+# iOS
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/App/*.xcworkspace/xcuserdata/
+ios/App/*.xcodeproj/xcuserdata/
+ios/App/*.xcodeproj/project.xcworkspace/xcuserdata/
+ios/App/CapApp-SPM/.build/
+
+# Mobile Signing & Keystores (Security)
+*.jks
+*.keystore
+*.p12
+*.mobileprovision

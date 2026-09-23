@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Aarti Sangrah</string>
+    <string name="title_activity_main">Aarti Sangrah</string>
+    <string name="package_name">com.yantralab.aarti</string>
+    <string name="custom_url_scheme">com.yantralab.aarti</string>
+</resources>
