@@ -13,8 +13,6 @@ coverage/
 .env*
 !.env.example
 
-# Lockfiles (as configured)
-package-lock.json
 
 # Operating System & IDE
 .DS_Store
