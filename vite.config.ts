@@ -12,7 +12,22 @@ export default defineConfig(() => {
       tailwindcss(),
       VitePWA({
         registerType: 'autoUpdate',
-        includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
+        includeAssets: [
+          'favicon.ico',
+          'apple-touch-icon.png',
+          'as-logo.ico',
+          'as-logo-16x16.png',
+          'as-logo-32x32.png',
+          'as-logo-48x48.png',
+          'as-logo-64x64.png',
+          'as-logo-128x128.png',
+          'as-logo-192x192.png',
+          'as-logo-256x256.png',
+          'as-logo-512x512.png',
+          'pwa-192x192.png',
+          'pwa-512x512.png',
+          'header.png'
+        ],
         manifest: {
           name: 'Aarti Sangrah',
           short_name: 'Aarti',
@@ -21,17 +36,22 @@ export default defineConfig(() => {
           background_color: '#fdfbf7',
           icons: [
             {
-              src: 'pwa-192x192.png',
+              src: 'as-logo-192x192.png',
               sizes: '192x192',
               type: 'image/png'
             },
             {
-              src: 'pwa-512x512.png',
+              src: 'as-logo-256x256.png',
+              sizes: '256x256',
+              type: 'image/png'
+            },
+            {
+              src: 'as-logo-512x512.png',
               sizes: '512x512',
               type: 'image/png'
             },
             {
-              src: 'pwa-512x512.png',
+              src: 'as-logo-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any maskable'
