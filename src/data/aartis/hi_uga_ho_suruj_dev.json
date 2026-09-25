@@ -1,0 +1,198 @@
+{
+  "id": "hi_uga_ho_suruj_dev",
+  "slug": "uga-ho-suruj-dev",
+  "title": "उगा हो सुरुज देव (छठ गीत)",
+  "transliteration": "Uga Ho Suruj Dev (Chhath Geet)",
+  "alternativeTitles": [
+    "उगा हो सुरुज देव",
+    "भइल अरघ के बेर",
+    "छठ पूजा: उगा हो सुरुज देव",
+    "Uga Ho Suruj Dev",
+    "Bhail Aragh Ke Ber",
+    "Jaldi-Jaldi Ugeen He Suruj Dev"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "uga",
+    "ho",
+    "suruj",
+    "dev",
+    "sooruj",
+    "surya",
+    "aragh",
+    "ber",
+    "supwa",
+    "daura",
+    "vratiya",
+    "vratinia",
+    "kera",
+    "thekua",
+    "nariyar",
+    "deenanaath",
+    "kiriniya",
+    "ujiyaar",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "उगा",
+    "सुरुज",
+    "देव",
+    "सूरज",
+    "अरघ",
+    "बेर",
+    "व्रतिनिया",
+    "सुपवा",
+    "दउरा",
+    "ठेकुआ",
+    "केरा",
+    "दीनानाथ",
+    "उजियार"
+  ],
+  "source": "Traditional Chhath Mahaparv Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ।",
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥",
+        "जल्दी-जल्दी उगीं हे सुरुज देव,",
+        "अरघ दिहें व्रती केर ।",
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ।",
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥",
+        "Jaldi-Jaldi Ugeen He Suruj Dev,",
+        "Aragh Dihein Vrati Ker ।",
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "राती बीतल, भोर भइल,",
+        "पूरुब दिशा ललकार ।",
+        "घाटे ठाढ़ व्रतिनिया,",
+        "जोहे रउरा बाट ॥"
+      ],
+      "transliteratedLines": [
+        "Raati Beetal, Bhor Bhail,",
+        "Poorub Disha Lalakaar ।",
+        "Ghaate Thaadh Vratiniya,",
+        "Johe Raura Baat ॥"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "हाथे सुपवा, माथे दउरा,",
+        "फल-फूल भरल अपार ।",
+        "जल में ठाढ़ी व्रतिनिया,",
+        "करे सुरुज के पुकार ॥"
+      ],
+      "transliteratedLines": [
+        "Haathe Supawa, Maathe Daura,",
+        "Phal-Phool Bharal Apaar ।",
+        "Jal Mein Thaadhee Vratiniya,",
+        "Kare Suruj Ke Pukaar ॥"
+      ]
+    },
+    {
+      "id": "c3",
+      "isChorus": true,
+      "lines": [
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "नारियर, केरा, ठेकुआ सजल,",
+        "दीप जरत चहुँ ओर ।",
+        "दर्शन दीहीं हे दीनानाथ,",
+        "अब ना लगाईं देर ॥"
+      ],
+      "transliteratedLines": [
+        "Naariyar, Kera, Thekua Sajal,",
+        "Deep Jarat Chahun Or ।",
+        "Darshan Deeheen He Deenanaath,",
+        "Ab Na Lagaaeen Der ॥"
+      ]
+    },
+    {
+      "id": "c4",
+      "isChorus": true,
+      "lines": [
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "पूरुब से किरिनिया फूटल,",
+        "जग में भइल उजियार ।",
+        "हाथ जोड़ि सब अरघ चढ़ावे,",
+        "जय-जय सुरुज भगवान ॥"
+      ],
+      "transliteratedLines": [
+        "Poorub Se Kiriniya Phootal,",
+        "Jag Mein Bhail Ujiyaar ।",
+        "Haath Jodi Sab Aragh Chadhaawe,",
+        "Jai-Jai Suruj Bhagavaan ॥"
+      ]
+    },
+    {
+      "id": "c5",
+      "isChorus": true,
+      "lines": [
+        "उगा हो सुरुज देव,",
+        "भइल अरघ के बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Uga Ho Suruj Dev,",
+        "Bhail Aragh Ke Ber ॥"
+      ]
+    }
+  ]
+}

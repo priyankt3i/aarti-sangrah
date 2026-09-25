@@ -1,0 +1,157 @@
+{
+  "id": "hi_ho_deenanaath_sun_leen_pukaar",
+  "slug": "ho-deenanaath-sun-leen-pukaar",
+  "title": "हो दीनानाथ सुन लीं पुकार (छठ गीत)",
+  "transliteration": "Ho Deenanaath Sun Leen Pukaar (Chhath Geet)",
+  "alternativeTitles": [
+    "हो दीनानाथ, सुन लीं पुकार",
+    "आइल बानी तोहरे द्वार",
+    "छठ पूजा: हो दीनानाथ सुन लीं पुकार",
+    "Ho Deenanaath Sun Leen Pukaar",
+    "Aail Baani Tohre Dwaar",
+    "Chhath Geet Ho Deenanaath",
+    "Raakheen Apna Dulaar"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 4,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "deenanaath",
+    "surya",
+    "sooruj",
+    "pukaar",
+    "dwaar",
+    "bhor",
+    "lalayil",
+    "kiriniya",
+    "darshan",
+    "ghaat",
+    "daura",
+    "thekua",
+    "prasaad",
+    "aabaad",
+    "dulaar",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "दीनानाथ",
+    "पुकार",
+    "द्वार",
+    "भोर",
+    "ललाइल",
+    "किरिनिया",
+    "दर्शन",
+    "घाट",
+    "दउरा",
+    "ठेकुआ",
+    "परसाद",
+    "आबाद",
+    "दुलार",
+    "सूर्य"
+  ],
+  "source": "Traditional Chhath Mahaparv Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "हो दीनानाथ, सुन लीं पुकार,",
+        "आइल बानी तोहरे द्वार ।",
+        "हाथ जोड़ि विनती करीं,",
+        "राखीं सबके मान ॥"
+      ],
+      "transliteratedLines": [
+        "Ho Deenanaath, Sun Leen Pukaar,",
+        "Aail Baani Tohre Dwaar ।",
+        "Haath Jodi Vinati Kareen,",
+        "Raakheen Sabke Maan ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "भोर भइल पूरब ललाइल,",
+        "किरिनिया चमके अपार ।",
+        "तोहरे दर्शन खातिर प्रभुजी,",
+        "ठाढ़ बानी हम घाट ॥"
+      ],
+      "transliteratedLines": [
+        "Bhor Bhail Poorab Lalayil,",
+        "Kiriniya Chamke Apaar ।",
+        "Tohre Darshan Khaatir Prabhuji,",
+        "Thadh Baani Ham Ghaat ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "दउरा भरल फल-फूल से,",
+        "ठेकुआ के परसाद ।",
+        "मन में केवल आस बा एतना,",
+        "रहीं सदा आबाद ॥"
+      ],
+      "transliteratedLines": [
+        "Daura Bharal Phal-Phool Se,",
+        "Thekua Ke Parasaad ।",
+        "Man Mein Keval Aas Ba Etnam,",
+        "Raheen Sada Aabaad ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "बाल-बच्चा सुख से रहस,",
+        "घर में रहे उजियार ।",
+        "रोग-दुख संकट दूर करीं,",
+        "हे सूर्य देव हमार ॥"
+      ],
+      "transliteratedLines": [
+        "Baal-Bachcha Sukh Se Rahas,",
+        "Ghar Mein Rahe Ujiyaar ।",
+        "Rog-Dukh Sankat Door Kareen,",
+        "He Soorya Dev Hamaar ॥"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "जल के भीतर दीप जरावीं,",
+        "करीं तोहरा प्रणाम ।",
+        "छठी मइया संग कृपा करीं,",
+        "पूरा करीं अरमान ॥"
+      ],
+      "transliteratedLines": [
+        "Jal Ke Bheetar Deep Jaraaveen,",
+        "Kareen Tohra Pranaam ।",
+        "Chhathi Maiya Sang Kripa Kareen,",
+        "Poora Kareen Armaan ॥"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "हो दीनानाथ, सुन लीं पुकार,",
+        "आइल बानी तोहरे द्वार ।",
+        "जनम-जनम हम शीश नवाईं,",
+        "राखीं अपना दुलार ॥"
+      ],
+      "transliteratedLines": [
+        "Ho Deenanaath, Sun Leen Pukaar,",
+        "Aail Baani Tohre Dwaar ।",
+        "Janam-Janam Ham Sheesh Navaaee,",
+        "Raakheen Apna Dulaar ॥"
+      ]
+    }
+  ]
+}

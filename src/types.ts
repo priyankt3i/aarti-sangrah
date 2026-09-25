@@ -14,6 +14,8 @@ export type Aarti = {
   transliteration?: string;
   alternativeTitles: string[];
   language: LanguageCode;
+  dialect?: string;
+  regionalLanguage?: string;
   deity: string;
   category: string;
   durationMinutes: number;

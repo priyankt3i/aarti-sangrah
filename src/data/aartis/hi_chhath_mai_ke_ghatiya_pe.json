@@ -1,0 +1,161 @@
+{
+  "id": "hi_chhath_mai_ke_ghatiya_pe",
+  "slug": "chhathi-mai-ke-ghatiya-pe",
+  "title": "छठी माई के घटिया पे (छठ गीत)",
+  "transliteration": "Chhathi Mai Ke Ghatiya Pe (Chhath Geet)",
+  "alternativeTitles": [
+    "छठ पूजा: छठी माई के घटिया पे",
+    "छठी माई के घटिया पे",
+    "Chhathi Mai Ke Ghatiya Pe",
+    "Chhath Geet",
+    "Godiya Mein Hoihe Balakawa",
+    "छठ पूजा गीत"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 4,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "mai",
+    "maiya",
+    "ghatiya",
+    "pe",
+    "aajan",
+    "baajan",
+    "baja",
+    "bajwaib",
+    "godiya",
+    "hoihe",
+    "balakawa",
+    "aragh",
+    "deve",
+    "aaib",
+    "lalan",
+    "bina",
+    "chhachanela",
+    "manawa",
+    "gharwa",
+    "anganwa",
+    "jalasa",
+    "aas",
+    "bajhini",
+    "suruj",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "माई",
+    "घटिया",
+    "अरघ",
+    "बलकवा",
+    "सूरूज",
+    "ललन",
+    "मनवा",
+    "बझिनी"
+  ],
+  "source": "Traditional Chhath Mahaparv Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "छठी माई के घटिया पे,",
+        "आजन बाजन, बाजा बजवाईब हो ।",
+        "छठी माई के घटिया पे,",
+        "आजन बाजन, बाजा बजवाईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ॥"
+      ],
+      "transliteratedLines": [
+        "Chhathi Mai Ke Ghatiya Pe,",
+        "Aajan Baajan, Baaja Bajawaaeb Ho ।",
+        "Chhathi Mai Ke Ghatiya Pe,",
+        "Aajan Baajan, Baaja Bajawaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "एक ही ललन बिना, छछनेला मनवा,",
+        "सुन सान लागे हमरो, घरवा अंगनवा ।",
+        "एक ही ललन बिना, छछनेला मनवा,",
+        "सुन सान लागे हमरो, घरवा अंगनवा ।",
+        "पूरा होईहे दिलवा के ललसा त,",
+        "जलसा कराईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ॥"
+      ],
+      "transliteratedLines": [
+        "Ek Hi Lalan Bina, Chhachanela Manawa,",
+        "Sun Saan Laage Hamaro, Gharawa Anganawa ।",
+        "Ek Hi Lalan Bina, Chhachanela Manawa,",
+        "Sun Saan Laage Hamaro, Gharawa Anganawa ।",
+        "Poora Hoihe Dilawa Ke Lalasa Ta,",
+        "Jalasa Karaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "मनवा में आस लेके, रोवेली बझिनी,",
+        "कहिया बसईबू छठी माई, हमरो दुनिया,",
+        "कहिया बसईबू छठी माई, हमरो दुनिया ।",
+        "अइसन सुंदर फल पाईब,",
+        "सूरूज गोहराईब हो,",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ॥"
+      ],
+      "transliteratedLines": [
+        "Manawa Mein Aas Leke, Roveli Bajhini,",
+        "Kahiya Basaeboo Chhathi Mai, Hamaro Duniya,",
+        "Kahiya Basaeboo Chhathi Mai, Hamaro Duniya ।",
+        "Aisan Sundar Phal Paaeb,",
+        "Sooruj Goharaaeb Ho,",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ॥"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "छठी माई के घटिया पे,",
+        "आजन बाजन, बाजा बजवाईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ।",
+        "गोदीया में होईहे बलकवा,",
+        "अरघ देवे आईब हो ॥"
+      ],
+      "transliteratedLines": [
+        "Chhathi Mai Ke Ghatiya Pe,",
+        "Aajan Baajan, Baaja Bajawaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ।",
+        "Godiya Mein Hoihe Balakawa,",
+        "Aragh Deve Aaaeb Ho ॥"
+      ]
+    }
+  ]
+}

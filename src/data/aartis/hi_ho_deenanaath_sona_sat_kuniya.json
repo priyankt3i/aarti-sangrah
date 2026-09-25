@@ -1,0 +1,160 @@
+{
+  "id": "hi_ho_deenanaath_sona_sat_kuniya",
+  "slug": "ho-deenanaath-sona-sat-kuniya",
+  "title": "हो दीनानाथ (सोना सट कुनिया - छठ गीत)",
+  "transliteration": "Ho Deenanaath (Sona Sat Kuniya - Chhath Geet)",
+  "alternativeTitles": [
+    "सोना सट कुनिया, हो दीनानाथ",
+    "हे घूमइछा संसार",
+    "छठ पूजा: सोना सट कुनिया",
+    "Sona Sat Kuniya Ho Deenanaath",
+    "Ghoomai Chha Sansaar",
+    "Aaju Ke Dinwa Ho Deenanaath"
+  ],
+  "language": "hi",
+  "dialect": "मैथिली (Maithili)",
+  "regionalLanguage": "Maithili",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "sona",
+    "sat",
+    "kuniya",
+    "deenanaath",
+    "ghoomaichha",
+    "sansaar",
+    "aan",
+    "din",
+    "bhor",
+    "bhinsaar",
+    "aaju",
+    "dinwa",
+    "eti",
+    "ber",
+    "abala",
+    "anhara",
+    "ankhiya",
+    "baajhiniya",
+    "baajhin",
+    "balak",
+    "maithili",
+    "bhojpuri",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "सोना",
+    "सट",
+    "कुनिया",
+    "दीनानाथ",
+    "घूमइछा",
+    "संसार",
+    "भिनसार",
+    "अन्हरा",
+    "अँखिया",
+    "बाझिनिया",
+    "बालक",
+    "मैथिली"
+  ],
+  "source": "Traditional Maithili/Bhojpuri Chhath Geet (Sharda Sinha)",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "सोना सट कुनिया, हो दीनानाथ,",
+        "हे घूमइछा संसार ।",
+        "हे घूमइछा संसार ॥",
+        "सोना सट कुनिया, हो दीनानाथ,",
+        "हे घूमइछा संसार ।",
+        "हे घूमइछा संसार ॥"
+      ],
+      "transliteratedLines": [
+        "Sona Sat Kuniya, Ho Deenanaath,",
+        "He Ghoomai Chha Sansaar ।",
+        "He Ghoomai Chha Sansaar ॥",
+        "Sona Sat Kuniya, Ho Deenanaath,",
+        "He Ghoomai Chha Sansaar ।",
+        "He Ghoomai Chha Sansaar ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "आन दिन उगइ छा, हो दीनानाथ,",
+        "आहे भोर भिनसार ।",
+        "आहे भोर भिनसार ॥",
+        "आजू के दिनवा, हो दीनानाथ,",
+        "हे लागल एती बेर ।",
+        "हे लागल एती बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Aan Din Ugai Chha, Ho Deenanaath,",
+        "Aahe Bhor Bhinsaar ।",
+        "Aahe Bhor Bhinsaar ॥",
+        "Aaju Ke Dinwa, Ho Deenanaath,",
+        "He Laagal Eti Ber ।",
+        "He Laagal Eti Ber ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "बाट में भेटिए गेल गे अबला,",
+        "एकटा अन्हरा पुरुष ।",
+        "एकटा अन्हरा पुरुष ॥",
+        "अँखिया दियेते गे अबला,",
+        "हे लागल एती बेर ।",
+        "हे लागल एती बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Baat Mein Bhetiye Gel Ge Abala,",
+        "Ekta Anhara Purush ।",
+        "Ekta Anhara Purush ॥",
+        "Ankhiya Diyete Ge Abala,",
+        "He Laagal Eti Ber ।",
+        "He Laagal Eti Ber ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "बाट में भेटिए गेल गे अबला,",
+        "एकटा बाझिनिया ।",
+        "एकटा बाझिनिया ॥",
+        "बालक दियेते गे अबला,",
+        "हे लागल एती बेर ।",
+        "हे लागल एती बेर ॥"
+      ],
+      "transliteratedLines": [
+        "Baat Mein Bhetiye Gel Ge Abala,",
+        "Ekta Baajhiniya ।",
+        "Ekta Baajhiniya ॥",
+        "Baalak Diyete Ge Abala,",
+        "He Laagal Eti Ber ।",
+        "He Laagal Eti Ber ॥"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "सोना सट कुनिया, हो दीनानाथ,",
+        "हे घूमइछा संसार ।",
+        "हे घूमइछा संसार ॥"
+      ],
+      "transliteratedLines": [
+        "Sona Sat Kuniya, Ho Deenanaath,",
+        "He Ghoomai Chha Sansaar ।",
+        "He Ghoomai Chha Sansaar ॥"
+      ]
+    }
+  ]
+}

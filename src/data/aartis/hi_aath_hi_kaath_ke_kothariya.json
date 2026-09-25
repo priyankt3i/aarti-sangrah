@@ -1,0 +1,151 @@
+{
+  "id": "hi_aath_hi_kaath_ke_kothariya",
+  "slug": "aath-hi-kaath-ke-kothariya",
+  "title": "आठ ही काठ के कोठरिया (छठ गीत)",
+  "transliteration": "Aath Hi Kaath Ke Kothariya (Chhath Geet)",
+  "alternativeTitles": [
+    "आठ ही काठ के कोठरिया हो दीनानाथ",
+    "रूपे छन लागल केवाड़",
+    "छठ पूजा: आठ ही काठ के कोठरिया",
+    "Aath Hi Kaath Ke Kothariya",
+    "Rupe Chhan Laagal Kevaad",
+    "Ho Deenanaath Aath Hi Kaath"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "aath",
+    "kaath",
+    "kothariya",
+    "deenanaath",
+    "rupe",
+    "kevaad",
+    "baanjhi",
+    "vratinia",
+    "anhara",
+    "kodhiya",
+    "nirdhan",
+    "niputar",
+    "nihaal",
+    "surya",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "आठ",
+    "काठ",
+    "कोठरिया",
+    "दीनानाथ",
+    "केवाड़",
+    "बाँझी",
+    "व्रतिनिया",
+    "अन्हरा",
+    "कोढ़िया",
+    "निर्धन",
+    "निपुतर",
+    "निहाल",
+    "सूर्य"
+  ],
+  "source": "Traditional Bhojpuri Chhath Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "v1",
+      "lines": [
+        "आठ ही काठ के कोठरिया हो दीनानाथ,",
+        "रूपे छन लागल केवाड़ ।",
+        "ताही ऊपर चढ़ि सूतले हो दीनानाथ,",
+        "बाँझी केवड़वा धइले ठाढ़ ॥"
+      ],
+      "transliteratedLines": [
+        "Aath Hee Kaath Ke Kothariya Ho Deenanaath,",
+        "Roope Chhan Laagal Kevaad ।",
+        "Taahi Oopar Chadhi Sootale Ho Deenanaath,",
+        "Baanjhi Kevadawa Dhaile Thaadh ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "कवन देई अइली मोरा दुअरा हो दीनानाथ,",
+        "कवन फल माँगे आज ? ",
+        "हाथ जोड़ि विनती करे व्रतिनिया,",
+        "सुन लीं हे दीनानाथ ॥"
+      ],
+      "transliteratedLines": [
+        "Kawan Dayee Aili Mora Duara Ho Deenanaath,",
+        "Kawan Phal Maange Aaj ? ",
+        "Haath Jodi Vinati Kare Vratiniya,",
+        "Sun Leen He Deenanaath ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "अन्हरा के आँख दिहले हो दीनानाथ,",
+        "कोढ़िया के दिहले काया ।",
+        "हँसत-बोलत घर के भेजल,",
+        "महिमा तोहार अपार ॥"
+      ],
+      "transliteratedLines": [
+        "Anhara Ke Aankh Dihale Ho Deenanaath,",
+        "Kodhiya Ke Dihale Kaaya ।",
+        "Hansat-Bolat Ghar Ke Bhejal,",
+        "Mahima Tohaar Apaar ॥"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "निर्धन के धन दिहले हो दीनानाथ,",
+        "निपुतर के दिहले लाल ।",
+        "जे-जे आइल तोहरे दुअरिया,",
+        "सबके कइल निहाल ॥"
+      ],
+      "transliteratedLines": [
+        "Nirdhan Ke Dhan Dihale Ho Deenanaath,",
+        "Niputar Ke Dihale Laal ।",
+        "Je-Je Aail Tohre Duariya,",
+        "Sabke Kail Nihaal ॥"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "आठ ही काठ के कोठरिया हो दीनानाथ,",
+        "रूपे छन लागल केवाड़ ।",
+        "ताही ऊपर चढ़ि सूतले हो दीनानाथ,",
+        "व्रतिनिया धइले ठाढ़ ॥"
+      ],
+      "transliteratedLines": [
+        "Aath Hee Kaath Ke Kothariya Ho Deenanaath,",
+        "Roope Chhan Laagal Kevaad ।",
+        "Taahi Oopar Chadhi Sootale Ho Deenanaath,",
+        "Vratiniya Dhaile Thaadh ॥"
+      ]
+    },
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "जय दीनानाथ ।",
+        "जय सूर्य भगवान ।",
+        "जय छठी मइया ॥"
+      ],
+      "transliteratedLines": [
+        "Jai Deenanaath ।",
+        "Jai Soorya Bhagavaan ।",
+        "Jai Chhathi Maiya ॥"
+      ]
+    }
+  ]
+}

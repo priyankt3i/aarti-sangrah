@@ -1,0 +1,224 @@
+{
+  "id": "hi_kelwa_ke_paat_par_ugelan_suraj_dev",
+  "slug": "kelwa-ke-paat-par",
+  "title": "केलवा के पात पर (छठ गीत)",
+  "transliteration": "Kelwa Ke Paat Par (Chhath Geet)",
+  "alternativeTitles": [
+    "केलवा के पात पर",
+    "उगेलन सुरुज मल झाँके-झुके",
+    "छठ पूजा: केलवा के पात पर",
+    "Kelwa Ke Paat Par",
+    "Ugelan Suruj Mal Jhaanke-Jhuke",
+    "Kelwa Ke Paat Par Ugelan Suraj Dev"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 6,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "kelwa",
+    "paat",
+    "ugelan",
+    "suruj",
+    "mal",
+    "jhaanke",
+    "jhuke",
+    "baratiya",
+    "betwa",
+    "swami",
+    "bitiya",
+    "amrood",
+    "nariyar",
+    "pawan",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "केलवा",
+    "पात",
+    "सुरुज",
+    "मल",
+    "झाँके",
+    "झुके",
+    "बरतिया",
+    "बेटवा",
+    "स्वामी",
+    "बिटिया",
+    "अमरूद",
+    "नारियर",
+    "पवन"
+  ],
+  "source": "Traditional Chhath Mahaparv Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "केलवा के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ।",
+        "केलवा के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ॥",
+        "के करेलू छठ बरतिया,",
+        "से झाँके-झुके ।",
+        "के करेलू छठ बरतिया,",
+        "से झाँके-झुके ॥"
+      ],
+      "transliteratedLines": [
+        "Kelwa Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ।",
+        "Kelwa Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ॥",
+        "Ke Karelu Chhath Baratiya,",
+        "Se Jhaanke-Jhuke ।",
+        "Ke Karelu Chhath Baratiya,",
+        "Se Jhaanke-Jhuke ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? ",
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? ",
+        "हे करेलू छठ बरतिया,",
+        "से केकरा लागी ? ",
+        "हे करेलू छठ बरतिया,",
+        "से केकरा लागी ? "
+      ],
+      "transliteratedLines": [
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? ",
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? ",
+        "He Karelu Chhath Baratiya,",
+        "Se Kekara Laagi ? ",
+        "He Karelu Chhath Baratiya,",
+        "Se Kekara Laagi ? "
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "हमरो जे बेटवा,",
+        "पवन अइसन बेटवा, उनके लागी ।",
+        "हमरो जे बेटवा,",
+        "पवन अइसन बेटवा, उनके लागी ॥",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ।",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ॥"
+      ],
+      "transliteratedLines": [
+        "Hamro Je Betwa,",
+        "Pawan Aisan Betwa, Unke Laagi ।",
+        "Hamro Je Betwa,",
+        "Pawan Aisan Betwa, Unke Laagi ॥",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ।",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "अमरूद के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ।",
+        "अमरूद के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ॥",
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? ",
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? "
+      ],
+      "transliteratedLines": [
+        "Amrood Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ।",
+        "Amrood Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ॥",
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? ",
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? "
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "हमरो जे स्वामी,",
+        "पवन अइसन स्वामी, उनके लागी ।",
+        "हमरो जे स्वामी,",
+        "पवन अइसन स्वामी, उनके लागी ॥",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ।",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ॥"
+      ],
+      "transliteratedLines": [
+        "Hamro Je Swami,",
+        "Pawan Aisan Swami, Unke Laagi ।",
+        "Hamro Je Swami,",
+        "Pawan Aisan Swami, Unke Laagi ॥",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ।",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ॥"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "नारियर के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ।",
+        "नारियर के पात पर,",
+        "उगेलन सुरुज मल झाँके-झुके ॥",
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? ",
+        "हम तोसे पूछीं बरतिया,",
+        "ए बरतिया, केकरा लागी ? "
+      ],
+      "transliteratedLines": [
+        "Naariyar Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ।",
+        "Naariyar Ke Paat Par,",
+        "Ugelan Suruj Mal Jhaanke-Jhuke ॥",
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? ",
+        "Ham Tose Poochheen Baratiya,",
+        "Ae Baratiya, Kekara Laagi ? "
+      ]
+    },
+    {
+      "id": "v6",
+      "lines": [
+        "हमरो जे बिटिया,",
+        "पवन अइसन बिटिया, उनके लागी ।",
+        "हमरो जे बिटिया,",
+        "पवन अइसन बिटिया, उनके लागी ॥",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ।",
+        "हे करेली छठ बरतिया,",
+        "से उनके लागी ॥"
+      ],
+      "transliteratedLines": [
+        "Hamro Je Bitiya,",
+        "Pawan Aisan Bitiya, Unke Laagi ।",
+        "Hamro Je Bitiya,",
+        "Pawan Aisan Bitiya, Unke Laagi ॥",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ।",
+        "He Kareli Chhath Baratiya,",
+        "Se Unke Laagi ॥"
+      ]
+    }
+  ]
+}

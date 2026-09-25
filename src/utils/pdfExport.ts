@@ -82,7 +82,7 @@ export async function generateAartiPdf(
         <div style="display: inline-flex; align-items: center; gap: 12px; background: #fdfbf7; border: 1px solid #e2d5c3; border-radius: 20px; padding: 4px 18px; font-size: 13px; color: #781f19; font-weight: 600;">
           <span>${aarti.deity ? `देवता: ${aarti.deity}` : `वर्ग: ${aarti.category}`}</span>
           <span>•</span>
-          <span>भाषा: ${aarti.language.toUpperCase()}</span>
+          <span>भाषा: ${aarti.dialect || aarti.language.toUpperCase()}</span>
           <span>•</span>
           <span>Aarti Sangrah Edition</span>
         </div>

@@ -1,8 +1,12 @@
-import { Languages } from 'lucide-react';
+import { Languages, Calendar } from 'lucide-react';
 import { usePreferences } from '../hooks/usePreferences';
 import { cn } from '../lib/utils';
 
-export function Header() {
+interface HeaderProps {
+  onOpenCalendar?: () => void;
+}
+
+export function Header({ onOpenCalendar }: HeaderProps = {}) {
   const { preferences, updatePreference } = usePreferences();
   
   return (
@@ -21,19 +25,31 @@ export function Header() {
           />
           <h1 className="sr-only">Aarti Sangrah</h1>
         </div>
-        <button
-          onClick={() => updatePreference('showTransliteration', !preferences.showTransliteration)}
-          className={cn(
-            "p-2 rounded-full transition-colors flex items-center gap-2",
-            preferences.showTransliteration 
-              ? "bg-[#781f19]/10 text-[#781f19] dark:bg-[#ffb067]/10 dark:text-[#ffb067]" 
-              : "text-[#8a6b6b] dark:text-[#a09c9c] hover:bg-black/5 dark:hover:bg-white/5"
+        <div className="flex items-center gap-1">
+          {onOpenCalendar && (
+            <button
+              onClick={onOpenCalendar}
+              className="p-2 rounded-full transition-colors text-[#8a6b6b] dark:text-[#a09c9c] hover:bg-black/5 dark:hover:bg-white/5 hover:text-[#781f19] dark:hover:text-[#ffb067]"
+              aria-label="Open Hindu Festive Calendar"
+              title="पंचांग व पावन पर्व कैलेंडर (Hindu Festive Calendar)"
+            >
+              <Calendar size={22} />
+            </button>
           )}
-          aria-label="Toggle English Transliteration"
-          title="Toggle English Transliteration"
-        >
-          <Languages size={24} />
-        </button>
+          <button
+            onClick={() => updatePreference('showTransliteration', !preferences.showTransliteration)}
+            className={cn(
+              "p-2 rounded-full transition-colors flex items-center gap-2",
+              preferences.showTransliteration 
+                ? "bg-[#781f19]/10 text-[#781f19] dark:bg-[#ffb067]/10 dark:text-[#ffb067]" 
+                : "text-[#8a6b6b] dark:text-[#a09c9c] hover:bg-black/5 dark:hover:bg-white/5"
+            )}
+            aria-label="Toggle English Transliteration"
+            title="Toggle English Transliteration"
+          >
+            <Languages size={24} />
+          </button>
+        </div>
       </div>
     </header>
   );

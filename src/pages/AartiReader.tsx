@@ -161,7 +161,7 @@ export function AartiReader() {
             {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
           </h1>
           <p className="text-[#8a6b6b] dark:text-[#a09c9c]">
-            {aarti.deity} • ~{aarti.durationMinutes} mins
+            {aarti.deity} • {aarti.dialect ? `${aarti.dialect} • ` : ''}~{aarti.durationMinutes} mins
           </p>
 
           <div className="flex items-center justify-center gap-2 mt-3">

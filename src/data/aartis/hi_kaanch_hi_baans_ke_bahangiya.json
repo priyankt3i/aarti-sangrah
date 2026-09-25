@@ -1,0 +1,219 @@
+{
+  "id": "hi_kaanch_hi_baans_ke_bahangiya",
+  "slug": "kaanch-hi-baans-ke-bahangiya",
+  "title": "काँच ही बाँस के बहंगिया (छठ गीत)",
+  "transliteration": "Kaanch Hi Baans Ke Bahangiya (Chhath Geet)",
+  "alternativeTitles": [
+    "काँच ही बाँस के बहंगिया",
+    "बहंगी लचकत जाए",
+    "छठ पूजा: काँच ही बाँस के बहंगिया",
+    "Kaanch Hi Baans Ke Bahangiya",
+    "Bahangi Lachakat Jaye",
+    "Chhath Geet Bahangi"
+  ],
+  "language": "hi",
+  "dialect": "भोजपुरी (Bhojpuri)",
+  "regionalLanguage": "Bhojpuri",
+  "deity": "Chhathi Maiya",
+  "category": "Devi",
+  "durationMinutes": 5,
+  "searchKeywords": [
+    "chhath",
+    "chhathi",
+    "maiya",
+    "kaanch",
+    "baans",
+    "bahangi",
+    "bahangiya",
+    "lachakat",
+    "jaye",
+    "batohiya",
+    "aanhar",
+    "balam",
+    "devar",
+    "kahariya",
+    "kelwa",
+    "ghavad",
+    "suga",
+    "sugawa",
+    "dhanukh",
+    "sugani",
+    "aadit",
+    "surya",
+    "puja",
+    "geet",
+    "छठ",
+    "छठी",
+    "मइया",
+    "काँच",
+    "बाँस",
+    "बहंगिया",
+    "बहंगी",
+    "लचकत",
+    "बटोहिया",
+    "बलम",
+    "देवर",
+    "कहरिया",
+    "केलवा",
+    "सुगा",
+    "आदित"
+  ],
+  "source": "Traditional Chhath Mahaparv Geet",
+  "reviewed": true,
+  "updatedAt": "2026-09-25T12:00:00.000Z",
+  "verses": [
+    {
+      "id": "c1",
+      "isChorus": true,
+      "lines": [
+        "काँच ही बाँस के बहंगिया,",
+        "बहंगी लचकत जाए ।",
+        "बहंगी लचकत जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kaanch Hi Baans Ke Bahangiya,",
+        "Bahangi Lachakat Jaaye ।",
+        "Bahangi Lachakat Jaaye ॥"
+      ]
+    },
+    {
+      "id": "v1",
+      "lines": [
+        "बाट जे पूछेले बटोहिया,",
+        "बहंगी केकरा के जाए ? ",
+        "बहंगी केकरा के जाए ? ",
+        "तू त आन्हर हउवे रे बटोहिया,",
+        "बहंगी छठी मइया के जाए ।",
+        "बहंगी छठी मइया के जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Baat Je Poochhele Batohiya,",
+        "Bahangi Kekara Ke Jaaye ?",
+        "Bahangi Kekara Ke Jaaye ?",
+        "Tu Ta Aanhar Hauve Re Batohiya,",
+        "Bahangi Chhathi Maiya Ke Jaaye ।",
+        "Bahangi Chhathi Maiya Ke Jaaye ॥"
+      ]
+    },
+    {
+      "id": "c2",
+      "isChorus": true,
+      "lines": [
+        "काँच ही बाँस के बहंगिया,",
+        "बहंगी लचकत जाए ।",
+        "बहंगी लचकत जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kaanch Hi Baans Ke Bahangiya,",
+        "Bahangi Lachakat Jaaye ।",
+        "Bahangi Lachakat Jaaye ॥"
+      ]
+    },
+    {
+      "id": "v2",
+      "lines": [
+        "होई ना बलम जी कहरिया,",
+        "बहंगी घाटे पहुँचाए ।",
+        "बहंगी घाटे पहुँचाए ॥"
+      ],
+      "transliteratedLines": [
+        "Hoee Na Balam Jee Kahariya,",
+        "Bahangi Ghaate Pahunchaaye ।",
+        "Bahangi Ghaate Pahunchaaye ॥"
+      ]
+    },
+    {
+      "id": "c3",
+      "isChorus": true,
+      "lines": [
+        "काँच ही बाँस के बहंगिया,",
+        "बहंगी लचकत जाए ।",
+        "बहंगी लचकत जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kaanch Hi Baans Ke Bahangiya,",
+        "Bahangi Lachakat Jaaye ।",
+        "Bahangi Lachakat Jaaye ॥"
+      ]
+    },
+    {
+      "id": "v3",
+      "lines": [
+        "उहवें जे बाड़ी छठी मइया,",
+        "बहंगी उनहीं के जाए ।",
+        "बहंगी उनहीं के जाए ॥",
+        "होई ना देवर जी कहरिया,",
+        "बहंगी घाटे पहुँचाए ।",
+        "बहंगी घाटे पहुँचाए ॥"
+      ],
+      "transliteratedLines": [
+        "Uhavein Je Baadi Chhathi Maiya,",
+        "Bahangi Unheen Ke Jaaye ।",
+        "Bahangi Unheen Ke Jaaye ॥",
+        "Hoee Na Devar Jee Kahariya,",
+        "Bahangi Ghaate Pahunchaaye ।",
+        "Bahangi Ghaate Pahunchaaye ॥"
+      ]
+    },
+    {
+      "id": "c4",
+      "isChorus": true,
+      "lines": [
+        "काँच ही बाँस के बहंगिया,",
+        "बहंगी लचकत जाए ।",
+        "बहंगी लचकत जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kaanch Hi Baans Ke Bahangiya,",
+        "Bahangi Lachakat Jaaye ।",
+        "Bahangi Lachakat Jaaye ॥"
+      ]
+    },
+    {
+      "id": "v4",
+      "lines": [
+        "केलवा जे फरेला घवद से,",
+        "ओह पर सुगा मेड़राए ।",
+        "ओह पर सुगा मेड़राए ॥",
+        "मारबो रे सुगवा धनुख से,",
+        "सुगा गिरे मुरझाए ।",
+        "सुगा गिरे मुरझाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kelwa Je Farela Ghavad Se,",
+        "Oh Par Suga Medaraaye ।",
+        "Oh Par Suga Medaraaye ॥",
+        "Maarbo Re Sugawa Dhanukh Se,",
+        "Suga Gire Murjhaaye ।",
+        "Suga Gire Murjhaaye ॥"
+      ]
+    },
+    {
+      "id": "v5",
+      "lines": [
+        "सुगनी जे रोएली वियोग से,",
+        "आदित होईं ना सहाय ।",
+        "आदित होईं ना सहाय ॥"
+      ],
+      "transliteratedLines": [
+        "Sugani Je Roeli Viyog Se,",
+        "Aadit Hoeen Na Sahaye ।",
+        "Aadit Hoeen Na Sahaye ॥"
+      ]
+    },
+    {
+      "id": "c5",
+      "isChorus": true,
+      "lines": [
+        "काँच ही बाँस के बहंगिया,",
+        "बहंगी लचकत जाए ।",
+        "बहंगी लचकत जाए ॥"
+      ],
+      "transliteratedLines": [
+        "Kaanch Hi Baans Ke Bahangiya,",
+        "Bahangi Lachakat Jaaye ।",
+        "Bahangi Lachakat Jaaye ॥"
+      ]
+    }
+  ]
+}

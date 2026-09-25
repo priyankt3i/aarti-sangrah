@@ -73,6 +73,63 @@ describe('search utility and transliteration matching', () => {
     expect(matchesAartiQuery(naivedyaHindi, 'sada sarvada')).toBe(true);
     expect(matchesAartiQuery(naivedyaHindi, 'सदा सर्वदा')).toBe(true);
     expect(matchesAartiQuery(naivedyaHindi, 'kailas rana')).toBe(true);
+
+    const chhathGeet = aartis.find(a => a.id === 'hi_chhath_mai_ke_ghatiya_pe')!;
+    expect(chhathGeet).toBeDefined();
+    expect(matchesAartiQuery(chhathGeet, 'chhathi mai')).toBe(true);
+    expect(matchesAartiQuery(chhathGeet, 'छठी माई')).toBe(true);
+    expect(matchesAartiQuery(chhathGeet, 'ghatiya pe')).toBe(true);
+    expect(matchesAartiQuery(chhathGeet, 'balakawa')).toBe(true);
+    expect(matchesAartiQuery(chhathGeet, 'अरघ')).toBe(true);
+
+    const bahangiyaGeet = aartis.find(a => a.id === 'hi_kaanch_hi_baans_ke_bahangiya')!;
+    expect(bahangiyaGeet).toBeDefined();
+    expect(matchesAartiQuery(bahangiyaGeet, 'bahangiya')).toBe(true);
+    expect(matchesAartiQuery(bahangiyaGeet, 'बहंगिया')).toBe(true);
+    expect(matchesAartiQuery(bahangiyaGeet, 'लचकत जाए')).toBe(true);
+    expect(matchesAartiQuery(bahangiyaGeet, 'batohiya')).toBe(true);
+    expect(matchesAartiQuery(bahangiyaGeet, 'suga')).toBe(true);
+    expect(matchesAartiQuery(bahangiyaGeet, 'सुगवा')).toBe(true);
+
+    const kelwaGeet = aartis.find(a => a.id === 'hi_kelwa_ke_paat_par_ugelan_suraj_dev')!;
+    expect(kelwaGeet).toBeDefined();
+    expect(matchesAartiQuery(kelwaGeet, 'kelwa')).toBe(true);
+    expect(matchesAartiQuery(kelwaGeet, 'केलवा')).toBe(true);
+    expect(matchesAartiQuery(kelwaGeet, 'झाँके-झुके')).toBe(true);
+    expect(matchesAartiQuery(kelwaGeet, 'बरतिया')).toBe(true);
+    expect(matchesAartiQuery(kelwaGeet, 'amrood')).toBe(true);
+
+    const ugaGeet = aartis.find(a => a.id === 'hi_uga_ho_suruj_dev')!;
+    expect(ugaGeet).toBeDefined();
+    expect(matchesAartiQuery(ugaGeet, 'uga ho suruj dev')).toBe(true);
+    expect(matchesAartiQuery(ugaGeet, 'उगा हो सुरुज देव')).toBe(true);
+    expect(matchesAartiQuery(ugaGeet, 'supwa')).toBe(true);
+    expect(matchesAartiQuery(ugaGeet, 'सुपवा')).toBe(true);
+    expect(matchesAartiQuery(ugaGeet, 'ललकार')).toBe(true);
+
+    const deenanaathGeet = aartis.find(a => a.id === 'hi_ho_deenanaath_sun_leen_pukaar')!;
+    expect(deenanaathGeet).toBeDefined();
+    expect(matchesAartiQuery(deenanaathGeet, 'ho deenanaath')).toBe(true);
+    expect(matchesAartiQuery(deenanaathGeet, 'दीनानाथ')).toBe(true);
+    expect(matchesAartiQuery(deenanaathGeet, 'sun leen pukaar')).toBe(true);
+    expect(matchesAartiQuery(deenanaathGeet, 'ललाइल')).toBe(true);
+    expect(matchesAartiQuery(deenanaathGeet, 'दुलार')).toBe(true);
+
+    const sonaSatKuniya = aartis.find(a => a.id === 'hi_ho_deenanaath_sona_sat_kuniya')!;
+    expect(sonaSatKuniya).toBeDefined();
+    expect(matchesAartiQuery(sonaSatKuniya, 'sona sat kuniya')).toBe(true);
+    expect(matchesAartiQuery(sonaSatKuniya, 'सोना सट कुनिया')).toBe(true);
+    expect(matchesAartiQuery(sonaSatKuniya, 'भिनसार')).toBe(true);
+    expect(matchesAartiQuery(sonaSatKuniya, 'baajhiniya')).toBe(true);
+    expect(matchesAartiQuery(sonaSatKuniya, 'बाझिनिया')).toBe(true);
+
+    const aathKaath = aartis.find(a => a.id === 'hi_aath_hi_kaath_ke_kothariya')!;
+    expect(aathKaath).toBeDefined();
+    expect(matchesAartiQuery(aathKaath, 'aath hi kaath')).toBe(true);
+    expect(matchesAartiQuery(aathKaath, 'आठ ही काठ')).toBe(true);
+    expect(matchesAartiQuery(aathKaath, 'कोठरिया')).toBe(true);
+    expect(matchesAartiQuery(aathKaath, 'केवाड़')).toBe(true);
+    expect(matchesAartiQuery(aathKaath, 'kodhiya')).toBe(true);
   });
 
   it('continues matching original Indic script queries', () => {

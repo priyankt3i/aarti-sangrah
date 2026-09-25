@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { X, FileText, Share2, Copy, Check, Loader2, Sparkles } from 'lucide-react';
+import { X, FileText, Share2, Copy, Check, Loader2 } from 'lucide-react';
 import { Capacitor } from '@capacitor/core';
 import { Share } from '@capacitor/share';
 import { Aarti } from '../types';
@@ -143,8 +143,8 @@ export function ShareAartiModal({ isOpen, onClose, aarti }: ShareAartiModalProps
                 <div>
                   <div className="flex items-center gap-1.5">
                     <span className="font-semibold text-sm text-[#4a1515]">Branded PDF Document</span>
-                    <span className="inline-flex items-center gap-0.5 text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full bg-[#c2410c] text-white">
-                      <Sparkles size={10} /> Watermarked
+                    <span className="inline-flex items-center text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full bg-[#c2410c] text-white">
+                      Watermarked
                     </span>
                   </div>
                   <p className="text-xs text-[#8a6b6b] mt-0.5">

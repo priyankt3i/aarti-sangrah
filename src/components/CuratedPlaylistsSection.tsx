@@ -1,5 +1,5 @@
 import { useState, type MouseEvent } from 'react';
-import { Sun, Flame, Sparkles, Shield, Moon, Music, Heart, Plus, Check, Play, ChevronRight } from 'lucide-react';
+import { Sun, Flame, Shield, Moon, Music, Heart, Plus, Check, Play, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { curatedPlaylists, CuratedPlaylist } from '../data/curatedPlaylists';
 import { aartis } from '../data/aartis';
@@ -30,7 +30,6 @@ export function CuratedPlaylistsSection({
     switch (iconName) {
       case 'Sun': return <Sun size={18} className="text-amber-500" />;
       case 'Flame': return <Flame size={18} className="text-orange-500" />;
-      case 'Sparkles': return <Sparkles size={18} className="text-rose-500" />;
       case 'Shield': return <Shield size={18} className="text-amber-600" />;
       case 'Moon': return <Moon size={18} className="text-sky-500" />;
       case 'Music': return <Music size={18} className="text-amber-700" />;

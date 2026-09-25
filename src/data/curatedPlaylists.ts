@@ -5,7 +5,7 @@ export interface CuratedPlaylist {
   subtitle: string;
   description: string;
   badge: string;
-  iconName: 'Sun' | 'Sparkles' | 'Flame' | 'Shield' | 'Moon' | 'Music' | 'Heart';
+  iconName: 'Sun' | 'Flame' | 'Shield' | 'Moon' | 'Music' | 'Heart';
   gradient: string;
   aartiIds: string[];
 }
@@ -77,7 +77,7 @@ export const curatedPlaylists: CuratedPlaylist[] = [
     subtitle: 'Divine Mother Shakti hymns & garba stutis',
     description: 'Sacred Aartis celebrating Maa Ambe, Jagdamba Kali, Mahalakshmi, and Saraswati for Navratri, Friday pujas, and daily Devi devotion.',
     badge: 'Mata Ki Chowki',
-    iconName: 'Sparkles',
+    iconName: 'Flame',
     gradient: 'from-[#be123c] to-[#831843]',
     aartiIds: [
       'hi_ambe_gauri',

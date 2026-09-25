@@ -33,7 +33,7 @@ export function AartiCard({ aarti, isFavorite, onToggleFavorite, onAddToPlaylist
             {preferences.showTransliteration && aarti.transliteration ? aarti.transliteration : aarti.title}
           </h3>
           <p className="text-sm text-[#8a6b6b] dark:text-[#a09c9c] mt-1">
-            {aarti.deity} • {langLabel}
+            {aarti.deity} • {aarti.dialect || langLabel}
           </p>
         </div>
         <div className="flex items-center gap-1 shrink-0">
